@@ -1,0 +1,22 @@
+---
+title: Welcome to Philosophy
+subtitle: Philosophy 101 - Class 01
+format:
+  clean-revealjs:
+    self-contained: true
+author:
+  - name: Brian Weatherson
+    orcid: 0000-0002-0830-141X
+    email: weath@umich.edu
+    affiliations: University of Michigan
+date: 2023-08-29
+bibliography: refs.bib
+---
+
+# Welcome {background-color="#40666e"}
+
+## Introductions
+
+
+
+Hello world
