@@ -227,9 +227,7 @@ My work overlaps a lot with economics, and that might come through in what I tea
 
 ### Why not just have theorists in every other department?
 
-Because these theoretical debates often turn out to have a lot in common.
-
-Knowing something about some of them helps with the other ones.
+Because these theoretical debates often turn out to have a lot in common. Knowing something about some of them helps with the other ones.
 
 And there are very general things, especially about the nature of reasoning, but also about the nature of very general things like value, knowledge, existence, causation, etc, that are helpful across the various debates.
 
@@ -247,22 +245,101 @@ When I say some course elsewhere 'overlaps' with philosophy, does that mean that
 - Different courses, and different profs, will help with each.
 :::
 
-### What is Philosophy
-- Ethics
-- Epistemology
-- Political Philosophy
-- Metaphysics
-- Aesthetics
-- Philosophy of Mind
-- Philosophy of Language
-- Logic
+# Parts of Philosophy {background-color="#40666e"}
 
-Note the last six really overlap with other departments (go over what they are)
-The first two are everywhere - how do we discover things about the world, and what should we do with that information, are completely central questions to every field of study
-One of the reasons I want to spend a bit of time on climate change is that it makes these issues so vivid.
+## A Brief Guide
 
+### This is mostly so you recognise the words
 
-Caveat about metaphysics
-- Historically it was much more tied to epistemology - what must the world be like if we are to know about it
-- It was also much more closely tied to theology; if the world is fundamentally divine, either causally or constitutively, that's a very big thing that philosophy should have something to say about
-- And that's something we'll come back to a lot when discussing Hume's Dialogues
+I'm going to list eight areas of philosophy that a lot of courses cover.
+
+- Some courses cover things outside this list.
+- More commonly, we have courses that cover many parts of this list.
+
+---
+
+1. **Ethics** - how to live.
+2. **Epistemology** - what we can know, and how to reason well.
+3. **Metaphysics** - what the world is like, at a fundamental level.
+4. **Political Philosophy** - how to live together.
+5. **Aesthetics** - art, beauty, fiction, and related topics.
+6. **Philosophy of Mind** - what (human) minds are like.
+7. **Philosophy of Language** - how (human) language works.
+8. **Logic** - formal theories of implication.
+
+## History
+
+### Commitment to the record
+
+As well as these topics, we spend a lot of time in philosophy studying, and archiving, the history of study into them.
+
+In other disciplines this is sometimes offered as a very obscure topic.
+
+In philosophy it's central to the discipline.
+
+## Internal Overlaps
+
+### Courses that cover many parts
+
+Some philosophy courses look at philosophical topics from a certain perspective, or as they come up in certain contexts. These will cover many of these areas.
+
+### {.incremental}
+- Feminist philosophy courses might look at feminist ethical and political theories, but also feminist approaches to metaphysics, epistemology, and language.
+- Philosophy of science courses look at metaphysical, epistemological, and ethical/political questions that arise in science.
+###
+
+## External Overlaps (Very Roughly)
+
+| Area of Philosophy | External Discipline |
+|:------------------:|:--------------------|
+|   Ethics           |     Everything      |
+|   Epistemology     |     Everything      |
+|   Metaphysics      |      Physics        |
+|   Political Philosophy |  Political Science  |
+|   Aesthetics       |     Art, Film, etc  |
+|   Philosophy of Language  |  Linguistics  |
+|   Philosophy of Mind  |  Psychology  |
+|    Logic           |    Mathematics  |
+
+## Ethics and Epistemology
+
+### Why everywhere?
+
+Because in every discipline you need to think about:
+
+1. How do we find out about the part of the world that we're studying?
+2. What should we do with that information.
+
+The first is epistemology, the second is ethics. And they are unavoidable subjects.
+
+## Metaphysics and Physics
+
+### Hang on a second
+
+Is physics the study of what the world is really like, at the most fundamental level?
+
+Not on most theological pictures.
+
+And in the history of philosophy, metaphysics was more closely connected to theology than to physics, and we'll see that in Hume's _Dialogues_.
+
+## Metaphysics and Epistemology
+
+### The world is knowable
+
+Another thing we'll see, and Russell will have a lot to say about this, is the connection between our theories of what the world fundamentally is like, and our theories for how we can know about the world.
+
+A running concern over millennia is that if the world is as it appears, we couldn't possibly know about it. And this leads to some _interesting_ metaphysical views.
+
+This will come up in Russell's _Problems of Philosophy_.
+
+# For Next Time {background-color="#40666e"}
+
+## Reading
+
+### Yes there's reading
+
+Read chapter 1 of P. D. Magnus's (freely available) logic text _forall x_.
+
+This is available on Canvas.
+
+We are not doing logic in this course, but we need the basic concepts.
