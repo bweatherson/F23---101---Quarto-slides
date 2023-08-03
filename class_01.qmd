@@ -15,8 +15,254 @@ bibliography: refs.bib
 
 # Welcome {background-color="#40666e"}
 
-## Introductions
+## Where Are You?
+
+### Philosophy 101 - Introduction to Philosophy
+
+:::{.incremental}
+- You're in Philosophy 101 - Introduction to Philosophy.
+- And you're in Auditorium D, in Angell Hall.
+- I hope that's your intent this morning.
+- And I hope you'll be here most every morning, Tuesdays and Thursdays, through the end of term.
+::: 
+
+## Lecturer
+
+### Brian Weatherson
+
+::: columns
+::: {.column width="50%"}
+![Brian Weatherson](images/01/IMG_1140.png){height=500}
+:::
+
+::: {.column width="50%"}
+<weath@umich.edu>
+
+2207 Angell Hall
+
+Office Hours: XXXX
+:::
+:::
+
+## Discussion Section Leaders
+
+### XXXX and YYYY
+
+::: {#fig-elephants layout-ncol=2}
+
+![XXXX](Demo/images/kanagawa.jpg){height=300}
+
+![YYYY](Demo/images/kanagawa169.jpg){height=400}
+
+The discussion section leaders
+:::
+
+# This Course {background-color="#40666e"}
+
+## Course Overview
+
+### Four major parts
+
+:::{.incremental}
+1. Critical Thinking
+2. Bertrand Russell's 1912 book _The Problems of Philosophy_.
+3. David Hume's book, published in 1779, _Dialogues Concerning Natural Religion_.
+4. Contemporary work on climate change.
+:::
+
+## Free Books
+
+### Really, no money at all
+
+The two books are freely available through [Project Gutenberg](https://www.gutenberg.org/).
+
+![Dialogues Concerning Natural Religion at Project Gutenberg](images/01/gutenberg_hume.png)
+
+## Links to Books
+
+### Just for people reading at home
+
+Project Gutenberg links to the books:
+
+- [The Problems of Philosophy](https://www.gutenberg.org/ebooks/5827)
+- [Dialogues Concerning Natural Religion](https://www.gutenberg.org/ebooks/4583)
+
+Brian's online versions of the books.
+
+- [The Problems of Philosophy](https://brian.weatherson.org/russell-pop/)
+- [Dialogues Concerning Natural Religion](http://brian.weatherson.org/gutenberg-files/humedialogues/)
+
+## Assessment
+
+### What You Have to Do
+
+TKTK
+
+## Canvas
+
+### Where you find everything
+
+This course, like pretty much all courses, has a canvas site.
+
+Go to [canvas.umich.edu](https://canvas.umich.edu), and you should find it easily enough.
+
+It has the **syllabus**, links to the readings, these slides (as they are written).
+
+## Books
+
+### Also on Canvas
+
+Under 'Files' on Canvas, I've put links to both
+
+- The Project Gutenberg versions of the books; and
+- The versions that I made which I think are easier to read, but your mileage may vary.
+
+## iClicker
+
+### One way to engage in class
+
+This class will use [iClicker](https://www.iclicker.com) in class. This will take attendance, but also let us run **polls** and **quizzes**.
+
+Note that a **poll** is where I just want to know what you think, you'll get full marks for any answer.
+
+A **quiz** is where I want you to get the right answer. This will primarily be about the reading.
+
+You need to set up the iClicker software (which is free for UM students) asap.
+
+## Asking Questions
+
+This isn't just a scripted performance from me. You can stop me and ask questions.
+
+In fact, does anyone have questions so far?
+
+. . .
 
 
+Still, this is primarily about me talking. The discussion sections should be, if all goes well, primarily about you talking.
 
-Hello world
+## Canvas Chat
+
+### Yet Another Engagement Mechanism
+
+There is also a group chat facility, helpfully called 'Chat', in Canvas.
+
+During class, the discussion section leaders will monitor this, answer questions that come up, and let me know if lots of people have the same question.
+
+I've tried using these before and, to be honest, it hasn't been a great success. But if there is something that you want to bring up, and you'd rather not raise your hand in a large auditorium, that's an option.
+
+# What is Philosophy {background-color="#40666e"}
+
+## The Big Question
+
+### That a 101 course should answer
+
+For courses that are not offered at most high schools, like sociology, linguistics, or **philosophy**, it's common in 101 to say what we are, and what you get out of a course like this.
+
+Unfortunately, this is a little harder in philosophy than some other disciplines.
+
+I've heard even of courses that organise their entire introductory course around the question "What is Philosophy?"
+
+## The Big Question
+
+### With an answer
+
+I'm not going to do that for two reasons.
+
+### {.incremental}
+1. It sounds really dire.
+2. There is a simple answer - philosophy is theory.
+###
+
+## Philosophy as Theory
+
+### What does that mean
+
+In many subjects at UM, there is be some course with the term 'theory' or 'theoretical' in the title, or which says in the introduction that it is taking a more theoretical approach to questions.
+
+Philosophy is what is covered in all those courses.
+
+## Philosophy as Theory
+
+### What does that mean
+
+That implies that there are people doing philosophy across a whole range of departments at UM, or any other university.
+
+One exciting thing about being at UM is that people tend to do philosophy very well across the university, something that isn't guaranteed even at good universities.
+
+----
+
+![Linguistics 210, which covers theoretical perspectives on language, and overlaps with what we teach in philosophy of language](/images/01/Ling_210.png){height="500"}
+
+----
+
+![History 329, on theoretical frameworks on history, and overlaps with what we teach in moral and political philosophy](/images/01/Hist_329.png){height="500"}
+
+----
+
+![Film Television and Media 375, on television theory, which overlaps with what we teach in aesthetics](/images/01/FTVM%20375.png){height="500"}
+
+----
+
+![Math 296, a theoretical (and demanding) course, which overlaps with what we teach in logic](/images/01/Math%20296.png){height="500"}
+
+----
+
+![Political Science 309, theoretical perspectives on environmental change, which overlaps with what we will cover later in this course](/images/01/Polisci%20309.png){height="500"}
+
+----
+
+![Psych 242, Language and the Human Mind, an "Experimental and Theoretical Study". This overlaps with philosophy of language and philosophy of mind, and the first reading is from the Stanford Encyclopedia of Philosophy](/images/01/Psych%20242.png){height="500"}
+
+## And More
+
+### This could go all day
+
+There are courses in physics, economics, English literature, gender studies, and many more that are like this.
+
+The philosophy department has faculty cross-listed with law, linguistics, African American studies, Asian Languages and Culture, and so on.
+
+My work overlaps a lot with economics, and that might come through in what I teach here.
+
+## Why Philosophy?
+
+### Why not just have theorists in every other department?
+
+Because these theoretical debates often turn out to have a lot in common.
+
+Knowing something about some of them helps with the other ones.
+
+And there are very general things, especially about the nature of reasoning, but also about the nature of very general things like value, knowledge, existence, causation, etc, that are helpful across the various debates.
+
+And that's what philosophy does.
+
+## Best Philosophy
+
+### Why not both?
+
+When I say some course elsewhere 'overlaps' with philosophy, does that mean that you should just listen to us, or that what we do is redundant?
+
+:::{.incremental}
+- No, both courses are valuable.
+- To do theoretical work on X, it helps to know a lot about X, and a lot about the nature of the theoretical questions involved.
+- Different courses, and different profs, will help with each.
+:::
+
+### What is Philosophy
+- Ethics
+- Epistemology
+- Political Philosophy
+- Metaphysics
+- Aesthetics
+- Philosophy of Mind
+- Philosophy of Language
+- Logic
+
+Note the last six really overlap with other departments (go over what they are)
+The first two are everywhere - how do we discover things about the world, and what should we do with that information, are completely central questions to every field of study
+One of the reasons I want to spend a bit of time on climate change is that it makes these issues so vivid.
+
+
+Caveat about metaphysics
+- Historically it was much more tied to epistemology - what must the world be like if we are to know about it
+- It was also much more closely tied to theology; if the world is fundamentally divine, either causally or constitutively, that's a very big thing that philosophy should have something to say about
+- And that's something we'll come back to a lot when discussing Hume's Dialogues
