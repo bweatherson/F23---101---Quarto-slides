@@ -1,0 +1,292 @@
+---
+title: I'd Like to Have an Argument
+subtitle: Philosophy 101 - Class 02
+format:
+  clean-revealjs:
+    self-contained: true
+author:
+  - name: Brian Weatherson
+    orcid: 0000-0002-0830-141X
+    email: weath@umich.edu
+    affiliations: University of Michigan
+date: 2023-08-31
+bibliography: refs.bib
+from: markdown+fancy_lists
+---
+
+# Arguments {background-color="#40666e"}
+
+## Arguments
+
+### Reasons and hostility
+
+A central thing we do in philosophy is argue.
+
+To be more precise, we produce arguments.
+
+This might not always sound like fun, and it's not always fun.
+
+## Two Kinds of Arguments
+
+### Sort of good and bad, but not really
+
+Sometimes when we talk about arguments, we just mean people arguing with one another. For instance, we might talk about friends arguing about whether to go see _Barbie_ or _Oppenheimer_.
+
+But sometimes when we talk about arguments, we mean that one person is giving reasons for their point of view. For instance, we might talk about Barbie's arguments that women should be treated better in the workforce.
+
+We're going to be interested in the second kind of argument.
+
+## Illustrating the Two Kinds
+
+{{< video https://www.youtube.com/watch?v=ohDB5gbtaEQ width="750" height="525">}}
+
+---
+
+## Key Quotes
+
+> This isn't an argument; it's just contradiction.
+
+> An argument isn't just contradiction; an argument is a connected series of statements intended to take up a conclusion.
+
+> Argument is an intellectual process; contradiction is just the automatic gainsaying of any statement the other person makes.
+
+## Connected Series of Statements
+
+### Our primary understanding of arguments
+
+> An argument isn't just contradiction. An argument is a connected series of statements intended to support a proposition.
+
+- We call the 'connected series of statements' the **premises** of the argument.
+- And we call the proposition supported the **conclusion** of the argument.
+
+## Premises and Conclusion
+
+### Structural Point
+
+An argument may have 0, 1 or multiple premises.
+
+But it always has one conclusion.
+
+# Identifying Premises and Conclusions {background-color="#40666e"}
+
+## Premises
+
+### The starting points of an argument
+
+Premises:
+
+- Are given as evidence in favor of the intended conclusion;
+- Often, though not always, come before conclusions;
+- Are introduced by words like 'because', 'since' and 'after all'
+
+## Conclusions
+
+### Where the arguments takes us
+
+Conclusions:
+
+- Are supported by the premises;
+- Often, though not always, come after premises;
+- Are introduced by words like 'therefore', 'thus', 'so' and 'consequently'.
+
+## Examples
+
+### Getting the Hang of It
+
+We will work through a few examples, aiming to divide little arguments into premises and conclusions. 
+
+We'll stop and use iClicker to see how you are doing at getting the hang of them, and I'll go over the answers.
+
+When I'm presenting the answers, I'll write premises in [green]{.fg style="--col: #228B22"} and conclusions in [red]{.fg style="--col: #FF0000"}.
+
+## First Example
+
+- Anyone who wins an Academy Award is famous. Billie Eilish won an Academy Award. So Billie Eilish is famous.
+
+. . .
+
+What is the conclusion of this argument?
+
+A.  Anyone who wins an Academy Award is famous.
+B.  Billie Eilish won an Academy Award.
+C.  Billie Eilish is famous.
+
+## First Example
+
+- [Anyone who wins an Academy Award is famous]{.fg style="--col: #228B22"}. [Billie Eilish won an Academy Award]{.fg style="--col: #228B22"}. So [Billie Eilish is famous]{.fg style="--col: #FF0000"}.
+
+## Second Example
+
+- Margot Robbie is not famous. After all, actors who win Academy Awards are famous, and she has never won one.
+
+. . .
+
+What is the conclusion of this argument?
+
+A.  Margot Robbie is not famous.
+B.  Actors who win Academy Awards are famous.
+C.  Margot Robbie has never won an Academy Award.
+
+## Second Example
+
+-  Margot Robbie is not famous. After all, actors who win Academy Awards are famous, and she has never won one.
+
+The last sentence starts with 'after all', so it must be indicating what the premises are. Since that 'after all' covers everything in the quote other than the first sentence, the first sentence must be the conclusion. So we get: 
+
+- [Margot Robbie is not famous]{.fg style="--col: #FF0000"}. After all, [actors who win Academy Awards are famous]{.fg style="--col: #228B22"}, and [she has never won one]{.fg style="--col: #228B22"}.
+
+## Third Example
+
+- Beyoncé is a musician. So she's rich, since all musicians are rich.
+
+. . .
+
+What is the conclusion of this argument?
+
+A.  Beyoncé is a musician.
+B.  Beyoncé is rich.
+C.  All musicians are rich.
+
+## Third Example
+
+- Beyoncé is a musician. So she's rich, since all musicians are rich.
+
+The last clause starts with 'since', so it must be a premise. The first clause of that sentence starts with 'so', so it must be the conclusion. So the what's left, i.e., the first sentence, must also be a premise.
+
+- [Beyoncé is a musician]{.fg style="--col: #228B22"}. So [she's rich]{.fg style="--col: #FF0000"}, since [all musicians are rich]{.fg style="--col: #228B22"}.
+
+## Arguments in English
+
+### Some things to remember
+
+1. The conclusion can be at the start, middle or end of the speech.
+2. We can't understand the premises and/or conclusions on their own, since we have to refer to other sentences to understand the pronouns.
+3. There are words, like 'so', 'hence' etc that aren't actually part of the argument, but are just used to indicate its structure.
+
+So we'll develop a notation that avoids these problems.
+
+
+## Representing Arguments
+
+### Our first pass at a notation for arguments
+
+For today, we'll write arguments as numbered lists, with the conclusion labelled c to make it stand out.
+
+Here is our first example.
+
+1. Anyone who wins an Academy Award is famous.
+2. Billie Eilish won an Academy Award.
+C.  Billie Eilish is famous.
+
+## The Other Two Examples
+
+### In this premise-conclusion format
+
+**Famous Awards**
+
+1. Actors who win Academy Awards are famous.
+2. Margot Robbie has never won an Academy Award.
+C.  Margot Robbie is not famous.\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
+
+## The Other Two Examples
+
+### In this premise-conclusion format
+
+**Rich Musicians**
+
+1. Beyoncé is a musician.
+2. All musicians are rich.
+C.  Beyoncé is rich.\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
+
+# Validity and Soundness {background-color="#40666e"}
+
+## Two Assessments of Arguments
+
+Someone who offers up an argument does two things.
+
+1. Provides some premises.
+2. Says that those premises support their conclusions.
+
+So arguments can fail in two ways.
+
+1. The premises might be false.
+2. The premises might not support the conclusion.
+
+## Support
+
+### What does it mean for premises to support conclusions
+
+Some arguments clearly don't support their conclusions.
+
+1. Today is Thursday.
+2. Joe Biden is President.
+C.  University of Michigan is a large university.
+
+The conclusion is true, but the premises don't offer any reason to believe that.
+
+## Partial Support
+
+### Arguments that make the conclusion more probable
+
+Some arguments offer support for the conclusion, but they don't settle any debate about the conclusion.
+
+1. Most movie stars are rich.
+2. Sam Kerr is a movie star.
+C.  Sam Kerr is rich.\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
+
+Even if the premises were true, Kerr might be one of those few movie stars that isn't rich.
+
+## Guaranteed Support
+
+But for some arguments, if the premises are true, the conclusion **must** be true.
+
+1. All movie stars are rich.
+2. Sam Kerr is a movie star.
+C.  Sam Kerr is rich. \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
+
+Now it is **impossible** for the premises to be true and the conclusion false.
+
+## Validity
+
+### A definition to remember
+
+We say an argument is **valid** if it meets the following condition.
+
+- The truth of the premises guarantees the truth of the conclusion.
+
+It's sometimes it is easier to apply the following reformulation of this.
+
+- It's impossible for the premises to be true and the conclusion to fail to be true.
+
+
+## False Premises
+
+### Don't start from bad places
+
+Let's look again at our example of a valid argument.
+
+1. All movie stars are rich.
+2. Sam Kerr is a movie star.
+C.  Sam Kerr is rich. \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
+
+The second premise is false. Sam Kerr is a football player, not a movie star.
+
+## Soundness
+
+### Another definition to remember
+
+Having a false premise doesn't affect **validity**. But it is actually a problem.
+
+We'll say that a valid argument with **true** premises is **sound**.
+
+An argument that is either invalid, or has false premises, is **unsound**.
+
+# For Next Time {background-color="#40666e"}
+
+## No Reading
+
+### Enjoy the long weekend
+
+No new reading.
+
+Next up, we'll look at some important patterns of valid and invalid arguments.

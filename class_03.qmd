@@ -1,0 +1,326 @@
+---
+title: Argument Forms
+subtitle: Philosophy 101 - Class 03
+format:
+  clean-revealjs:
+    self-contained: true
+author:
+  - name: Brian Weatherson
+    orcid: 0000-0002-0830-141X
+    email: weath@umich.edu
+    affiliations: University of Michigan
+date: 2023-09-05
+bibliography: refs.bib
+from: markdown+fancy_lists+raw_html
+---
+
+# Validity and Form {background-color="#40666e"}
+
+## Sentence Letters
+
+### A useful shorthand
+
+We're going to use $X$ and $Y$ to stand for possible sentences.
+
+So $X$ might be _Brian had bacon and eggs for breakfast_, or _There is a T-Rex on the diag_, or _Seven plus five is twelve_, or any other sentence.
+
+## Combining Sentences
+
+### The mortar of logic
+
+And one of the basic things you do in logic is think about sentences that are built from relatively simple sentences like those. In particular, we're going to talk a little about these four types of sentences.
+
+- $X$ and $Y$.
+- $X$ or $Y$.
+- If $X$ then $Y$.
+- Not $X$.
+
+## Simple Cases of Validity
+
+### From wholes to parts of and-sentences
+
+::: columns
+::: {.column width="45%"}
+**Argument Form**
+
+1. $X$ and $Y$
+C.  $X$ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
+
+:::
+
+::: {.column width="45%"}
+Is this valid no matter what $X$ and $Y$ are?
+
+A.  Yes
+B.  No
+
+:::
+:::
+
+## Simple Cases of Validity
+
+### From wholes to parts of and-sentences
+
+::: columns
+::: {.column width="45%"}
+**Argument Form**
+
+1. $X$ and $Y$
+C.  $X$ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
+
+:::
+
+::: {.column width="45%"}
+Yes! (I guess that's in the title)
+
+The premise says that both $X$ and $Y$ are true, and that guarantees that $X$ is true.
+
+:::
+:::
+
+## Simple Cases of Invalidity
+
+### From parts to wholes of and-sentences
+
+::: columns
+::: {.column width="45%"}
+**Argument Form**
+
+1. $X$
+C.  $X$  and $Y$ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
+
+:::
+
+::: {.column width="45%"}
+Is this valid no matter what $X$ and $Y$ are?
+
+A.  Yes
+B.  No
+
+:::
+:::
+
+## Simple Cases of Invalidity
+
+### From parts to wholes of and-sentences
+
+::: columns
+::: {.column width="45%"}
+**Argument Form**
+
+1. $X$ and $Y$
+C.  $X$ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
+
+:::
+
+::: {.column width="45%"}
+No! (Also in the title)
+
+But the way we tell that is more interesting.
+
+:::
+:::
+
+## Showing that a Form is Invalid
+
+### Look for a clearly bad instance
+
+To show that an argument form is invalid, what we do is find values for $X$, $Y$, and any other sentences there are, that make the premises true and the conclusion not true.
+
+In this case the following will work:
+
+- $X$ is _Brian came to work today_.
+- $Y$ is _Brian rode a T-Rex this morning_.
+
+---
+
+::: columns
+::: {.column width="45%"}
+**Argument One**
+
+1. If $X$ then $Y$
+2. $X$
+C.  $Y$ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
+
+**Argument Two**
+
+1. If $X$ then $Y$
+2. $Y$
+C.  $X$ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
+
+
+:::
+
+::: {.column width="45%"}
+Which of these must be valid no matter what $X$ and $Y$ are?
+
+A.  Both One and Two.
+B.  Just One.
+C.  Just Two.
+D.  Neither One nor Two.
+
+:::
+:::
+
+---
+
+::: columns
+::: {.column width="45%"}
+**Argument One**
+
+1. If $X$ then $Y$
+2. $X$
+C.  $Y$ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
+
+**Argument Two**
+
+1. If $X$ then $Y$
+2. $Y$
+C.  $X$ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
+
+
+:::
+
+::: {.column width="45%"}
+Which of these must be valid no matter what $X$ and $Y$ are?
+
+A.  Both One and Two.
+B.  [**Just One**]{.bg style="--col: #90EE90"}.
+C.  Just Two.
+D.  Neither One nor Two.
+
+:::
+:::
+
+---
+
+::: columns
+::: {.column width="45%"}
+**Argument One**
+
+1. If $X$ then $Y$
+2. $X$
+C.  $Y$ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
+
+**Argument Two**
+
+1. If $X$ then $Y$
+2. $Y$
+C.  $X$ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
+
+
+:::
+
+::: {.column width="45%"}
+Hopefully it's clear that **Argument One** is valid.
+
+If you tell me that if $X$ is true, so is $Y$, and you tell me that $X$ is in fact true, hard to know what more conclusive reason you could give for $Y$.
+
+:::
+:::
+
+## Argument Two
+
+We need to find an instance where the premises are true, ideally that they are clearly true, and that the conclusion is not true.
+
+. . .
+
+Here's one possibility.
+
+1. If Brian is in Columbus, Ohio, then he is not in New York City.
+2. Brian is not in New York City.
+C.  Brian is in Columbus, Ohio. \ \ \ \ \ 
+
+---
+
+::: columns
+::: {.column width="45%"}
+**Argument Three**
+
+1. If $X$ then $Y$
+2. $X$ is not true
+C.  $Y$ is not true \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
+
+**Argument Four**
+
+1. If $X$ then $Y$
+2. $Y$ is not true
+C.  $X$ is not true \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
+
+
+:::
+
+::: {.column width="45%"}
+Which of these must be valid no matter what $X$ and $Y$ are?
+
+A.  Both Three and Four.
+B.  Just Three.
+C.  Just Four.
+D.  Neither Three nor Four.
+
+:::
+:::
+
+---
+
+::: columns
+::: {.column width="45%"}
+**Argument Three**
+
+1. If $X$ then $Y$
+2. $X$ is not true
+C.  $Y$ is not true \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
+
+**Argument Four**
+
+1. If $X$ then $Y$
+2. $Y$ is not true
+C.  $X$ is not true \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  
+
+
+:::
+
+::: {.column width="45%"}
+Which of these must be valid no matter what $X$ and $Y$ are?
+
+A.  Both Three and Four.
+B.  Just Three
+C.  [Just Four]{.bg style="--col: #90EE90"}.
+D.  Neither Three nor Four.
+
+:::
+:::
+
+## Argument Three
+
+We need to find an instance where the premises are true, ideally that they are clearly true, and that the conclusion is not true.
+
+. . .
+
+Here's one possibility.
+
+1. If Brian is in Detroit, then he is in Michigan.
+2. Brian is not in Detroit.
+C.  Brian is not in Michigan. \ \ \ \ \
+
+## Argument Four
+
+This one is a bit trickier, but here's the rough reasoning.
+
+- A valid argument means the following is impossible: true premises, not true conclusion.
+- Assume we have true premises, false conclusion. So it's not true that $X$ is not true.
+- That means it's true that $X$.
+- And it's true that If $X$ then $Y$.
+- Putting those things together $Y$ must be true, but the second premise says it is not true, so what we assumed is impossible.
+
+## Don't Switch Things Around
+
+### Perhaps the most common logical misstep
+
+I've been going over these a bit slowly because it is one of the most common slips in practice.
+
+In these cases, arguments that can lead to absurd conclusions look a lot like arguments that are valid.
+
+They just involve switching some letters around.
+
+That turns out to be one of the most common forms of slip-ups.

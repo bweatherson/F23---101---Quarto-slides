@@ -256,7 +256,7 @@ I'm going to list eight areas of philosophy that a lot of courses cover.
 - Some courses cover things outside this list.
 - More commonly, we have courses that cover many parts of this list.
 
----
+## Important Topics in Philosophy
 
 1. **Ethics** - how to live.
 2. **Epistemology** - what we can know, and how to reason well.
@@ -283,15 +283,15 @@ In philosophy it's central to the discipline.
 
 Some philosophy courses look at philosophical topics from a certain perspective, or as they come up in certain contexts. These will cover many of these areas.
 
-### {.incremental}
+:::{.incremental}
 - Feminist philosophy courses might look at feminist ethical and political theories, but also feminist approaches to metaphysics, epistemology, and language.
 - Philosophy of science courses look at metaphysical, epistemological, and ethical/political questions that arise in science.
-###
+:::
 
 ## External Overlaps (Very Roughly)
 
 | Area of Philosophy | External Discipline |
-|:------------------:|:--------------------|
+|:------------------:|:-------------------:|
 |   Ethics           |     Everything      |
 |   Epistemology     |     Everything      |
 |   Metaphysics      |      Physics        |
