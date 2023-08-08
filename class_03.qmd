@@ -324,3 +324,161 @@ In these cases, arguments that can lead to absurd conclusions look a lot like ar
 They just involve switching some letters around.
 
 That turns out to be one of the most common forms of slip-ups.
+
+# Parts of Sentences {background-color="#40666e"}
+
+## Subject and Predicate
+
+### The two main parts of a sentence
+
+The simplest sentences say that a particular object has a particular feature. Examples include:
+
+- Brian writes.
+- Socrates is mortal.
+- Squid is a cat.
+- The University of Michigan is large.
+
+## Subject and Predicate
+
+### The two main parts of a sentence
+
+In any of these cases, we say the object is the **subject** of the sentence, and the term expressing the feature is the **predicate**.
+
+:::{.incremental}
+- The category predicate cross-cuts familiar grammatical categories.
+- Verbs and verb phrases can be predicates, as in _Brian **writes**_.
+- Adjectives and adjectival phrases can can be predicates, as in _The University of Michigan **is large**_.
+- And nouns and (especially) noun phrases can be predicates, as in _Squid **is a cat**_.
+:::
+
+## Predicates
+
+### Ways things can be
+
+In general, a subject-term picks out a thing, and a predicate is used to pick out a way it can be.
+
+By tradition, in formal languages we use lower case letters (usually starting at $a$) for subjects, and upper case letters (usually starting at $F$) for predicates.
+
+So our simple sentences will all be of the form $a$ _is_ $F$.
+
+Don't worry about remembering these details yet; I'm putting them here largely as shorthand for the next few slides.
+
+## Quantified Sentences
+
+### Saying how all and some things are
+
+Sentences don't need any individual subject.
+
+Given two predicates, $F$ and $G$, we can put together the following two important sentence types:
+
+1. All $F$s are $G$s.
+2. Some $F$s are $G$s.
+
+For example, given the predicates _is a cat_ and _is happy_, we can form the sentences:
+
+1. All cats are happy.
+2. Some cats are happy.
+
+---
+
+::: columns
+::: {.column width="45%"}
+**Argument Five**
+
+1. All $F$s are $G$s
+2. $a$ is $F$
+C.  $a$ is $G$ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
+
+**Argument Six**
+
+1. All $F$s are $G$s
+2. $a$ is $G$
+C.  $a$ is $F$ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
+
+
+:::
+
+::: {.column width="45%"}
+Which of these must be valid no matter what $a$, $F$ and $G$ are?
+
+A.  Both Five and Six.
+B.  Just Five.
+C.  Just Six.
+D.  Neither Five nor Six.
+
+:::
+:::
+
+---
+
+::: columns
+::: {.column width="45%"}
+
+**Argument Five**
+
+1. All $F$s are $G$s
+2. $a$ is $F$
+C.  $a$ is $G$ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
+
+**Argument Six**
+
+1. All $F$s are $G$s
+2. $a$ is $G$
+C.  $a$ is $F$ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
+
+
+:::
+
+::: {.column width="45%"}
+Which of these must be valid no matter what $a$, $F$ and $G$ are?
+
+A.  Both Five and Six.
+B.  [**Just Five**]{.bg style="--col: #90EE90"}.
+C.  Just Six.
+D.  Neither Five nor Six.
+
+:::
+:::
+
+---
+
+::: columns
+::: {.column width="45%"}
+**Argument Five**
+
+1. All $F$s are $G$s
+2. $a$ is $F$
+C.  $a$ is $G$ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
+
+**Argument Six**
+
+1. All $F$s are $G$s
+2. $a$ is $G$
+C.  $a$ is $F$ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
+
+
+:::
+
+::: {.column width="45%"}
+Hopefully it's clear that **Argument Five** is valid.
+
+If you tell me that everything that has feature $F$ also has feature $G$, and this thing $a$ has feature $F$, then $a$ better also have feature $G$.
+
+:::
+:::
+
+## Argument Six
+
+We need to find an instance where the premises are true, ideally that they are clearly true, and that the conclusion is not true.
+
+. . .
+
+Here's one possibility.
+
+1. All Michiganders are Americans.
+2. Joe Biden is an American.
+C.  Joe Biden is a Michigander. \ \ \ \ \ 
+
+---
+
+
