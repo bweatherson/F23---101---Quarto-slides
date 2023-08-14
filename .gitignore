@@ -2,6 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
-
 /.quarto/
 .vscode/settings.json
+.DS_Store
+class_01.html
