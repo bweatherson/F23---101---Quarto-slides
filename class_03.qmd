@@ -374,6 +374,10 @@ Given two predicates, $F$ and $G$, we can put together the following two importa
 1. All $F$s are $G$s.
 2. Some $F$s are $G$s.
 
+## Quantified Sentences
+
+### Saying how all and some things are
+
 For example, given the predicates _is a cat_ and _is happy_, we can form the sentences:
 
 1. All cats are happy.
@@ -479,6 +483,117 @@ Here's one possibility.
 2. Joe Biden is an American.
 C.  Joe Biden is a Michigander. \ \ \ \ \ 
 
+
 ---
 
+::: columns
+::: {.column width="45%"}
+**Argument Seven**
 
+1. All $F$s are $G$s
+2. All $G$s are $G$s
+C.  All $F$s are $H$s \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
+
+**Argument Eight**
+
+1. Some $F$s are $G$s
+2. Some $G$s are $G$s
+C.  Some $F$s are $H$s \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
+
+
+:::
+
+::: {.column width="45%"}
+Which of these must be valid no matter what $a$, $F$ and $G$ are?
+
+A.  Both Seven and Eight.
+B.  Just Seven.
+C.  Just Eight.
+D.  Neither Seven nor Eight.
+
+:::
+:::
+
+---
+
+::: columns
+::: {.column width="45%"}
+**Argument Seven**
+
+1. All $F$s are $G$s
+2. All $G$s are $G$s
+C.  All $F$s are $H$s \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
+
+**Argument Eight**
+
+1. Some $F$s are $G$s
+2. Some $G$s are $G$s
+C.  Some $F$s are $H$s \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
+
+
+:::
+
+::: {.column width="45%"}
+Which of these must be valid no matter what $a$, $F$ and $G$ are?
+
+A.  Both Seven and Eight.
+B.  [**Just Seven**]{.bg style="--col: #90EE90"}.
+C.  Just Eight.
+D.  Neither Seven nor Eight.
+
+:::
+:::
+
+## Argument Seven
+
+Intuitively, this is valid for the following reason.
+
+- Think about any thing whatsoever that is $F$.
+- By premise 1, it is $G$.
+- And then by premise 2, it is $H$.
+- And so for any thing that is $F$, it is $H$.
+- Which is what the conclusion says.
+
+## Argument Seven
+
+### Drawing it Out
+
+We could also do this with Venn Diagrams, in case it isn't already clear.
+
+## Argument Eight
+
+Here we need to come up with an example of $F$, $G$ and $H$ that makes the premises both true and the conclusion false.
+
+Can you think of any?
+
+## Argument Eight
+
+Here's one that I think works.
+
+- $F$ = City in the USA
+- $G$ = City that I have visited
+- $H$ = City in Canada
+
+## Argument Eight
+
+1. Some city in the USA has been visited by me. (True, since I've visited Ann Arbor.)
+2. Some city I've visited is in Canada. (True, since I've visited Toronto.)
+C.  Some city in the USA is in Canada. (False, cities are within countries.)
+
+## Argument Eight
+
+We can also do this with Venn Diagrams, though I'll leave that as an exercise.
+
+# For Next Time {background-color="#40666e"}
+
+## Inductive Arguments
+
+Most arguments we use in everyday life are not valid.
+
+Next time we'll move to a different book for a short introduction to inductive arguments.
+
+We're only looking at 6 pages of the book, even though it's hundreds of pages long.
+
+The other parts are actually useful for what we'll do next week, but I'm not assigning them.
+
+I'm just grateful that we can get parts of books without buying all of them!

@@ -283,10 +283,8 @@ An argument that is either invalid, or has false premises, is **unsound**.
 
 # For Next Time {background-color="#40666e"}
 
-## No Reading
+## Continue Reading
 
-### Enjoy the long weekend
+Keep going with Magnus's book.
 
-No new reading.
-
-Next up, we'll look at some important patterns of valid and invalid arguments.
+Next up, we'll look at some important patterns of valid and invalid arguments, which are covered in chapter 2.
