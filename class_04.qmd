@@ -1,0 +1,279 @@
+---
+title: Ampliative Arguments
+subtitle: Philosophy 101 - Class 04
+format:
+  clean-revealjs:
+    self-contained: true
+author:
+  - name: Brian Weatherson
+    orcid: 0000-0002-0830-141X
+    email: weath@umich.edu
+    affiliations: University of Michigan
+date: 2023-09-07
+bibliography: refs.bib
+from: markdown+fancy_lists+raw_html
+---
+
+# Validity and Reasoning {background-color="#40666e"}
+
+## Who Stole the Cookies?
+
+### A Mystery Story with Three Premises
+
+:::{.incremental}
+1. There were cookies in the jar last night, and there are no cookies there now.
+2. Little brother really really likes cookies.
+3. There is a trail of cookie crumbs from the cookie jar to little brother's bedroom.
+C.  Little brother took the cookies.
+:::
+
+## Two Questions
+
+1. Is this a valid argument?
+2. Is it reasonable to infer the conclusion from the premises?
+
+. . . 
+
+A.  **Yes**, valid, and **Yes**, reasonable
+B.  **Yes**, valid, and **No**, unreasonable
+C.  **No**, invalid, and **Yes**, reasonable
+D.  **No**, invalid, and **No**, unreasonable
+
+## My View
+
+That's not a valid argument. It's possible for the premises to be true and the conclusion false. Little brother may have been framed.
+
+. . .
+
+But it is, in normal circumstances, a perfectly reasonable inference. In fact, it might be unreasonable to not make that inference.
+
+## Good Arguments
+
+Arguments that are like this one, where the premises **support** the conclusion but do not **guarantee** it, go by a lot of different names. You'll see them called
+
+- Inductive arguments
+- Abductive arguments
+- Ampliative arguments
+- Non-demonstrative arguments
+- Defeasible arguments
+
+## Good Arguments
+
+### Some salient characteristics
+
+The name isn't important to us. We will care more about the following three features of these arguments.
+
+1. They don't guarantee success.
+2. They can be defeated by further reasons.
+3. They seem to fall into a handful of forms.
+
+## Non-Guarantee
+
+### Sometimes you just can't win
+
+Because they don't guarantee success, you could be doing everything as well as you can, and still end up with a false belief.
+
+- Sometimes, the person framing little brother for the cookie theft does a really, really good job.
+- Good process doesn't guarantee good outcome.
+
+## Further Reasons
+
+If the argument from some premises $A$ to a conclusion $C$ is valid, then adding more premises means it still stays valid. Can you see why?
+
+. . .
+
+That's not true for these arguments. Sometimes further evidence can make a reasonable inference into an unreasonable one, or even into a situation where you should infer the negation of your old conclusion.
+
+## Further Reasons
+
+### A practical upshot
+
+Here's a surprising way that it's possible to mislead people. Say I'm an expert in some question, and there's a done of evidence pointing to different answers.
+
+If I show you all the evidence for one of the answers, and nothing else, then I can do the following two things at once.
+
+1. Not lie to you; everything I say really is true, and really is evidence.
+2. Leave you thinking that the evidence points to that answer.
+
+## Further Reasons
+
+### A practical upshot
+
+One big question is how much this happens in everyday discourse.
+
+When a company, or a political party, or anyone else, wants to convince us of something that the evidence doesn't really support, how often do they straight up lie, versus how often do they do an honest presentation of just one side of the case?
+
+## Types of Ampliative Inference
+
+### A partial list, that may contain overlap
+
+1. Enumerative induction
+2. Analogical inference
+3. Inference to the best explanation
+4. Causal inference
+5. Testimony
+
+## Types of Ampliative Inference
+
+### A partial list, that may contain overlap
+
+Don't get too hung up on the details of this list.
+
+- There are arguably other types of inference that should be there.
+- And possibly some items are redundant; some of them are just instances of the other.
+- But it's a first pass, and I'll spend the rest of today talking about these five.
+
+# Enumerative Induction {background-color="#40666e"}
+
+## Basic Case
+
+### Getting coffee on campus
+
+- I've been to lots and lots of university campuses over the years.
+- Every one I've been to, there has been a coffee shop either on or right next to campus.
+- When I go to a new campus, I don't think "Will this place have a coffee shop?". I think "Where is the coffee shop, and is it any good?"
+
+## General Pattern
+
+### Patterns continue
+
+**Premise**: I've seen lots of $F$s, in a lot of different situations, and they have all (most) been *G*s.
+
+**Conclusion**: The next $F$ I see will (probably) be $G$.
+
+## Failures
+
+### This can go horribly wrong
+
+:::{.incremental}
+1. Too small a sample. Don't infer that every campus will have a sushi restaurant on it's northern border.
+2. Too unrepresentative a sample. Don't do political opinion polls on the UM Diag and draw inferences about the general public.
+:::
+
+## A Related Case
+
+### Inferring into the group, not out of it
+
+- I know (roughly) the geographic origin of UM students as a whole. For example, about half of the undergrads here are from the state of Michigan.
+- So, in the absence of any other information, I can draw probabilistic inferences about individual students that I meet.
+- If I start talking to a new student, it's reasonable to have a 50% probability that they are from Michigan.
+
+## A Related Case
+
+### Inferring into the group, not out of it
+
+- Note this is **really** defeasible. Lots of things, including things one can see visually, can undermine it.
+
+# Analogical Inference {background-color="#40666e"}
+
+## Like Things are Alike
+
+### Sometimes it is ok to draw an inference from a small sample
+
+- One time I touched a hot stove and it really really hurt.
+- I inferred that if I did that again, it would hurt again.
+
+## Enumerative Induction Redux
+
+- This may seem just like enumerative induction.
+- But note that it does seem to work even with just one data point.
+- You don't need to go "Huh, wonder if that was a weirdly bad luck case of stove-followed-by-pain" . . .
+- Really big question, one that will become important through the course, is when is it ok to make an inference from a small sample (like in the stove-pain case) and when is it not (as in the campus-sushi case).
+
+# Inference to the Best Explanation {background-color="#40666e"}
+
+## The Best Explanation of the Data is Likely True
+
+### Back to the cookies case
+
+If we have a bunch of surprising data, and there is a single good explanation of it, it's reasonable to believe that the explanation is true.
+
+- That's what is going on with little brother and the cookies.
+
+## Possible Failures
+
+:::{.incremental}
+- There are other explanations that we have thought of.
+- Special case of this: changing a detail slightly in the explanation would still explain the data.
+- There are other explanations that we haven't thought of.
+- The explanation, while best, isn't very good.
+- One way this can happen: the data would still be surprising.
+- Another way this can happen: the explanation is too tightly designed to fit the data.
+:::
+
+# Causal Inference {background-color="#40666e"}
+
+## Two Kinds of Argument
+
+### First, from effects to causes
+
+1. It rained last night. 
+2. Therefore, the streets are wet.
+
+- Note that this could easily be a valid argument, if we added a premise that rain always causes wet streets, or an enumerative induction, if we'd seen it many times before.
+- But it seems a special instance of both of these.
+
+## Two Kinds of Argument
+
+### Second, from causes to effects
+
+1. The streets are wet.
+2. Therefore, it rained last night.
+
+Note that this could easily be an inference to the best explanation.
+
+But again, it seems like a distinctive enough kind of one to be worth noting separately.
+
+## Failure Conditions
+
+:::{.incremental}
+- Other possible causal pathways.
+- Lack of detail in the causal story. One thing we often see in history of science is people making a causal inference more credible by filling in the details.
+:::
+
+# Testimony {background-color="#40666e"}
+
+## Basic Idea
+
+This one is really simple.
+
+1. Someone told me that $p$ is true.
+2. Therefore, $p$ is true.
+
+Without something like this, we couldn't live anything like the lives we live now.
+
+## Failure Conditions
+
+:::{.incremental}
+- The speaker often says false things.
+- The speaker often doesn't know what they are talking about.
+- The speaker isn't even trying to say something true right now.
+- The speaker has a particular reason to be misleading on this occasion.
+:::
+
+## An Old Philosophical Question
+
+### At least in some traditions, this goes back thousands of years
+
+> Is this a distinct form?
+
+It might not be if we think testimonial inference is some version of:
+
+- Enumerative induction (that person always says true things, so this thing is true)
+- Inference to the best explanation (the reason they are saying $p$ is $p$ is true)
+- Causal inference (the cause of them saying $p$ is that $p$ happened)
+
+## A New Philosophical Question
+
+### Two puzzles about meat
+
+Consider someone who does either of the following two things.
+
+1. They want to know whether it's morally ok to eat meat, so they ask a friend for a yes/no answer, and believe what the friend says.
+2. They want to know where the tastiest burgers in Ann Arbor are, so they ask a friend, and believe what the friend says.
+
+We won't discuss this puzzle in 101, but a fun thing to think about is whether either of these are ok uses of testimony, and if not, why not.
+
+## For Next Time
+
+We'll start looking at arguments that are more complicated than premises and conclusions.
