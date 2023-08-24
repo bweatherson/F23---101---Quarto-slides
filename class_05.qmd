@@ -14,7 +14,7 @@ bibliography: refs.bib
 from: markdown+fancy_lists+raw_html
 ---
 
-# The List of Forms
+# The List of Forms {background-color="#40666e"}
 
 ## Five Argument Forms
 
@@ -134,5 +134,48 @@ Perhaps surprisingly, this question has often been central to 'Western' philosop
 
 But it was very central to Indian philosophy, where the question of which methods were pramāṇas (means of knowledge/means of proof) was hotly debated, and often definitional of one school or other.
 
-# Chains of 
+# Chains of Reasoning {background-color="#40666e"}
+
+## Multi-Step Arguments
+
+### Task: What are the premises and conclusion in this argument?
+
+> I know the streets are wet. Everyone who walked into class was dripping wet. So it's raining. So the streets must be wet.
+
+## Multi-Step Arguments
+
+### It's a trick question
+
+There are three steps here.
+
+1. Everyone who walked into class was dripping wet.
+2. It's raining.
+3. The streets are wet.
+
+And step 2 is both a conclusion, of an argument from 1, and a premise, of an argument that leads to 2. This structure, where a conclusion of an earlier argument becomes a premise of a later argument, is really common.
+
+## Argument Maps
+
+```argdown-map
+===
+selection:
+  statementSelectionMode: all # adds all statements as nodes to the map
+model:
+  explodeArguments: true # adds argument nodes for each inferential step of each argument
+map:
+  argumentLabelMode: text # no text in argument nodes
+  statementLabelMode: text # no titles in statement nodes
+dot:
+    argument:
+        shape: circle # argument nodes are in the shape of circles
+        minWidth: 0.2 # let's make those circles really small
+    graphVizSettings:
+        rankdir: TB # arrows flow from top to bottom (to produce a tree-like structure)
+===
+
+[The streets are wet]
+   + [It is raining]
+       + [Everyone who walks into class is wet]
+      
+```
 
