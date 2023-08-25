@@ -1,0 +1,17 @@
+===
+map:
+  argumentLabelMode: none # no text in argument nodes
+color:
+    colorScheme: iwanthue-colorblind-friendly
+dot:
+    argument:
+        shape: circle # argument nodes are in the shape of circles
+        minWidth: 0.2 # let's make those circles really small
+    graphVizSettings:
+        rankdir: TB # arrows flow from top to bottom (to produce a tree-like structure)
+===
+
+[Brian's lectures are good.]
+   + <a1>
+      + [Brian's jokes are funny.]
+        <- [I didn't see a joke.] #con

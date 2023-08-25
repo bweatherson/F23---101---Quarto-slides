@@ -3,7 +3,7 @@ title: Complex Arguments
 subtitle: Philosophy 101 - Class 05
 format:
   clean-revealjs:
-    self-contained: false
+    self-contained: true
 author:
   - name: Brian Weatherson
     orcid: 0000-0002-0830-141X
@@ -240,3 +240,139 @@ Which kind of argument form the speaker is offering is important for thinking ab
 
 But that's something we'll deal with more next time, when we look in more details at the ways in which one can respond to arguments.
 
+## An Example from UMich-GPT
+
+I tried to get UMich-GPT to give me examples of the two things we've just discussed.
+
+And it went 1-for-2; it did ok on getting two distinct arguments in a paragraph.
+
+---
+
+The morality of consuming meat has been widely debated, with several arguments indicating that it may be deemed as immoral. Firstly, one of the central ethical objections against meat consumption relates to animal rights and cruelty. Numerous animal species are kept in unlively conditions in industries for meat production, often subjected to pain and suffering before being slaughtered for food. This stands against their inherent right to a respectful and pain-free existence. Secondly, the environmental implications of meat production also raises moral concerns. The farming industry, especially livestock, contributes significantly to deforestation, water pollution, and greenhouse gas emissions, which directly impact climate change. Hence, endorsing meat consumption could be seen as supporting practices that threaten the sustainability of the planet for future generations.
+
+## An Example from UMich-GPT
+
+No idea where 'unlively' came from. That's just weird.
+
+I also asked it for a two premise argument for the same conclusion, and it also gave me two arguments.
+
+Then I asked it to turn the paragraph on the previous slide into the kind of maps I've been showing you. And the result (which is wrong) is on the next slide.
+
+---
+
+<center>
+
+![](argdown/meat-gpt.png){height=650}
+
+</center>
+
+## GPT Isn't Quite Ready for Prime Time
+
+Of course that isn't right; these are two different arguments, not a single argument.
+
+Anyway, this stuff is hard. We'll come back on Thursday to ways in which it's even harder than this sounds.
+
+To be honest, I was surprised by how badly GPT did on this task. More on this to follow.
+
+# Arguing for a Premise {background-color="#40666e"}
+
+## Bonus Content
+
+### We might not finish this, and if we don't we won't come back to it
+
+Most everything I'm saying this week about arguments is useful whether you're doing philosophy, biology, English literature, or any other subject in the university.
+
+But the pattern I'm about to describe comes up much more in philosophy than other areas.
+
+## Arguing for a Premise
+
+### Too much covering all the bases
+
+Sometimes, a philosopher will be in the following situation.
+
+- They have a nice argument for a conclusion $C$, and one of the premises is $P$.
+- $P$ is very plausible, and like 80% of readers will accept it.
+- But 20% of them won't, and for those 20%, the philosopher tries to come up with an argument for $P$.
+
+## Arguing for a Premise
+
+### Too much covering all the bases
+
+So far this might seem familiar: $P$ goes from a premise to an intermediate conclusion.
+
+But often enough in philosophy the following two things happen.
+
+1. $P$ was actually a plausible premise; they should be allowed to have it as a starting point.
+2. The argument for $P$ wasn't actually very good, and should be rejected.
+
+## Arguing for a Premise
+
+### Really two arguments
+
+I think in these cases, we should think of the philosopher as offering **two arguments**.
+
+One of them starts with $P$, one of them starts with the argument for $P$.
+
+## A Real Life Case
+
+In the early 1960s a philosopher at Wayne State University, Edmund Gettier, independently rediscovered cases like Dharmottara's case of the traveller. (He didn't know about Dharmottara, or afaik any other Indian philosophy.)
+
+And he noted that they were problems for the following otherwise plausible theory of knowledge.
+
+To know a proposition is to have a reasonable, true, belief in the proposition.
+
+---
+
+<center>
+
+![](argdown/05-06.png){height=650}
+
+</center>
+
+## Gettier's Argument
+
+But Gettier at least did not stop there. He threw in, almost as an afterthought, the following argument for P2. (Actually for the equivalent of P2 in his, more convoluted, example.)
+
+---
+
+<center>
+
+![](argdown/05-07.png){height=650}
+
+</center>
+
+      
+## Knowledge and Falsity
+
+### Big controversial claims
+
+And P2a, that you can't get knowledge by inference from a false premise, is really controversial.
+
+Possible counterexample: 19th century engineers used Newtonian physics in their calculations, which is only approximately true, i.e., not actually true.
+
+But they knew a lot of things about which bridges would stand up.
+
+## A Convoluted Argument Map
+
+### Arguing for premises makes everything messy
+
+It's really tricky to map out the argument here.
+
+This isn't just because it's hard to draw the map, it's hard to make sense of the actual argument. I've tried on the next slide. (If you can't read it; I'll put these on Canvas. It is very small.)
+
+And I think we'll get the same issue whenever someone puts forward a premise, and then throws in an argument for it.
+
+
+---
+
+<center>
+
+![](argdown/05-08.png){height=650}
+
+</center>
+                      
+# For Next Time
+
+## Objection!
+
+We'll look at ways to object to arguments

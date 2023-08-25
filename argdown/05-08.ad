@@ -1,0 +1,20 @@
+===
+map:
+  argumentLabelMode: none # no text in argument nodes
+dot:
+    argument:
+        shape: circle # argument nodes are in the shape of circles
+        minWidth: 0.2 # let's make those circles really small
+    graphVizSettings:
+        rankdir: TB # arrows flow from top to bottom (to produce a tree-like structure)
+===
+
+[Knowledge ≠ Reasonable True Belief]
+   + <a1>
+      + [P1]: The traveller has a reasonable true belief that there's a fire.
+      + [P2]: The traveller does not know that there's a fire.
+          + <a2>
+            + [P2]: The traveller does not know that there's a fire.
+          + <a3>
+            + [P2a]: You can't get knowledge by inference from a false premise.
+            + [P2b]: The traveller infers that there's a fire from a false premise.

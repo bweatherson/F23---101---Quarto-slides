@@ -1,0 +1,15 @@
+===
+map:
+  argumentLabelMode: none # no text in argument nodes
+dot:
+    argument:
+        shape: circle # argument nodes are in the shape of circles
+        minWidth: 0.2 # let's make those circles really small
+    graphVizSettings:
+        rankdir: TB # arrows flow from top to bottom (to produce a tree-like structure)
+===
+
+[Knowledge ≠ Reasonable True Belief]
+   + <a1>
+      + [P1]: The traveller has a reasonable true belief that there's a fire.
+      + [P2]: The traveller does not know that there's a fire.
