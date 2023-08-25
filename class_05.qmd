@@ -3,7 +3,7 @@ title: Complex Arguments
 subtitle: Philosophy 101 - Class 05
 format:
   clean-revealjs:
-    self-contained: true
+    self-contained: false
 author:
   - name: Brian Weatherson
     orcid: 0000-0002-0830-141X
@@ -106,7 +106,7 @@ That means there is a hidden premise, something about the morality of cat tortur
 
 ### An old example, from 9th century Indian philosophy
 
-A traveller is walking through the hills. He sees a black cloud over the next hill. It looks a lot like smoke, and he infers that there's a fire over the hill. There is a fire, but that cloud isn't snmoke. It's some flies that have gathered over the fire.
+A traveller is walking through the hills. He sees a black cloud over the next hill. It looks a lot like smoke, and he infers that there's a fire over the hill. There is a fire, but that cloud isn't smoke. It's some flies that have gathered over the fire.
 
 ## Poll
 
@@ -156,26 +156,87 @@ And step 2 is both a conclusion, of an argument from 1, and a premise, of an arg
 
 ## Argument Maps
 
-```argdown-map
-===
-selection:
-  statementSelectionMode: all # adds all statements as nodes to the map
-model:
-  explodeArguments: true # adds argument nodes for each inferential step of each argument
-map:
-  argumentLabelMode: text # no text in argument nodes
-  statementLabelMode: text # no titles in statement nodes
-dot:
-    argument:
-        shape: circle # argument nodes are in the shape of circles
-        minWidth: 0.2 # let's make those circles really small
-    graphVizSettings:
-        rankdir: TB # arrows flow from top to bottom (to produce a tree-like structure)
-===
+To present arguments like this, I'm going to use a new format, called **argument maps**.
 
-[The streets are wet]
-   + [It is raining]
-       + [Everyone who walks into class is wet]
-      
-```
+This is, by philosophy standards, a very new idea - it was only developed in the last 20 years. (If Plato didn't know about an idea, we sometimes treat it as new.)
+
+The next slide has one way we could present the argument from the last slide.
+
+---
+
+![](argdown/05-01.png)
+
+## Argument Maps
+
+For reasons that I'll get to shortly, it's usually helpful to mark explicitly where an argument step occurs.
+
+I'll do these with small circles. So the revised version of the map looks like this.
+
+---
+
+<center>
+
+![](argdown/05-02.png){height=650}
+
+</center>
+
+## Dots
+
+We'll eventually have three reasons to include these dots.
+
+One, that I actually won't make a huge use of, is that you can expand them to describe what kind of argument that you're using.
+
+I do that on the next slide.
+
+---
+
+<center>
+
+![](argdown/05-03.png){height=650}
+
+</center>
+
+## Dots and Arguments
+
+Another reason is that it lets you distinguish the following two cases.
+
+1. Someone offers an argument with two premises for a particular conclusion.
+2. Someone offers two distinct arguments, each with one premise, for the same conclusion.
+
+## Multiple Arguments
+
+This is something that happens a lot in philosophy.
+
+A philosophy paper often won't just develop one argument for its main conclusion.
+
+It will offer multiple reasons to believe the one conclusion.
+
+## Single Argument with Two Premises
+
+![The two arrows into the dot mean that these premises combine in the argument](argdown/05-04.png)
+
+## Two Arguments with a Single Premise
+
+![The dots mean there are two arguments](argdown/05-05.png)
+
+## The Difference in Practice
+
+It isn't always easy to tell when someone is offering one or the other of these argument forms.
+
+The main thing we do is use the **principle of charity**.
+
+If they offer P1 and P2 as premises, and neither of them on their own supports the conclusion, we should assume that they mean them to combine.
+
+## The Difference in Practice
+
+There are also signs that an author can use to indicate which of the two types they have in mind.
+
+- If they explicitly refer to the **conjunction** of the two premises, e.g., they say "From this premise and that premise it follows that...", then they probably mean to indicate a single argument.
+- If they say "From this premise, conclusion, and **also** this premise implies/supports..." they probably mean to offer two arguments.
+
+## The Difference in Practice
+
+Which kind of argument form the speaker is offering is important for thinking about which kinds of responses to their argument are going to work.
+
+But that's something we'll deal with more next time, when we look in more details at the ways in which one can respond to arguments.
 

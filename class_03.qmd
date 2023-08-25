@@ -11,7 +11,7 @@ author:
     affiliations: University of Michigan
 date: 2023-09-05
 bibliography: refs.bib
-from: markdown+fancy_lists+raw_html
+from: markdown+fancy_lists+raw_html+argdown_filter
 ---
 
 # Validity and Form {background-color="#40666e"}

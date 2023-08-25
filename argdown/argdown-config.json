@@ -1,0 +1,21 @@
+{
+  "selection": {
+    "statementSelectionMode": "all"
+  },
+  "model": {
+    "explodeArguments": true
+  },
+  "map": {
+    "argumentLabelMode": "none",
+    "statementLabelMode": "text"
+  },
+  "dot": {
+    "argument": {
+      "shape": "circle",
+      "minWidth": 0.3
+    },
+    "graphVizSettings": {
+      "rankdir": "TB"
+    }
+  }
+}
