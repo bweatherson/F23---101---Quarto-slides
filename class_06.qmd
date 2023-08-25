@@ -39,11 +39,11 @@ from: markdown+fancy_lists+raw_html
 
 The map of the initial argument makes it look like there should be three places to object.
 
-![](argdown/06_01.png)
+<center>
 
-[Brian's lectures are good.]
-   + <a1>
-      + [Brian's jokes are funny.]
+![](argdown/06-01.png){height=650}
+
+</center>
       
 ## Argument Maps
 
@@ -51,15 +51,12 @@ The map of the initial argument makes it look like there should be three places 
   
 One annoyance is that the representation uses color, and not 100% of people can see the color differences.
 
-The graphs use red for objections, and green for support.
-
-There is also slightly different shading, which hopefully helps if red and green look similar to you.
+The graphs use red for objections, and green for support. I'll try to come up with something better 
 
 ## Objecting to the premise
 
-![](argdown/06_02.png)
+<center>
 
-[Brian's lectures are good.]
-   + <a1>
-      + [Brian's jokes are funny.]
-          - [I didn't see a joke.]
+![The new statement is a reason to reject the original premise.](argdown/06-02.png){height=650}
+
+</center>
