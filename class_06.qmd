@@ -1,6 +1,6 @@
 ---
 title: Objection!
-subtitle: Philosophy 101 - Class 04
+subtitle: Philosophy 101 - Class 06
 format:
   clean-revealjs:
     self-contained: true
@@ -9,12 +9,12 @@ author:
     orcid: 0000-0002-0830-141X
     email: weath@umich.edu
     affiliations: University of Michigan
-date: 2023-09-07
+date: 2023-09-14
 bibliography: refs.bib
 from: markdown+fancy_lists+raw_html
 ---
 
-# Three Ways to Object
+# Three Ways to Object {background-color="#40666e"}
 
 ## A Bad Argument
 
@@ -29,7 +29,7 @@ from: markdown+fancy_lists+raw_html
 
 :::{.incremental}
 1. Object to the premise - the jokes are not funny. (There are jokes?)
-2. Object to the reasonining from premise to conclusion - good jokes are not important to a lecture.
+2. Object to the reasoning from premise to conclusion - good jokes are not important to a lecture.
 3. Object to the conclusion - the lectures are bad for some other reason.
 :::
 
@@ -41,7 +41,7 @@ The map of the initial argument makes it look like there should be three places 
 
 <center>
 
-![](argdown/06-01.png){height=650}
+![](argdown/06-01.png){height=400}
 
 </center>
       
@@ -51,12 +51,228 @@ The map of the initial argument makes it look like there should be three places 
   
 One annoyance is that the representation uses color, and not 100% of people can see the color differences.
 
-The graphs use red for objections, and green for support. I'll try to come up with something better 
+The graphs use red for objections, and green for support. This isn't great for everyone, so I'll also put the objection cells in a different shade, and write **Objection** at the top of them.
 
 ## Objecting to the premise
 
 <center>
 
-![The new statement is a reason to reject the original premise.](argdown/06-02.png){height=650}
+![The new statement is a reason to reject the original premise.](argdown/06-02.png){height=500}
 
 </center>
+
+## Objecting to the argument
+
+<center>
+
+![The new statement is a reason to reject the original reasoning.](argdown/06-03.png){height=500}
+
+</center>
+
+## Objecting to the conclusion
+
+<center>
+
+![The new statement is an independent reason to reject the conclusion.](argdown/06-04.png){height=500}
+
+</center>
+
+## Iterating All of This
+
+In the interests of not cluttering the slides, I didn't include dots between any of the objections and what they were objections to.
+
+But I could have done that, because all the reasons we have for including these dots.
+
+## Reasons for Including Dots
+
+1. Describing the reasoning we're using.
+2. Distinguishing between two arguments for a conclusion and a two-part argument for a conclusion.
+3. Noting when an object is really an objection to the **argument** and not to the premise or conclusion.
+
+If we are looking at more complicated things than a single argument and objection, all these reasons come back.
+
+On the other hand, they do add to clutter, and these graphs are already getting cluttered.
+
+## Two or Three Objection Styles
+
+1. Object to premise
+2. Object to reasoning
+3. Object to conclusion
+
+If the argument is **valid**, i.e., the premises guarantee the conclusion, option 3 is ruled out.
+
+But in the general case all three are available.
+
+## Replies to Objections
+
+And the same three moves are available in general (with the caveat that sometimes the third will be ruled out).
+
+:::{.incremental}
+1. Reply to the premise of the objection. (This is most common.)
+2. Reply to the reasoning behind the objection. (Rare, but sometimes relevant in statistics.)
+3. Point out reasons for the conclusion. (Fairly common in philosophy.)
+:::
+
+# Treating Objections Seriously  {background-color="#40666e"}
+
+## Understanding Replies
+
+Here's the most important part of all this, and the thing that students often have the most trouble with.
+
+Part of replying to an objection is to present the objection as well as it can be presented.
+
+This creates problems for both **writers** and **readers**, and we'll talk about them in turn.
+
+## For Writers
+
+It's really tempting when writing to present a weak version of the opposing view, and then have fun showing how bad it is.
+
+**Do not do this.**
+
+Good philosophical writing involves stating the strongest form of the rival view, and responding to it.
+
+## Disciplinary Norms
+
+Note that this isn't true in all fields, and with good reason.
+
+It's not part of your job writing, say, a legal brief, or a political speech, to do the opposing side's work for them.
+
+In some cases it might be fine to respond to just the existing versions of the argument. At the very least, you should find out when you're writing what the expectations are.
+
+But in philosophy, and I suspect most academic writing in LSA, you should present the opposing views as well as you can. (But do check what is expected in different fields.)
+
+## For Readers
+
+Sometimes when a reader is skimming a paper, they will come across a passage that gives a clear, well-reasoned argument for a conclusion $C$.
+
+And then they will come away saying "Oh this author argues for $C$", and maybe even with a sense of what the argument for $C$ was.
+
+. . .
+
+The problem is that this was the clear presentation of the rival view, and the author was **rejecting** $C$, after giving the best argument for it.
+
+## How to Avoid This
+
+This kind of misreading is **very easy** to do, and it's worth going over some strategies for not doing it.
+
+I'll divide these strategies up into **local** and **global** strategies. (Where this is a spectrum, some strategies are in between.)
+
+The **local** strategies involve looking at the passages where the argument for $C$ is given.
+
+The **global** strategies involve looking at the broader paper.
+
+## How Hard a Problem
+
+Before getting into more details, an anecdote, which is about how hard a problem this is.
+
+Over the summer I was chasing up some philosophy works from the 1930s for a project I was doing. These guys (and they were almost all guys) wrote *long* books, and I wanted help getting a sense of the big picture. So I asked ChatGPT for summaries of some of the books.
+
+. . .
+
+And in one case it was off by 180 degrees. Even with the little I knew, I was sure that what they were describing as this author's view was the view this author was attacking.
+
+## Lessons
+
+1. Don't trust ChatGPT for this problem. Maybe the next generation or two will fix this, but current tech doesn't do a great job of distinguishing conclusions from someone's attempt to set out a rival view.
+2. Sometimes the skills you need for this job are things that GPT is bad at, in particular looking at whole texts.
+
+## Local Strategies
+
+Look for phrases like
+
+- "My opponent might say..."
+- "One might object that..."
+- "An alternative explanation is that..."
+
+. . .
+
+Look for attributions of the argument to other people. This isn't conclusive; sometimes they are following that person, but it's evidence you're about to get a reply.
+
+## Intermediate Strategies
+
+Look for replies to the argument immediately after the passage with the good argument for $C$.
+
+. . .
+
+
+Look for attributions of the argument to the "X-ist", where it's clear from the intro/conclusion of the paper that X is the rival view.
+
+## Global Strategies
+
+Read the whole paper, and see where this fits in the grand scheme of the paper.
+
+This is less a strategy and more a "This is hard and sometimes the shortcuts just ain't there" reminder.
+
+But having taught courses like this before, I am very confident that if we don't spend some time on this point, **someone** will get this badly wrong some time in the semester.
+
+# What Objections Show {background-color="#40666e"}
+
+## Two Kinds of Consequence
+
+What happens if you come up with a really good objection to an argument?
+
+Well, it depends on what the objection is, and in particular what it's an objection to.
+
+## Objections to Conclusion
+
+This could be dramatic - you can make the conclusion very improbable by coming up with an independent objection to it.
+
+But remember, if the opponent has a valid argument, this kind of objection isn't even available.
+
+## Objection to Argument
+
+This might not show that the conclusion is improbable.
+
+All it shows is that the rival's argument for the conclusion doesn't work.
+
+But there could be other arguments.
+
+## Objecting to the argument
+
+<center>
+
+![Even if the objection works, the conclusion might be supported on other grounds.](argdown/06-03.png){height=500}
+
+</center>
+
+## Burden of Proof
+
+Sometimes you'll see philosophers argue that one or other side has the 'burden of proof' in an argument, so if their argument fails, it means their conclusion should be rejected.
+
+I think we should be very sceptical about taking this notion from law courts, where it has a very important legal/political role, and bringing it into philosophy.
+
+If there are no good arguments for any particular side of a debate, we should keep looking, not declare one side the victor by default.
+
+## Multiple Arguments
+
+Showing that one of the arguments fails might show absolutely nothing at all.
+
+If the other argument is still there, and still good, the conclusion could be just as strongly supported.
+
+It's a pain to respond to things that have a flurry of arguments for the same conclusion, and sometimes you should just say "This argument is obviously weak", but sometimes you really have to go through things one by one by one.
+
+## Aside about Philosophical Connection
+
+This is sort of how I feel about philosophical scepticism, the view that we can't know very much about the external world.
+
+There isn't one main argument for scepticism.
+
+There are a lot of such arguments, and interestingly, they recur in related but distinct ways across different philosophical traditions.
+
+And the anti-sceptic has to go through them one-by-one and reply to all of them.
+
+## Chain Arguments
+
+This is in some ways the reverse of the multiple arguments position.
+
+If the arguer is relying on a long chain of inferences, you've got a lot of ways to attack them.
+
+In this case, a chain really is only as strong as its weakest link. 
+
+So you don't have to show that every step fails, just that one of them does.
+
+# For Next Time {background-color="#40666e"}
+
+## Russell
+
+We'll start reading Bertrand Russell's _The Problems of Philosophy_, starting naturally enough with chapter 1.

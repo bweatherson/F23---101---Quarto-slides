@@ -12,15 +12,16 @@ dot:
 ===
 
 [Conclusion] 
+   <- [Objection] #tag-1
    + <a1>
       + [Premise] 
-        <- [Objection] #tag-1
+
 
 [Conclusion]: Brian's lectures are good.
 
 [Premise]: Brian's jokes are funny.
 
-[Objection]: I didn't see a joke.
+[Objection]: Brian's slides are ugly.
 
 <a1>:  
 
