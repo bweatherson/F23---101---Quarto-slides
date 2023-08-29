@@ -40,22 +40,15 @@ bibliography: refs.bib
 
 2207 Angell Hall
 
-Office Hours: XXXX
+Office Hours: Tues/Thurs 10.30-11.30
 :::
 :::
 
 ## Discussion Section Leaders
 
-### XXXX and YYYY
+### Alison Weinberger and Fatimah Alhawary
 
-::: {#fig-elephants layout-ncol=2}
-
-![XXXX](Demo/images/kanagawa.jpg){height=300}
-
-![YYYY](Demo/images/kanagawa169.jpg){height=400}
-
-The discussion section leaders
-:::
+They're here and I can introduce them in person.
 
 # This Course {background-color="#40666e"}
 
@@ -96,7 +89,12 @@ Brian's online versions of the books.
 
 ### What You Have to Do
 
-TKTK
+:::{.incremental}
+1. Do the reading before lecture, attend lecture, and answer iClicker questions during lecture. (Some of these will be full points for any answer, as the aim is to get a sense of the room; questions about the reading will typically be marked correct or incorrect.)
+2. Attend discussion sections, and participate fully. (The discussion section leader will tell you more about what they are expecting.)
+3. Do three short assignments during the early part of term.
+4. Write two longer essays during the later part of term.
+:::
 
 ## Canvas
 
@@ -104,9 +102,9 @@ TKTK
 
 This course, like pretty much all courses, has a canvas site.
 
-Go to [canvas.umich.edu](https://canvas.umich.edu), and you should find it easily enough.
+Go to [canvas.umich.edu](https://canvas.umich.edu), and you should find it easily enough. (UPDATE 8/29 8:30am: You cannot in fact find it easily enough, especially without internet.)
 
-It has the **syllabus**, links to the readings, these slides (as they are written).
+It has the **syllabus**, links to the readings, these slides (after class).
 
 ## Books
 
@@ -168,10 +166,10 @@ I've heard even of courses that organise their entire introductory course around
 
 I'm not going to do that for two reasons.
 
-### {.incremental}
+:::{.incremental}
 1. It sounds really dire.
 2. There is a simple answer - philosophy is theory.
-###
+:::
 
 ## Philosophy as Theory
 
@@ -343,7 +341,7 @@ Some philosophy courses look at philosophical topics from a certain perspective,
 Because in every discipline you need to think about:
 
 1. How do we find out about the part of the world that we're studying?
-2. What should we do with that information.
+2. What should we do with that information?
 
 The first is epistemology, the second is ethics. And they are unavoidable subjects.
 
