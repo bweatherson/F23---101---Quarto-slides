@@ -1,0 +1,161 @@
+---
+title: _Problems of Philosophy_, Chapter 1
+subtitle: Philosophy 101 - Class 07
+format:
+  clean-revealjs:
+    self-contained: true
+author:
+  - name: Brian Weatherson
+    orcid: 0000-0002-0830-141X
+    email: weath@umich.edu
+    affiliations: University of Michigan
+date: 2023-09-19
+from: markdown+fancy_lists+raw_html
+---
+
+# Bertrand Russell {background-color="#40666e"}
+
+# Color Variation
+
+## Color Realism
+
+If colors are real, they presumably are really something physical.
+
+We know very roughly what features of objects cause color sensations in creatures like us: their reflectance properties.
+
+E.g., red objects reflect light of wavelength around 620 to 750nm, and absorb light of other wavelengths. Blue objects, on the other hand, reflect light with much shorter wavelengths, around 420 to 500nm.
+
+## Color Realism
+
+So that's what a simple realist view would say about color.
+
+To be red just is to have the property that you predominantly reflect light of a certain wavelength, in normal circumstances.
+
+. . .
+
+That last phrase looks like it will cause trouble - what's a normal circumstance. And it does indeed cause trouble.
+
+## Aim For Rest of Class
+
+- Go over some puzzles for color realism.
+- Introduce you to a few facts about color which are philosophically and psychologically interesting.
+- Go over some ways of raising doubts about realism in a domain that might generalise to doubts about other kinds of realism.
+
+## An Experiment
+
+This might all end very badly for the professor, but I'm going to run a little in class experiment.
+
+For the next few slides I'm going to have colored backgrounds on the slides. The colors will all be in the vicinity of blue.
+
+## &nbsp; {background-color="#0000FF"}
+
+Is the background to this slide:
+
+| (A) Purple-ish blue
+| 
+| (B) Just blue
+| 
+| (C) Green-ish blue
+
+## &nbsp; {background-color="#008888"}
+
+Is the background to this slide:
+
+| (A) Purple-ish blue
+| 
+| (B) Just blue
+| 
+| (C) Green-ish blue
+
+## &nbsp; {background-color="#4400BB"}
+
+Is the background to this slide:
+
+| (A) Purple-ish blue
+| 
+| (B) Just blue
+| 
+| (C) Green-ish blue
+
+## &nbsp; {background-color="#001FE0"}
+
+Is the background to this slide:
+
+| (A) Purple-ish blue
+| 
+| (B) Just blue
+| 
+| (C) Green-ish blue
+
+## &nbsp; {background-color="#0F00F0"}
+
+Is the background to this slide:
+
+| (A) Purple-ish blue
+| 
+| (B) Just blue
+| 
+| (C) Green-ish blue
+
+## &nbsp; {background-color="#0050BF"}
+
+Is the background to this slide:
+
+| (A) Purple-ish blue
+| 
+| (B) Just blue
+| 
+| (C) Green-ish blue
+
+## &nbsp; {background-color="#3000CF"}
+
+Is the background to this slide:
+
+| (A) Purple-ish blue
+| 
+| (B) Just blue
+| 
+| (C) Green-ish blue
+
+## Results
+
+At this time I'm writing these slides, I don't know how these experiments will go. As you can probably tell, I'm not exactly an expert in experiment design.
+
+But when people who are experts in experiment design run experiments like this, what they find is there is a fair bit of variation in what people take to be 'just blue'.
+
+. . .
+
+And, the variation isn't completely random; it is correlated with gender.
+
+## Metamers
+
+To understand what a metamer is, we need a crash course in how human color vision works.
+
+This is going to be incredibly rough - if an actual scientist tells you something other than it, believe them.
+
+And it's only for neurologically/anatomically typical humans. Which is most but definitely not all of us.
+
+## Metamers
+
+Humans (typically) perceive colors because they have three kinds of sensors in their eyes that are sensitive to light of different wavelengths.
+
+With only some violence to the facts, we can think of these as red-detectors, green-detectors, and blue-detectors.
+
+## Metamers
+
+Of course we can perceive many more colors than three. 
+
+And we don't perceive all other colors as mixtures.
+
+Yellow doesn't look like a mix of red/green/blue in some proportions, the way that purple kind of does.
+
+That's because the brain does quite a lot with the signals from these three detectors subconsciously.
+
+## Metamers
+
+But still, there are only three of the detectors.
+
+And that means that two light sources with very different characteristics can trigger each of the detectors to the same amount.
+
+1. A pure yellow light, around 575nm.
+2. A mix of blue light, green light, and red light, each at the level that the yellow light triggers our three detectors.
