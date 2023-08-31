@@ -14,6 +14,16 @@ bibliography: refs.bib
 from: markdown+fancy_lists
 ---
 
+## iClicker Instructions
+
+### <https://join.iclicker.com/PSPL> 
+
+- If you already have an iClicker account, do not create a new account. iClicker will attempt to find your account for you.
+- If an account is found: Enter your existing iClicker password. Select “Link Accounts” to complete setup. 
+- If you have an iClicker account under a different email: Select “Yes”  and enter your account information to update your account.
+- If you do not have an iClicker account: Select “No,” then select “Create Account.” An account will be set up for you. **Use your UM email to set this up, so that it will know you are covered under UM's subscription**.
+
+
 # Arguments {background-color="#40666e"}
 
 ## Arguments
