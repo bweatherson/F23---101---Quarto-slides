@@ -15,6 +15,66 @@ from: markdown+fancy_lists+raw_html
 
 # Bertrand Russell {background-color="#40666e"}
 
+## Biography
+
+- Bertrand Russell was born in 1872 and died in 1970.
+- It's weird to think that someone born during Ulysses Grant's first term lived to see the moon landing.
+- Very prominent both inside academic philosophy, and also popular with the general public. Growing up our house had several Russell books on the shelves, and while my parents had more books than many others, they weren't academics.
+
+## Breadth
+
+- In philosophy, Russell wrote works that sold lots of copies, and works that have been part of the undergrad curriculum ever since, and more technical works that have been part of the graduate curriculum ever since.
+- He was also an important figure in mathematics, playing a crucial role in the development of set theory, and in the formalisation of proof theory. 
+- And he was a high profile public figure, especially in anti-war campaigns.
+- Despite being literally an aristocrat (he was Lord Russell later in life when his ancestors died), he was imprisoned during World War I for anti-war activities.
+- And because he kept on living, he met the Beatles during protests against the Vietnam War.
+
+## Philosophical Views
+
+- Because he lived so long, it's hard to say what his views were; he changed his mind on a lot of things.
+- Indeed, he would reject a lot of the views in this book within years of writing it.
+- _Problems_ is in many ways a reaction to the philosophy of the generation before Russell, and the generation after him convinced him that his rejection wasn't complete enough.
+- So don't think this is telling you what philosophers think; it's saying what one philosopher thought at one time.
+
+# Idealism and Realism {background-color="#40666e"}
+
+## Background: Idealism
+
+- The background to the book is that when it was written, most British philosophers believed in a doctrine called **idealism**.
+- This isn't a political view; it's not like they were proto-Bernie Sanders supporters with strong political ideals.
+- It's derived from **idea**, not **idealism**.
+- Idealism, _in this context_, is the view that the world is fundamentally mental.
+
+## Versions of Idealism
+
+- Everything is an idea in the mind of God.
+- The physical building blocks of the world (sub-atomic particles), have mental properties.
+- Facts about the world are constituted by human ideas. If a tree falls in the forest and no one hears it, it doesn't make a sound, and if no one walks that way, it didn't even fall.
+
+## Alternative View: Realism
+
+- One aim of this book is to set out and defend **realism**.
+- Realism, _in this context_, is the view that there is a mind-independent physical reality, and we can come to know quite a lot (but not everything!) about it.
+
+. . .
+
+- Another aim of the book is to argue against idealism. And we're mostly going to skip those parts; they aren't that interesting unless you antecedently are tempted by idealism. (As Russell himself was through about 1898; he's criticising his own youthful views here.)
+
+# Alternative Metaphysics {background-color="#40666e"}
+
+## Pragmatism
+
+In America at the time a rival view known as **pragmatism** was being developed. This term covers a wide range of views, but the general idea is that knowledge about the world is closely tied with acting in the world.
+
+- Pragmatists thought that both realists and idealists were mistaken, because whether it turns out that tables are fundamentally made of quantum waves or divine ideas makes no difference to how we should interact with the table.
+
+## Positivism
+
+In continental Europe, especially in Austria, a similar view called **positivism** was being developed.
+
+- The key positivist idea was that a claim is meaningful only to the extent that some experiment could provide evidence for or against it.
+- The positivists thought that the things realists and idealists said were literally _meaningless_, as if they were grunting.
+
 # Color Variation
 
 ## Color Realism
