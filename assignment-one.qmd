@@ -1,0 +1,120 @@
+---
+title: "Assignment One Questions"
+author: "Brian Weatherson"
+execute:
+  echo: FALSE
+  warning: FALSE
+  cache: TRUE
+  error: FALSE
+format: pdf
+editor: visual
+---
+
+# First Prompt
+
+```{r}
+#| echo: FALSE
+#| warning: FALSE
+#| cache: TRUE
+#| error: FALSE
+require(tidyverse)
+require(jsonlite)
+
+mydata <- fromJSON(txt="../quizdata.json")
+
+quiz_questions <- mydata$values
+
+quiz_tibble <- as_tibble_col(quiz_questions) 
+
+
+vec <- setNames(rep("", 12), unlist(quiz_tibble[[1, 1]]))
+my_tibble <- bind_rows(vec)[0, ]
+
+for (i in 2:498){
+  new_data <- setNames(as_tibble(t(unlist(quiz_tibble[[i, 1]]))), unlist(quiz_tibble[[1, 1]]))
+  my_tibble <- my_tibble |>
+    bind_rows(new_data)
+}
+```
+
+`r my_tibble$passage[[37]]`
+
+```{r}
+#| output: asis
+for (i in 37:42){
+  cat("## Question ", i-36, "\n\n")
+  
+  cat(my_tibble$question[[i]],"\n\n")
+  
+  cat("1. ", my_tibble$choice1[[i]],"\n")
+  cat("2. ", my_tibble$choice2[[i]],"\n")
+  cat("3. ", my_tibble$choice3[[i]],"\n")
+  cat("4. ", my_tibble$choice4[[i]],"\n")
+  cat("5. ", my_tibble$choice5[[i]],"\n\n")
+  
+  cat("**Answer**: ",my_tibble$correct[[i]],"\n\n")
+}
+```
+
+# Second Prompt
+
+`r my_tibble$passage[[75]]`
+
+```{r}
+#| output: asis
+for (i in 75:81){
+  cat("## Question ", i-68, "\n\n")
+  
+  cat(my_tibble$question[[i]],"\n\n")
+  
+  cat("1. ", my_tibble$choice1[[i]],"\n")
+  cat("2. ", my_tibble$choice2[[i]],"\n")
+  cat("3. ", my_tibble$choice3[[i]],"\n")
+  cat("4. ", my_tibble$choice4[[i]],"\n")
+  cat("5. ", my_tibble$choice5[[i]],"\n\n")
+  
+  cat("**Answer**: ",my_tibble$correct[[i]],"\n\n")
+}
+```
+
+# Third Prompt
+
+`r my_tibble$passage[[135]]`
+
+```{r}
+#| output: asis
+for (i in 135:143){
+  cat("## Question ", i-121, "\n\n")
+  
+  cat(my_tibble$question[[i]],"\n\n")
+  
+  cat("1. ", my_tibble$choice1[[i]],"\n")
+  cat("2. ", my_tibble$choice2[[i]],"\n")
+  cat("3. ", my_tibble$choice3[[i]],"\n")
+  cat("4. ", my_tibble$choice4[[i]],"\n")
+  cat("5. ", my_tibble$choice5[[i]],"\n\n")
+  
+  cat("**Answer**: ",my_tibble$correct[[i]],"\n\n")
+}
+```
+
+# Fourth Prompt
+
+`r my_tibble$passage[[315]]`
+
+```{r}
+#| output: asis
+for (i in 315:323){
+  cat("## Question ", i-292, "\n\n")
+  
+  cat(my_tibble$question[[i]],"\n\n")
+  
+  cat("1. ", my_tibble$choice1[[i]],"\n")
+  cat("2. ", my_tibble$choice2[[i]],"\n")
+  cat("3. ", my_tibble$choice3[[i]],"\n")
+  cat("4. ", my_tibble$choice4[[i]],"\n")
+  cat("5. ", my_tibble$choice5[[i]],"\n\n")
+  
+  cat("**Answer**: ",my_tibble$correct[[i]],"\n\n")
+}
+```
