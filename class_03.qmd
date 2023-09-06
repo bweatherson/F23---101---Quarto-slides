@@ -11,7 +11,7 @@ author:
     affiliations: University of Michigan
 date: 2023-09-05
 bibliography: refs.bib
-from: markdown+fancy_lists+raw_html+argdown_filter
+from: markdown+fancy_lists+raw_html
 ---
 
 # Validity and Form {background-color="#40666e"}
@@ -491,13 +491,13 @@ C.  Joe Biden is a Michigander. \ \ \ \ \
 **Argument Seven**
 
 1. All $F$s are $G$s
-2. All $G$s are $G$s
+2. All $G$s are $H$s
 C.  All $F$s are $H$s \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
 
 **Argument Eight**
 
 1. Some $F$s are $G$s
-2. Some $G$s are $G$s
+2. Some $G$s are $H$s
 C.  Some $F$s are $H$s \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
 
 
@@ -521,13 +521,13 @@ D.  Neither Seven nor Eight.
 **Argument Seven**
 
 1. All $F$s are $G$s
-2. All $G$s are $G$s
+2. All $G$s are $H$s
 C.  All $F$s are $H$s \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
 
 **Argument Eight**
 
 1. Some $F$s are $G$s
-2. Some $G$s are $G$s
+2. Some $G$s are $H$s
 C.  Some $F$s are $H$s \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
 
 
@@ -583,6 +583,67 @@ C.  Some city in the USA is in Canada. (False, cities are within countries.)
 ## Argument Eight
 
 We can also do this with Venn Diagrams, though I'll leave that as an exercise.
+
+## Ferdinand the Puzzle
+
+### What follows from some premises?
+
+::: columns
+::: {.column width="45%"}
+Given the following premises, what follows, i.e., must be true. (Could be 0, 1, or more than 1.)
+
+1. All bulls are fierce.
+2. Ferdinand is not fierce.
+
+
+:::
+
+::: {.column width="45%"}
+
+
+A.  Ferdinand is fierce.
+B.  Ferdinand is not fierce.
+C.  Ferdinand is a bull.
+D.  Ferdinand is not a bull.
+
+:::
+:::
+
+## Ferdinand the Puzzle
+
+### What follows from some premises?
+
+::: columns
+::: {.column width="45%"}
+Given the following premises, what follows, i.e., must be true. (Could be 0, 1, or more than 1.)
+
+1. All bulls are fierce.
+2. Ferdinand is not fierce.
+
+
+:::
+
+::: {.column width="45%"}
+
+
+A.  Ferdinand is fierce.
+B.  [Ferdinand is not fierce]{.bg style="--col: #90EE90"}.
+C.  Ferdinand is a bull.
+D.  [Ferdinand is not a bull]{.bg style="--col: #90EE90"}.
+
+:::
+:::
+
+## When Logic Gets Harder
+
+So far, this is reasonably simple. What we spend more time on in logic include the following:
+
+1. What conditionals are, and how many of them are there in English.
+2. How to talk about relations in logic (e.g., transitive, reflexive, etc.)
+3. How to talk about identity and distinctness in logic.
+4. Relatedly, what happens when there are infinitely many things around.
+5. How to talk about necessity in logic.
+6. How (if possible) to quantify over properties, or over pluralities.
 
 # For Next Time {background-color="#40666e"}
 
