@@ -1,0 +1,215 @@
+---
+title: _Problems of Philosophy_, Chapter 6
+subtitle: Philosophy 101 - Class 08
+format:
+  clean-revealjs:
+    self-contained: true
+author:
+  - name: Brian Weatherson
+    orcid: 0000-0002-0830-141X
+    email: weath@umich.edu
+    affiliations: University of Michigan
+date: 2023-09-21
+from: markdown+fancy_lists+raw_html
+---
+
+# Sources of Knowledge {background-color="#40666e"}
+
+## Two Relatively Uncontroversial Sources
+
+### Reason
+
+We can know some things, especially in logic and mathematics, by thinking hard about them. 
+
+These are sometimes called _a priori_ knowledge, because we could (in theory, sort of) know about them _prior_ to observing the world.
+
+## Two Relatively Uncontroversial Sources
+
+### Observation
+
+And we know some things by opening our eyes and ears, reaching out our limbs, and stumbling around.
+
+Russell, following a distinctive tradition in 17th-20th century European philosophy, thinks that what we learn in the first instance this way is something about our own mind.
+
+What we really observe is the nature of our own sensations; these are the sense-data.
+
+This is a _very_ strange view, and I'm mostly going to set it aside here.
+
+## Two Relatively Uncontroversial Sources
+
+### Observation
+
+It is a big question in **philosophy of mind** courses. Or, better, it's a few big questions.
+
+1. Does observation require conscious awareness?
+2. If so, do the conscious states matter because they are _what_ we are aware of, or they are _how_ we are aware of external things?
+3. If the latter (which is I think the intuitive view), what explains perceptual mistakes.
+
+## Two Relatively Uncontroversial Sources
+
+### Observation
+
+As I said, if you're interested in all of this, you are not short of options of courses.
+
+- Perception is a big question in philosophy of mind, and also in epistemology.
+- It's also a huge part of what we study in cognitive science.
+- And there are any number of physiology like courses, particularly on varieties of perception.
+- And, these days, there are computing courses on artificial observation.
+
+## Going Beyond That
+
+### Knowing about the unobserved world
+
+We'll often talk here about knowing about the future.
+
+But as Russell makes clear, that's a special case of what we really care about: knowing about the unobserved.
+
+The same issues arise when thinking about how much we know about the distant past, the ocean depths, distant galaxies, or even (perhaps) other minds.
+
+## Quiz Alert {background-color="#40666e"}
+
+The next slide is a **quiz**. 
+
+That means it's an iClicker question that you have to answer correctly for full marks.
+
+You'll have two minutes to answer it. (We'll reduce this in future classes if this feels like it is dragging.)
+
+## Quiz Question
+
+What is Russell's main example of something we know about the unobserved part of the world.
+
+1. Unobserved frogs are green.
+2. Everyone now alive will eventually die.
+3. The sun will rise tomorrow.
+4. Bread that we have not eaten will be nourishing.
+
+## Plan
+
+We're going to talk about past -> future inferences, understanding these as special cases of observed -> unobserved inferences.
+
+I'm not going to do the rest in the order Russell does, but instead go through some themes.
+
+- What is the role of persistence assumptions in Russell, and why does he think this might lead to circularity?
+- Russell has three distinctive features of this theory of induction: he gives **laws**, **probability**, and **enumerative induction** special places.
+- I'll end with several questions you might have about this account.
+
+# Persistence {background-color="#40666e"}
+
+## Basic Idea
+
+:::{.incremental}
+- Why do we think the sun will rise tomorrow? Because it always has.
+- Russell think we can give a better answer than this. Because the laws of (Newtonian) physics imply that it will
+- But why believe they will persist?
+:::
+
+## Knowledge of Laws
+
+There is a prior question that Russell kind of glides over here.
+
+- Why think the laws are right about the **observed** world?
+- Remember the time Russell is writing: 1912.
+- We already had some evidence that the laws weren't quite right.
+- In fact, we had evidence that there were slightly wrong in predictions, and very wrong in the underlying structure.
+- Is this a problem for Russell's approach to induction?
+
+## Inductive Habit
+
+It's important here to distinguish **descriptive** questions, about how we actually infer, from **evaluative** questions, about which inferences are good and bad.
+
+Clearly we do make inductive inferences; no one wonders whether the hot plate will hurt again this time.
+
+But the evaluative question is much harder.
+
+## Circularity Worry
+
+This is something that goes back to Hume, and we'll see it again when we get to Hume's book. Consider this argument:
+
+1. In the past, regularities have persisted from the then past to the then future.
+2. So in the future, regularities will persist from the then past to the then future
+
+- Russell says this "begs the question".
+
+## Question Begging
+
+By this he means something like that you'd only believe the argument was any good if you already believed the conclusion.
+
+There are (at least) two kinds of question-begging: 
+
+1. You'd only believe the premises if you( already) believe the conclusion; 
+2. You'd only believe that premises support conclusion if you (already) believe conclusion. 
+
+The latter is rarer, but is what's at issue here.
+
+# Three Distinctive Features {background-color="#40666e"}
+
+## Laws
+
+### According to Russell, it is law-conforming inferences that are central
+
+- Russell makes a big claim here, which is plausible but worth considering.
+- The patterns that it is reasonable to expect to continue are those that follow from laws.
+- It's not surprising when we find things like balloons or airplanes that violate regularities.
+
+## Laws
+
+### Quick historical reminder
+
+- Again, remember the time Russell is writing: 1912. 
+- Balloons had been around for a bit; they are used for military purposes in the French Revolution.
+- But Russell is writing just a few years after Kitty Hawk. They are a surprising variation to familiar experience.
+- Russell thinks they shouldn't be too surprising, because they are law-conforming.
+
+## Laws
+
+### Knowledge of laws
+
+- What he thinks would be really surprising would be changing the laws.
+- Of course - our views on the laws did in fact change really soon after this. 
+- Gravity is understood very differently in Einstein's theory of motion to Newton's.
+
+## Laws
+
+## Alternatives
+
+What would be an alternative to giving laws this central place. Two important alternatives:
+
+1. Simply stress correlations. Russell I think dislikes this because correlations (like flying objects are not man-made) break so often.
+2. Stress causal connections. You don't have to have a law to know that Y doesn't just follow X, it was caused by X. Russell for independent reasons is sceptical of making causation central, but this is a very popular move historically.
+
+## Probability
+
+### A caveat on Russell's theory?
+
+- Russell states something that would have been very surprising to philosophers even a few years earlier.
+- He had been convinced of it by a then graduate student working with him: John Maynard Keynes.
+- The surprising claim is that what we really get from induction is that things will *probably* continue the same way.
+- In a slogan: **Induction yields probability**.
+
+## Probability
+
+### Induction yields probability
+
+- This is actually a somewhat sceptical position, contra Russell's purported aims.
+- This concession happens 2/3 of the way in, and I don't think it's flagged how big a change it is.
+- On Russell's view, I'm not sure we really know that the sun will rise tomorrow, just that it **probably** will.
+
+## Probability
+
+### What is probable
+
+Russell thinks that after enough repetitions, the following happens.
+
+- The probability that the next F is G rises really high; close to 1.
+- The probability that all Fs are Gs rises really high; close to 1.
+
+Actually this is odd; if there are lots of Fs, and each one has some probability of being not-G, it seems surprising that the probability in the generalisation gets so high.
+
+Some questions
+
+1. Are laws so central to induction? An alternative view is that we learn laws by first learning non-law generalisations.
+2. Does induction ever yield knowledge of non-probabilistic things?
+3. Does induction ever yield even probability of universal generalisations? If all we know of each F is that it is probably G, how can we know that probably all Fs are Gs?
+4. Is enumerative induction as central as Russell makes it out to be?
+5. Russell doesn't mention variety of instances. Is this an oversight, or a serious mistake?
+6. Might these last two things be related? Maybe other things can explain the importance of variety.
