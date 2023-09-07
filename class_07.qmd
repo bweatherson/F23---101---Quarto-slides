@@ -75,7 +75,62 @@ In continental Europe, especially in Austria, a similar view called **positivism
 - The key positivist idea was that a claim is meaningful only to the extent that some experiment could provide evidence for or against it.
 - The positivists thought that the things realists and idealists said were literally _meaningless_, as if they were grunting.
 
-# Color Variation
+## Scepticism
+
+And going back to antiquity, there is the view that we simply don't know a lot about the world.
+
+The realists have some sympathy for scepticism; they think there is a lot about the world we don't know.
+
+# Applications {background-color="#40666e"}
+
+## Global and Local Debates
+
+We can ask which of these five views is the best about particular questions.
+
+1. Realism
+2. Idealism
+3. Pragmatism
+4. Positivism
+5. Scepticism
+
+## A Silly Example - Sandwiches
+
+What is a sandwich? Is a hot dog a sandwich? What does it mean to answer that last question one way or the other.
+
+1. Realism - 'sandwich' picks out some mind-independent feature of reality, and we have to work out which feature it is, and whether hot dogs have it.
+2. Idealism - a few choices here, but one natural one is to say that to be a sandwich just is to be judged a sandwich by typical observers. That makes sandwiches judgment-dependent, and hence mind-dependent.
+
+## A Silly Example - Sandwiches
+
+But we could keep going.
+
+3. Pragmatism - All that matters is what the most useful way of talking about bread-y meals is. Maybe that's different for different purposes.
+4. Positivism - There is no fact of the matter about sandwichness beyond what we can perceive about them. It's an error to think otherwise.
+5. Scepticism - There is a fact, but we'll never find it.
+
+## A Silly Example - Sandwiches
+
+There is another view that's plausible for some special cases, but not for views about the world in general.
+
+6. Eliminativism - There are no sandwiches, perhaps because 'sandwich' is a posit of a failed scientific theory.
+
+This isn't particularly plausible for sandwich, but good to have on the table.
+
+## A Serious Example - Race
+
+I'm not going to go over this in detail, because (a) I'm not an expert, and (b) there are a lot of courses that definitely will.
+
+But thinking metaphysically about what races are, about what it means to say that someone is, e.g., white, often ends up choosing between these options.
+
+And maybe, _maybe_, thinking about more general issues about idealism, realism, etc can help with these debates.
+
+## Another Serious Example - Color
+
+Instead we'll talk through an example that is a bit of a challenge for realism - color.
+
+This is independently interesting - what even are colors? - and especially important for Russell since he puts a lot of weight on visual appearance in his theory of how we know about the world.
+
+# Color Variation {background-color="#40666e"}
 
 ## Color Realism
 
@@ -219,3 +274,39 @@ And that means that two light sources with very different characteristics can tr
 
 1. A pure yellow light, around 575nm.
 2. A mix of blue light, green light, and red light, each at the level that the yellow light triggers our three detectors.
+
+## Metamers
+
+Should the realist say these lights are the same color, or different colors? Neither is particularly attractive.
+
+## Right Conditions
+
+Even if redness is a mind-independent feature of reality, it better have _some_ connection to looking red.
+
+We want red things to look red sometimes.
+
+Ideally we want them to look red in _normal_ conditions.
+
+But what is _normal_?
+
+## Right Conditions
+
+Problem 1: Different conditions might be ideal viewing conditions for different people.
+
+## Right Conditions
+
+Problem 2: You might have thought that not having distractions would make for normal conditions.
+
+But some colors, especially brown, need those distractions.
+
+You can't have pure brown light, or (I'm told) an entirely brown visual field.
+
+## Right Conditions
+
+Our perception of brown is essentially contrastive, in a way that this picture brings out.
+
+[Include checkerboard picture from the reading]
+
+## Conclusion
+
+When we look out on a 
