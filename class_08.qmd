@@ -90,8 +90,7 @@ We're going to talk about past -> future inferences, understanding these as spec
 I'm not going to do the rest in the order Russell does, but instead go through some themes.
 
 - What is the role of persistence assumptions in Russell, and why does he think this might lead to circularity?
-- Russell has three distinctive features of this theory of induction: he gives **laws**, **probability**, and **enumerative induction** special places.
-- I'll end with several questions you might have about this account.
+- Russell has three distinctive features of this theory of induction: he gives **laws**, **probability**, and **enumerative induction** special places. I'll go over these three, and mention some odd features of Russell's account.
 
 # Persistence {background-color="#40666e"}
 
@@ -170,7 +169,7 @@ The latter is rarer, but is what's at issue here.
 
 ## Laws
 
-## Alternatives
+### Alternatives
 
 What would be an alternative to giving laws this central place. Two important alternatives:
 
@@ -183,6 +182,11 @@ What would be an alternative to giving laws this central place. Two important al
 
 - Russell states something that would have been very surprising to philosophers even a few years earlier.
 - He had been convinced of it by a then graduate student working with him: John Maynard Keynes.
+
+## Probability
+
+### A caveat on Russell's theory?
+
 - The surprising claim is that what we really get from induction is that things will *probably* continue the same way.
 - In a slogan: **Induction yields probability**.
 
@@ -205,11 +209,46 @@ Russell thinks that after enough repetitions, the following happens.
 
 Actually this is odd; if there are lots of Fs, and each one has some probability of being not-G, it seems surprising that the probability in the generalisation gets so high.
 
-Some questions
+## Enumerative Induction
 
-1. Are laws so central to induction? An alternative view is that we learn laws by first learning non-law generalisations.
-2. Does induction ever yield knowledge of non-probabilistic things?
-3. Does induction ever yield even probability of universal generalisations? If all we know of each F is that it is probably G, how can we know that probably all Fs are Gs?
-4. Is enumerative induction as central as Russell makes it out to be?
-5. Russell doesn't mention variety of instances. Is this an oversight, or a serious mistake?
-6. Might these last two things be related? Maybe other things can explain the importance of variety.
+### The basic method for Russell
+
+The only inductive method that Russell uses is enumerative induction.
+
+Input: Lots of Fs that are also Gs.
+
+Output 1: The next F is (probably) G.
+
+Output 2: (Probably) All Fs are Gs.
+
+## Enumerative Induction
+
+### Isn't something missing
+
+Russell doesn't make a big deal of something I was making a big deal about: the variety of inputs.
+
+This looks like a serious weakness to me.
+
+## Enumerative Induction
+
+### Can It Do All The Work?
+
+- Maybe it can do argument by analogy, which looks kind of close to enumerative induction.
+- And maybe Russell thinks some inductive methods, like from percentages to probabilities are actually part of logic.
+- But beyond that?
+
+## Enumerative Induction
+
+### Can It Do All The Work?
+
+- How do you get testimonial knowledge by induction, especially when you're very little?
+- How do you get inference to the best explanation?
+- Does Russell think these are reducible to enumerative induction, or that they're bad methods? (It actually might be the second.)
+
+# For Next Time {background-color="#40666e"}
+
+## Onto chapter 9
+
+Russell deals with one of the oldest philosophical problems: universals.
+
+What are attributes, and how do we know about them?
