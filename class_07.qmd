@@ -305,8 +305,10 @@ You can't have pure brown light, or (I'm told) an entirely brown visual field.
 
 Our perception of brown is essentially contrastive, in a way that this picture brings out.
 
-[Include checkerboard picture from the reading]
+![Two brown, or are they orange, circles](images/07/checker.jpg)
 
 ## Conclusion
 
-When we look out on a 
+When we look at the world, we see colors, or at least, we see objects with colors.
+
+The most natural position for the realist to take is that our color vision reveals pictures of the world
