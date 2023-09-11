@@ -20,7 +20,7 @@ editor: visual
 require(tidyverse)
 require(jsonlite)
 
-mydata <- fromJSON(txt="../quizdata.json")
+mydata <- fromJSON(txt="../../quizdata.json")
 
 quiz_questions <- mydata$values
 
@@ -41,8 +41,9 @@ for (i in 2:498){
 
 ```{r}
 #| output: asis
-for (i in 37:42){
-  cat("## Question ", i-36, "\n\n")
+q <- 1
+for (i in c(37, 39:42)){
+  cat("## Question ", q, "\n\n")
   
   cat(my_tibble$question[[i]],"\n\n")
   
@@ -53,6 +54,7 @@ for (i in 37:42){
   cat("5. ", my_tibble$choice5[[i]],"\n\n")
   
   cat("**Answer**: ",my_tibble$correct[[i]],"\n\n")
+  q <- q + 1
 }
 ```
 
@@ -62,8 +64,8 @@ for (i in 37:42){
 
 ```{r}
 #| output: asis
-for (i in 75:81){
-  cat("## Question ", i-68, "\n\n")
+for (i in c(75, 76, 78, 80, 81)){
+  cat("## Question ", q, "\n\n")
   
   cat(my_tibble$question[[i]],"\n\n")
   
@@ -74,6 +76,7 @@ for (i in 75:81){
   cat("5. ", my_tibble$choice5[[i]],"\n\n")
   
   cat("**Answer**: ",my_tibble$correct[[i]],"\n\n")
+    q <- q + 1
 }
 ```
 
@@ -83,8 +86,8 @@ for (i in 75:81){
 
 ```{r}
 #| output: asis
-for (i in 135:143){
-  cat("## Question ", i-121, "\n\n")
+for (i in c(135, 137, 138, 142, 143)){
+  cat("## Question ", q, "\n\n")
   
   cat(my_tibble$question[[i]],"\n\n")
   
@@ -95,6 +98,7 @@ for (i in 135:143){
   cat("5. ", my_tibble$choice5[[i]],"\n\n")
   
   cat("**Answer**: ",my_tibble$correct[[i]],"\n\n")
+    q <- q + 1
 }
 ```
 
@@ -104,8 +108,8 @@ for (i in 135:143){
 
 ```{r}
 #| output: asis
-for (i in 315:323){
-  cat("## Question ", i-292, "\n\n")
+for (i in 315:319){
+  cat("## Question ", q, "\n\n")
   
   cat(my_tibble$question[[i]],"\n\n")
   
@@ -116,5 +120,6 @@ for (i in 315:323){
   cat("5. ", my_tibble$choice5[[i]],"\n\n")
   
   cat("**Answer**: ",my_tibble$correct[[i]],"\n\n")
+    q <- q + 1
 }
 ```

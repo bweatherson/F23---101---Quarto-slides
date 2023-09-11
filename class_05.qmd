@@ -14,126 +14,6 @@ bibliography: refs.bib
 from: markdown+fancy_lists+raw_html
 ---
 
-# The List of Forms {background-color="#40666e"}
-
-## Five Argument Forms
-
-### We talked about these last time
-
-1. Enumerative induction
-2. Analogical inference
-3. Inference to the best explanation
-4. Causal inference
-5. Testimony
-
-## Four Questions
-
-### Ideally we'd be able to say 'yes' to all four
-
-1. Is every one of these a good form of inference?
-2. Is the list non-redundant?
-3. Is every one of them unified?
-4. Is this it, is that all the forms?
-
-## Four Questions
-
-### With my answers
-
-1. Is every one of these a good form of inference? [yes]{.fg style="--col: #228B22"}
-2. Is the list non-redundant? [no]{.fg style="--col: #FF0000"}
-3. Is every one of them unified? [no]{.fg style="--col: #FF0000"}
-4. Is this it, is that all the forms? [no]{.fg style="--col: #FF0000"}
-
-## Redundancy
-
-### Explanation is causal explanation
-
-First, it's important to note that everything in the next few slides is **controversial**. Philosophy doesn't always have clear answers.
-
-But I think, following work by Michigan's Peter Railton, that explanation is causal explanation.
-
-So causal inference and inference to the best explanation are sort of the same thing.
-
-## Unification
-
-### Internal and External Induction
-
-I also think that we should think of inference out of a group (lots of campuses with coffee shops, so next campus has a coffee shop) and inference into a group (half of UM undergrads are from Michigan, so it's 50/50 this UM undergrad is from Michigan) as distinct forms of inference.
-
-They have somewhat different failure conditions, for example.
-
-## Completeness
-
-### Moral, analytical, etc.
-
-Here are two other kinds of inference we might use.
-
-1. **Moral Inference**: Inferring from the description of a situation to a moral evaluation of it.
-2. **Analytical Inference**: Inferring from the description of a situation to the applicability (or non-applicability) of a high-level concept to it.
-
-Note the next slide is going to be more violent than most of our examples.
-
-## Moral Inference
-
-### Don't burn cats
-
-1. Some teenagers have surrounded a scared cat, and are trying to pour gasoline on it and set it on fire.
-2. Therefore, the teenagers are trying to do something wrong.
-
-Actually, maybe even the attempt is wrong, so the conclusion could be stronger.
-
-I think (controversially!) that this is good inference but doesn't fit any of these categories.
-
-## Moral Inference
-
-### Ought from an is
-
-This is controversial because a lot of philosophers endorse the principle: **No ought from an is**.
-
-This is often associated with the 18th century Scottish philosopher David Hume, who we're going to hear a lot more about.
-
-## Moral Inference
-
-### How moral inference works on Hume's picture
-
-This doesn't mean those folks are ok with cat torture.
-
-It means they think the inference I showed you is **incomplete**. It is what's sometimes called an **enthymeme**.
-
-That means there is a hidden premise, something about the morality of cat torture, that I assumed but didn't say, and that's the real argument.
-
-## Analytic Inference
-
-### An old example, from 9th century Indian philosophy
-
-A traveller is walking through the hills. He sees a black cloud over the next hill. It looks a lot like smoke, and he infers that there's a fire over the hill. There is a fire, but that cloud isn't smoke. It's some flies that have gathered over the fire.
-
-## Poll
-
-Does the traveller know that there is a fire over the hill?
-
-A.  Yes
-B.  No
-C.  Unsure
-
-## Analytic Inference
-
-### How did you answer that question
-
-If you answered 'Yes', or 'No' (which Dharmottara wanted you to answer), you must have inferred that from the description of the case.
-
-Again, it's a bit controversial, but I think such inferences are warranted, and don't fit into any of the categories we've had so far.
-
-## Pramāṇa
-
-### An organising concept for Indian philosophy
-
-It would be very good to have a list of inference forms where we could answer 'yes' to all four questions: reasonableness, non-redundancy, unification, and completeness.
-
-Perhaps surprisingly, this question has often been central to 'Western' philosophy (meaning philosophy that comes out of the pagan/Jewish/Christian/Islamic traditions).
-
-But it was very central to Indian philosophy, where the question of which methods were pramāṇas (means of knowledge/means of proof) was hotly debated, and often definitional of one school or other.
-
 # Chains of Reasoning {background-color="#40666e"}
 
 ## Multi-Step Arguments
@@ -273,6 +153,205 @@ Of course that isn't right; these are two different arguments, not a single argu
 Anyway, this stuff is hard. We'll come back on Thursday to ways in which it's even harder than this sounds.
 
 To be honest, I was surprised by how badly GPT did on this task. More on this to follow.
+
+# Direct and Assumed {background-color="#40666e"}
+
+## A Simple Argument
+
+> We shouldn't go to that hamburger place. My friend went to the last restaurant that the guy who owns it ran, and he got food poisoning. So we'll get sick if we go there.
+
+Question: What's the conclusion of this argument.
+
+A.  We shouldn't go to that hamburger place.
+B.  My friend went to the last restaurant that the guy who owns it ran, and he got food poisoning.
+C.  We'll get sick if we go to that hamburger place.
+
+## A Simple Argument
+
+Hopefully everyone got the conclusion. Here's a (slightly) harder question.
+
+Question: What's the **direct** support for that conclusion, i.e., the thing that you are meant to reason from to the conclusion.
+
+A.  We shouldn't go to that hamburger place.
+B.  My friend went to the last restaurant that the guy who owns it ran, and he got food poisoning.
+C.  We'll get sick if we go to that hamburger place.
+
+## Two-Part Argument
+
+![The map of the argument](argdown/05_hambuger.png)
+
+## Direct Support
+
+We'll get sick etc **directly supports** the conclusion.
+
+My friend went to the last restaurant etc does **not** directly support the conclusion. It indirectly supports it, by supporting something else.
+
+## Assumption
+
+I won't do this with iclicker, but there is another kind of question we can ask. What do each of the steps here **assume**?
+
+The second step is fairly easy - it assumes that **it is bad to get sick**.
+
+This might seem so obvious, and there's a reason that I left it out, but without it the argument fails.
+
+## Assumption
+
+That is very much not to say that the person giving the argument has to say it. Often it's best to leave unspoken assumptions unspoken.
+
+But still, it is something that (a) the person making the argument clearly believes, and (b) without it, their argument fails.
+
+## Assumption
+
+There is also an assumption or two behind the first part, thought it's a little harder to say what it is.
+
+That's in part because it's not clear exactly what the argument form is. (I included this on the map.)
+
+But maybe the argument assumes something like **Whether you get sick at a restaurant is largely explained by who owns the restaurant**, or **Restaurants with the same owner are analogous, at least with respect to illness-causing**.
+
+## Changing the Argument
+
+One of the things that can help to see what is being assumed in an argument is comparing the argument to a very slightly changed one. If the changed argument is worse than the original, that tells you something about what is being assumed in the original. So consider this version.
+
+> We shouldn't go to that hamburger place. My friend went to the last restaurant that was at that location, and he got food poisoning. So we'll get sick if we go there. 
+
+## Assumptions
+
+These aren't always easy to spot.
+
+But they are very important in philosophy. A lot of disagreements come from someone rejecting a step of an argument that someone else thought was too obvious to even mention.
+
+And a lot of philosophical progress comes from looking at places where people had gotten stuck in their reasoning, and seeing the assumptions they had made.
+
+
+# The List of Forms {background-color="#40666e"}
+
+## Bonus Content 1
+
+### We might not get to this
+
+I hope to get through this material in lecture, but if we don't, we don't.
+
+It's a bit relevant to Hume, and if we don't get to it now, we'll come back to it then.
+
+## Five Argument Forms
+
+### We talked about these last time
+
+1. Enumerative induction
+2. Analogical inference
+3. Inference to the best explanation
+4. Causal inference
+5. Testimony
+
+## Four Questions
+
+### Ideally we'd be able to say 'yes' to all four
+
+1. Is every one of these a good form of inference?
+2. Is the list non-redundant?
+3. Is every one of them unified?
+4. Is this it, is that all the forms?
+
+## Four Questions
+
+### With my answers
+
+1. Is every one of these a good form of inference? [yes]{.fg style="--col: #228B22"}
+2. Is the list non-redundant? [no]{.fg style="--col: #FF0000"}
+3. Is every one of them unified? [no]{.fg style="--col: #FF0000"}
+4. Is this it, is that all the forms? [no]{.fg style="--col: #FF0000"}
+
+## Redundancy
+
+### Explanation is causal explanation
+
+First, it's important to note that everything in the next few slides is **controversial**. Philosophy doesn't always have clear answers.
+
+But I think, following work by Michigan's Peter Railton, that explanation is causal explanation.
+
+So causal inference and inference to the best explanation are sort of the same thing.
+
+## Unification
+
+### Internal and External Induction
+
+I also think that we should think of inference out of a group (lots of campuses with coffee shops, so next campus has a coffee shop) and inference into a group (half of UM undergrads are from Michigan, so it's 50/50 this UM undergrad is from Michigan) as distinct forms of inference.
+
+They have somewhat different failure conditions, for example.
+
+## Completeness
+
+### Moral, analytical, etc.
+
+Here are two other kinds of inference we might use.
+
+1. **Moral Inference**: Inferring from the description of a situation to a moral evaluation of it.
+2. **Analytical Inference**: Inferring from the description of a situation to the applicability (or non-applicability) of a high-level concept to it.
+
+Note the next slide is going to be more violent than most of our examples.
+
+## Moral Inference
+
+### Don't burn cats
+
+1. Some teenagers have surrounded a scared cat, and are trying to pour gasoline on it and set it on fire.
+2. Therefore, the teenagers are trying to do something wrong.
+
+Actually, maybe even the attempt is wrong, so the conclusion could be stronger.
+
+I think (controversially!) that this is good inference but doesn't fit any of these categories.
+
+## Moral Inference
+
+### Ought from an is
+
+This is controversial because a lot of philosophers endorse the principle: **No ought from an is**.
+
+This is often associated with the 18th century Scottish philosopher David Hume, who we're going to hear a lot more about.
+
+## Moral Inference
+
+### How moral inference works on Hume's picture
+
+This doesn't mean those folks are ok with cat torture.
+
+It means they think the inference I showed you is **incomplete**. It is what's sometimes called an **enthymeme**.
+
+That means there is a hidden premise, something about the morality of cat torture, that I assumed but didn't say, and that's the real argument.
+
+## Analytic Inference
+
+### An old example, from 9th century Indian philosophy
+
+A traveller is walking through the hills. He sees a black cloud over the next hill. It looks a lot like smoke, and he infers that there's a fire over the hill. There is a fire, but that cloud isn't smoke. It's some flies that have gathered over the fire.
+
+## Poll
+
+Does the traveller know that there is a fire over the hill?
+
+A.  Yes
+B.  No
+C.  Unsure
+
+## Analytic Inference
+
+### How did you answer that question
+
+If you answered 'Yes', or 'No' (which Dharmottara wanted you to answer), you must have inferred that from the description of the case.
+
+Again, it's a bit controversial, but I think such inferences are warranted, and don't fit into any of the categories we've had so far.
+
+## Pramāṇa
+
+### An organising concept for Indian philosophy
+
+It would be very good to have a list of inference forms where we could answer 'yes' to all four questions: reasonableness, non-redundancy, unification, and completeness.
+
+Perhaps surprisingly, this question has often been central to 'Western' philosophy (meaning philosophy that comes out of the pagan/Jewish/Christian/Islamic traditions).
+
+But it was very central to Indian philosophy, where the question of which methods were pramāṇas (means of knowledge/means of proof) was hotly debated, and often definitional of one school or other.
+
+
 
 # Arguing for a Premise {background-color="#40666e"}
 
