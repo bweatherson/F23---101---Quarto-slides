@@ -14,6 +14,11 @@ bibliography: refs.bib
 from: markdown+fancy_lists+raw_html
 ---
 
+## Two Big Announcements
+
+1. No discussion section today - both GSIs are off.
+2. The first assignment due date is moved back to **Wednesday September 20**.
+
 # Three Ways to Object {background-color="#40666e"}
 
 ## A Bad Argument
@@ -112,6 +117,23 @@ And the same three moves are available in general (with the caveat that sometime
 2. Reply to the reasoning behind the objection. (Rare, but sometimes relevant in statistics.)
 3. Point out reasons for the conclusion. (Fairly common in philosophy.)
 :::
+
+# Quick Announcement Reminder {background-color="#40666e"}
+
+## iClicker
+
+Are there discussion sections today?
+
+a. Yes
+b. No
+
+## iClicker
+
+When is the assignment due
+
+a. Monday
+b. Wednesday
+
 
 # Treating Objections Seriously  {background-color="#40666e"}
 
@@ -276,3 +298,5 @@ So you don't have to show that every step fails, just that one of them does.
 ## Russell
 
 We'll start reading Bertrand Russell's _The Problems of Philosophy_, starting naturally enough with chapter 1.
+
+Start reading this, because starting next week we will have reading quizzes.

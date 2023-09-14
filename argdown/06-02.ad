@@ -11,9 +11,9 @@ dot:
         rankdir: TB # arrows flow from top to bottom (to produce a tree-like structure)
 ===
 
-[Conclusion] 
+[Conclusion] #tag-2
    + <a1>
-      + [Premise] 
+      + [Premise] #tag-2
         <- [Objection] #tag-1
 
 [Conclusion]: Brian's lectures are good.
