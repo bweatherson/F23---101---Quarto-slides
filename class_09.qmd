@@ -1,0 +1,173 @@
+---
+title: _Problems of Philosophy_, Chapter 9
+subtitle: Philosophy 101 - Class 09
+format:
+  clean-revealjs:
+    self-contained: true
+author:
+  - name: Brian Weatherson
+    orcid: 0000-0002-0830-141X
+    email: weath@umich.edu
+    affiliations: University of Michigan
+date: 2023-09-26
+from: markdown+fancy_lists+raw_html
+---
+
+# Metaphysics {background-color="#40666e"}
+
+## The Big Question
+
+What is in the world?
+
+## The World of Things
+
+One of the points of chapter 9 is to argue that the world doesn't consist of just things.
+
+Things aren't enough to explain all the facts.
+
+---
+
+::::  {.columns align=top .onlytextwidth}
+
+::: {.column width="40%" align=center}
+![Squid, asleep](images/09/squid_sleep.jpg){height=650}
+:::
+
+::: {.column width="60%"}
+_Squid is sleeping_ isn't just made true by what exists (i.e., Squid), but by how it exists.
+:::
+
+:::: 
+
+---
+
+::::  {.columns align=top .onlytextwidth}
+
+::: {.column width="40%" align=center}
+![Squid, in a tree](images/09/squid_tree.jpg){height=650}
+:::
+
+::: {.column width="60%"}
+_Squid loves Tree_, where Tree is a name for that tree Squid is standing in, isn't just made true by what exists (i.e., Squid and Tree), but by how they exist.
+
+We need universals like SLEEPING and LOVES to be part of our metaphysics.
+:::
+
+:::: 
+
+# Doing Without Universals
+
+## Two Attempts
+
+### There are others too, but we'll focus on two
+
+1. Objects and resemblances (which we project)
+2. Sets of objects
+
+## Resemblance
+
+There are just things like Squid, and Tree, and you and me. There is no SLEEPING or LOVES.
+
+It's just that we humans, perhaps for good practical reasons, project patterns we see onto the world.
+
+## Russell's Objection to This
+
+What does it mean to say that something else **resembles** the paradigm of a sleeping thing.
+
+That looks like a universal too.
+
+To say that to be sleeping just is to resemble our paradigm of a sleeper is not to remove universals; it's to replace a universal property (like SLEEPING) with a universal relation (like RESEMBLES)
+  
+## Sets
+
+A more modern approach is to say that there are just objects, and sets of objects.
+
+More or less equivalently, we can say that there are objects, and two truth values (T and F), and functions from things we recognise into things we recognise.
+
+So a predicate, like 'is sleeping' or 'is cute' is a function from things to truth values; intuitively, the things that have the property are mapped to T and everything else to F.
+
+## Semantics
+
+This is actually the start of a rather nice theory of word meanings, and one you might study a bit more in other philosophy or linguistics classes.
+
+One advantage is that it generalises nicely. Think about the (true) sentence _Squid is very cute_.
+
+Russell would say that 'Squid' picks out Squid, and 'cute' picks out CUTENESS, but what does 'very' pick out? Is there a universal of VERYNESS?
+
+## Semantics
+
+Here's a nice theory. 'Very' is a function from predicate meanings to predicate meanings. (Where a predicate meaning is a function from objects to truth values) In a sentence it says "Give me a predicate, and I'll give you a new predicate".
+
+What's the structure of that function? Well, it returns a new predicate that only says T to things that are really solid cases of T in the original.
+
+This isn't a semantics class, but this idea of treating all words (except names) as functions of more or less complexity is rather elegant.
+
+## Metaphysics
+
+But we're going to focus on metaphysics, not semantics.
+
+Instead of the universals that Russell posits, could we just have sets?
+
+## Relations
+
+Russell's big concern is that a lot of other theories don't have place for relations.
+
+But the sets theory does.
+
+A relation is just a set of ordered pairs.
+
+And an ordered pair is just, well it's something a bit like a set.
+
+## Problems
+
+1. Sets are spooky.
+2. There are too many sets.
+
+## Spooky
+
+The people who think that we should do away with universals and just have sets typically think that there is something mysterious, spooky, about these Platonic universals.
+
+But sets are just as weird, as becomes clear as soon as you think about **singletons**, i.e., sets with just one member.
+
+Squid's singleton is not identical to Squid, but it isn't anywhere other than where Squid is. It seems a really odd thing to have to posit, just as mysterious as a universal like SLEEPING.
+
+## Too Many
+
+But the big problem is that there are too many sets.
+
+- There is a set of all the things that are sleeping.
+- But there is also a set of all the things that are sleeping plus this remote control.
+- And there is a set of all the things that are sleeping _except Squid_.
+- These cause all sorts of problems.
+
+## Problems from Abundance
+
+The vast number of sets causes all sorts of challenges.
+
+- How do we learn 'sleeeping' means this particular set not some nearby one?
+- That Squid is sleeping **explains** some things. That Squid is in a set doesn't explain anything, because set-membership is cheap.
+- That Squid is sleeping implies she resembles, in some respect, other sleeping things. But common set-membership does not imply resemblance, since any two things no matter how disjoint are in a set together.
+
+
+  
+## Some Questions about Universals
+
+Abundant or Sparse
+  - BR seems to think that there are *lots* of universals; maybe one for each word.
+  - That's not a common view these days. More common to say that there are a handful of universals.
+  - In particular, there are only as many universals as are needed to explain facts of resemblence.
+  - So there may not be a universal for PUMPKIN SPICE LATTE. Maybe each of PUMPKIN, SPICE, and LATTE are universals. But once we've got all of them (and understood how they modify other universals), we don't have a universal for PUMPKIN SPICE LATTE.
+  - Hard question: Russell says that every sentence has a universal in it. Tricky case: Peter Parker is Spiderman. (If you don't like fictional examples, use Onika Tanya Maraj-Petty is Nicki Minaj.)
+  - Does that have a universal in it? I think BR would say it's the 'is'. But the 'is' there is the 'is' of self-identity, and being self-identical is not a form of resemblence. Everything is self-identical, so the self-identical things don't resemble each other.
+  
+##  Mind-Dependent
+  
+  - BR very concerns to argue that universals represent mind-independent facts about reality.
+  - The example he uses is wild: Edinburgh is north of London.
+  - Seems to me that Edinburgh and London are mind-dependent entities. That doesn't just mean that they were caused by minds (though they were), or that 'London' means London because of mind.
+  - I mean that if we all agreed that London was somewhere different, it would be.
+  - If we all came to believe that UM was in a separate city from AA, perhaps a new city called Wolverineville, that would kind of do it.
+  - The metaphysics of cities I think is really hard, and the toy theory Russell has, that 'London' names a point on the earth's surface, isn't actually that plausible. It's conceptually possible that London is 10 miles west of where it used to be, but it's not conceptually possible that a point is ten miles west of where it used to be.
+  - And the other example is WHITENESS, but I think that's really mind-dependent; whether something is white just is whether it looks white to normal observers in normal conditions. That's mind-dependent.
+  - Anyway look, we could do all this with fusion reactions inside the Sun. That there are fusion reactions inside the Sun is not mind-dependent, so the universal FUSION REACTION is not mind-dependent.
+  
