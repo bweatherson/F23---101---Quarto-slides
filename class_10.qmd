@@ -1,0 +1,65 @@
+Notes on class 10
+
+Russell is actually giving two things here; a theory of truth and a theory of belief.
+
+The former is not quite universally believed, but is very popular nowadays; the latter is kind of wild.
+
+Possibilty of falsity
+
+- False belief task: https://www.youtube.com/watch?v=8hLubgpY2_w
+- I don't really think children all think we all have the same mind; I mean children do in fact try to hide things.
+- My guess is that the children think that only knowledge is possible; and when faced with a forced-choice question, they leap to something else. (Note the pause; I don't think they think Snoopy has the same mind they do.)
+
+- Language also has different verbs for things that can and can't be false.
+- Lots of attitude verbs can take questions as complements.
+- Brian knows when the exam is; understands how to use iClicker; has figured out who stole the cookies; has learned where the game will be played.
+- With all these verbs, you can also use 'that'-clauses, but you don't have to, you can use questions. (I don't know which of these are more common.)
+- With other verbs, like believes, hopes, fears, suspects, you can only use that clauses.
+- Brian believes the exam is on Tuesday; #Brian believes when the exam is.
+- Tells, at least in English, is a funny case. You can use it for false things. Brian told me that Michigan won does not entail Michigan won. But you can also use it with questions. Brian told me who won implies Brian spoke truly.
+- Anyway, it's this fact that lots of verbs, especially verbs that don't allow that clauses, allow false complements is what's driving Russell.
+
+- There's one other weird thing going on.
+- English has two uses for 'knows'; knows a truth and knows some individual.
+- Compare Brian knows that Michigan won with Brian knows Joe Biden.
+- These translate differently into almost every other language.
+- Russell thinks the two senses of 'know' are connected. Our knowledge of facts (like Michigan won) is grounded in acquaintances, just the kind of acquiantance we report with second kind of know.
+
+# Two Theories of Truth
+
+Correspondance
+Coherence
+Two reasons to reject coherence - 1) The conspiracy theory. 2) Coherence is defined in terms of truth, so it would be circular
+Russell sort of moves quickly from coherence fails to correspondance wins. But this is too quick. Should allow for, a) disquotational theories, and b) pluralist theories.
+Much more on this in metaphysics/language/logic classes.
+
+# Theories of Content
+
+One bonkers paragraph, where Russell dismisses the standard theory
+Why believe the standard theory, because we can talk about them
+There's something that Alison said and Fatimah believes, namely that Othello loves Desdemona.
+Or I believe everything that Fatimah says. What I believe isn't some words, I don't believe "Othello loves Desdemona", I believe *that* Othello loves Desdemona. So there are things that can be said and believed. These we call propositions, and they are the contents of belief/speech.
+
+This all seems like ordinary common sense. But not for Russell.
+He went for a really surprising theory, the multiple relation theory.
+This is largely of historical interest, but want to briefly mention it.
+Russell thinks that to believe Othello loves Desdemona, you don't have to be related to a proposition (he doesn't believe in them), but to Othello, LOVES, and Desdemona, in that order.
+What on earth is 'order' here; not sure, and it feels like we have a metaphor here when we need a theory.
+Many of you use Google Sheets I suspect; here's the analogy.
+Some functions on Google Sheets require precisely two inputs. CONCAT, somewhat surprisingly, is like that. CONCAT("a", "b", "c") yields an error, because it wants two inputs.
+Other functions can take variable numbers of inputs. SUM(1, 2) works, and yields 3, and SUM(1, 2, 3) works, and yields 6.
+You could do either of these differently, and in fact different programming languages do.
+Russell thinks 'believes' is like SUM; it takes many things as input.
+This is a mess of a theory, and it really relies on this metaphor of 'order' making more sense than I think it does.
+
+# A Very Surprising Claim
+
+> It seems fairly evident that if there were no beliefs there could be no falsehood, and no truth either, in the sense in which truth is correlative to falsehood. If we imagine a world of mere matter, there would be no room for falsehood in such a world, and although it would contain what may be called ‘facts’, it would not contain any truths, in the sense in which truths are things of the same kind as falsehoods. In fact, truth and falsehood are properties of beliefs and statements: hence a world of mere matter, since it would contain no beliefs or statements, would also contain no truth or falsehood.
+
+I mean, that's a bit weird. Think of a world with just a rock floating through space. It's true in that world that rocks exist; it's false in that world that humans exist. Russell's view, I guess, is that the world contains the fact ROCKS EXIST but no truths and no falsehoods. If I (in this world) believe of that world that it has humans, that's false, but that's a falsehood in this world.
+
+I don't really buy it, and I kind of just wanted to flag that it's weird.
+
+# For Next Time
+
+Knowledge
