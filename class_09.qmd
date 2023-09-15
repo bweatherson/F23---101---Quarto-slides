@@ -148,26 +148,117 @@ The vast number of sets causes all sorts of challenges.
 - That Squid is sleeping **explains** some things. That Squid is in a set doesn't explain anything, because set-membership is cheap.
 - That Squid is sleeping implies she resembles, in some respect, other sleeping things. But common set-membership does not imply resemblance, since any two things no matter how disjoint are in a set together.
 
+# Some Questions about Universals {background-color="#40666e"}
 
-  
-## Some Questions about Universals
+## Abundant or Sparse
 
-Abundant or Sparse
-  - BR seems to think that there are *lots* of universals; maybe one for each word.
-  - That's not a common view these days. More common to say that there are a handful of universals.
-  - In particular, there are only as many universals as are needed to explain facts of resemblence.
-  - So there may not be a universal for PUMPKIN SPICE LATTE. Maybe each of PUMPKIN, SPICE, and LATTE are universals. But once we've got all of them (and understood how they modify other universals), we don't have a universal for PUMPKIN SPICE LATTE.
-  - Hard question: Russell says that every sentence has a universal in it. Tricky case: Peter Parker is Spiderman. (If you don't like fictional examples, use Onika Tanya Maraj-Petty is Nicki Minaj.)
-  - Does that have a universal in it? I think BR would say it's the 'is'. But the 'is' there is the 'is' of self-identity, and being self-identical is not a form of resemblence. Everything is self-identical, so the self-identical things don't resemble each other.
-  
+- Russell seems to think that there are *lots* of universals; maybe one for each word.
+- That's not a common view these days. 
+- It's more common to say that there are a handful of universals.
+- In particular, there are only as many universals as are needed to explain facts of resemblance.
+
+## Abundant or Sparse
+
+Indeed, for some contemporary(ish) defenders of universals, explaining resemblance is **the job** that universals do.
+
+The Australian philosopher David Armstrong, who for a while was the most prominent defender of (something like) the theory of universals Russell endorses, thought there were exactly as many universals as were needed to explain resemblance between objects.
+
+## Abundant or Sparse
+
+But you don't need universals for every predicate to do that. You certainly don't need them for compound predicates.
+
+So, it being fall, think about the predicate in _This is a pumpkin spice latte_.
+
+It's (somewhat) plausible that PUMPKIN, SPICE, and LATTE are all universals.
+
+But we don't need another universal PUMPKIN SPICE LATTE to explain what all pumpkin spice lattes have in common. We can do that by explaining that they are all lattes, and that they are all pumpkin spiced.
+
+## Very Tricky Question
+
+The pumpkin spice latte raises a problem that I'm just going to mention, and then leave for metaphysics classes.
+
+In that phrase, 'pumpkin' does not immediately modify 'latte', it modifies 'spice'. It tells you what kind of spice is in the drink.
+
+You might ask, as a sort of metaphysical parallel to that, whether universals themselves can have properties.
+
+## Very Tricky Question
+
+On the one hand yes sure of course they do: HONESTY is a virtue, for example.
+
+On the other hand, the logical and metaphysical troubles that arise when you allow this are immense, and it's really hard to not contradict yourself if you go this way.
+
+(The problems start with things like the property of being a property that doesn't apply to itself. That's very much not our problem today.)
+
+What's called _higher-order metaphysics_ is about this, among other questions.
+
+## Universals Everywhere
+
+Russell says that every sentence has a universal in it. 
+
+- Here's a tricky case for that: _Peter Parker is Spiderman_. 
+- If you don't like fictional examples, use _Onika Tanya Maraj-Petty is Nicki Minaj_.
+- That's true, and it does have a verb in it.
+- Is that a universal? I think Russell would say yes.
+- But the 'is' there is identity, and being self-identical is not a way in which Spiderman resembles anything, since everything is self-identical.
+
+## Immanent or Platonic
+
+Russell says that universals have being but not existence, because they aren't in the world.
+
+There's a rival view (held by Armstrong, following Aristotle) that universals are indeed in the world, and they are (in some sense) in the things that instantiate them.
+
+So HUMANITY isn't something that has being in Platonic heaven, it's in this room (and many other rooms).
+
+I'm mostly just flagging this as an interesting (and _long_-running) debate that arises around here.
+
 ##  Mind-Dependent
-  
-  - BR very concerns to argue that universals represent mind-independent facts about reality.
-  - The example he uses is wild: Edinburgh is north of London.
-  - Seems to me that Edinburgh and London are mind-dependent entities. That doesn't just mean that they were caused by minds (though they were), or that 'London' means London because of mind.
-  - I mean that if we all agreed that London was somewhere different, it would be.
-  - If we all came to believe that UM was in a separate city from AA, perhaps a new city called Wolverineville, that would kind of do it.
-  - The metaphysics of cities I think is really hard, and the toy theory Russell has, that 'London' names a point on the earth's surface, isn't actually that plausible. It's conceptually possible that London is 10 miles west of where it used to be, but it's not conceptually possible that a point is ten miles west of where it used to be.
-  - And the other example is WHITENESS, but I think that's really mind-dependent; whether something is white just is whether it looks white to normal observers in normal conditions. That's mind-dependent.
-  - Anyway look, we could do all this with fusion reactions inside the Sun. That there are fusion reactions inside the Sun is not mind-dependent, so the universal FUSION REACTION is not mind-dependent.
+
+Russell is very concerned to argue that universals represent mind-independent facts about reality.
+
+But the example he uses for this is completely wild, and doesn't really make the point.
+
+> Edinburgh is north of London.
+
+## Mind-Dependent
+
+I think cities, like Edinburgh and London, are mind-dependent entities.
+
+- I don't just mean that they were caused to come into being by minds, though that's true.
+- Nor do I just mean that the fact that "London" means London is something that is mind-dependent, though that's true too.
+- I mean what London itself is is mind-dependent, and the same goes for all other cities.
+
+## Ann Arbor
+
+Where is Ann Arbor? The boundaries are of course written down in a rulebook somewhere, but what makes them the boundaries.
+
+I think it's the fact that we all agree that those regulations are the ones that matter. And _agreeing_ is a thing that minds do.
+
+## Ann Arbor
+
+If we **all** came to believe that UM was in a separate city from Ann Arbor, perhaps a new city called Wolverineville, that would kind of do it; Ann Arbor would no longer contain UM.
+
+- The metaphysics of cities I think is really hard, and the toy theory Russell has, that 'London' names a point on the earth's surface, isn't actually that plausible. 
+- It's conceptually possible that London is 10 miles west of where it used to be, but it's not conceptually possible that a point is ten miles west of where it used to be.
+
+## Russell's Other Example
+
+The other example Russell uses is WHITENESS, but I think that's really mind-dependent.
+
+Whether something is white just is whether it looks white to normal observers in normal conditions. That's mind-dependence.
+
+## Mind-Independence
+
+I'm mostly kvetching here about examples.
+
+I think Russell is probably right.
+
+That there are various universals concerning nuclear fusion, and that some of those are instantiated by things going on inside the sun seems both true and mind-independent.
+
+But it's kind of bizarre to me which examples he picked.
+
+# For Next Time {background-color="#40666e"}
+
+## Truth
+
+What is truth? Read chapter 12 to maybe find out.
   

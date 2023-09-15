@@ -1,65 +1,265 @@
-Notes on class 10
+---
+title: _Problems of Philosophy_, Chapter 12
+subtitle: Philosophy 101 - Class 10
+format:
+  clean-revealjs:
+    self-contained: true
+author:
+  - name: Brian Weatherson
+    orcid: 0000-0002-0830-141X
+    email: weath@umich.edu
+    affiliations: University of Michigan
+date: 2023-09-28
+from: markdown+fancy_lists+raw_html
+---
 
-Russell is actually giving two things here; a theory of truth and a theory of belief.
+## Overview
 
-The former is not quite universally believed, but is very popular nowadays; the latter is kind of wild.
+This is called a chapter on truth, but it's actually doing two things.
 
-Possibilty of falsity
+1. Giving a theory of truth, the correspondence theory.
+2. Giving a theory of belief, the multiple relation theory of judgment.
 
-- False belief task: https://www.youtube.com/watch?v=8hLubgpY2_w
-- I don't really think children all think we all have the same mind; I mean children do in fact try to hide things.
-- My guess is that the children think that only knowledge is possible; and when faced with a forced-choice question, they leap to something else. (Note the pause; I don't think they think Snoopy has the same mind they do.)
+Russell's answer to 1 is _very_ widely shared these days; his answer to 2 is shared by roughly no one these days. Still, it's an interesting step.
 
-- Language also has different verbs for things that can and can't be false.
+# Truth and Falsity  {background-color="#40666e"}
+
+## Falsity
+
+Russell starts in a somewhat surprising place, asking not about truth, but about falsity.
+
+And in particular, he's asking where falsity comes from.
+
+His view is that it's only with _believers_, i.e., creatures who have beliefs, that we get falsity in the world.
+
+## Believers
+
+To be a believer, in the sense we're interested in here, you need to be capable of doing two things.
+
+1. Representing how things are;
+2. Possibly getting it wrong when you do 1.
+
+The latter is not a trivial extension.
+
+## Infallible Representors
+
+- Footprints in the sand represent that someone or something has been there recently, but (in practice) can't really misrepresent. (Note that the absence of footprints doesn't represent anything; the sea might have washed things away.)
+- The official exam schedule can represent when exams are scheduled, but can't misrepresent because it's the official schedule!
+
+## Young Children
+
+Many psychologists think that children as old as 3.5 treat other humans as infallible representors. They think that other people could not have false representations. I'll leave the details of this to another class, but I wanted to give you a brief guide as to why they think that.
+
+---
+
+{{< video https://www.youtube.com/watch?v=8hLubgpY2_w width="750" height="525">}}
+
+## Common Mind?
+
+The narrator in the video says something that I think isn't supported by the data (either shown there or elsewhere).
+
+- He says that children think that everyone has the same mental states that they do.
+- That seems implausible; children hide things.
+- What's more plausible is that children think that other humans are infallible representors.
+- Other people can have or lack _knowledge_, but can't have _false belief_.
+- Children (I think) understand _representation_ but not _misrepresentation_.
+
+## Russell and the Children
+
+One of the things that Russell is trying to do in the early part of the chapter is get you to think that the possibility of misrepresentation is weird, and something that needs explaining.
+
+This is a big thing we do in philosophy (and I'm sure elsewhere in academia): get you to look at something completely commonplace from a perspective that it becomes surprising and in need of explanation, and that some theory might be plausible because it explains that fact.
+
+My favorite instance of this (which I think I've already mentioned in this class) is getting into the mindset where it is deeply weird that 99.something percent of humans are fluent in the dominant local language.
+
+## Language
+
+- Human language also has different verbs for things that can and can't be false.
 - Lots of attitude verbs can take questions as complements.
-- Brian knows when the exam is; understands how to use iClicker; has figured out who stole the cookies; has learned where the game will be played.
+- Brian _knows_ when the exam is; _understands_ how to use iClicker; has _figured out_ who stole the cookies; has _learned_ where the game will be played.
 - With all these verbs, you can also use 'that'-clauses, but you don't have to, you can use questions. (I don't know which of these are more common.)
-- With other verbs, like believes, hopes, fears, suspects, you can only use that clauses.
-- Brian believes the exam is on Tuesday; #Brian believes when the exam is.
+
+## Language 
+
+- With other verbs, like _believes_, _hopes_, _fears_, _suspects_, you can only use that clauses.
+- Brian believes the exam is on Tuesday.
+- #Brian believes when the exam is.
+
+## A Telling Example
+
 - Tells, at least in English, is a funny case. You can use it for false things. Brian told me that Michigan won does not entail Michigan won. But you can also use it with questions. Brian told me who won implies Brian spoke truly.
 - Anyway, it's this fact that lots of verbs, especially verbs that don't allow that clauses, allow false complements is what's driving Russell.
 
-- There's one other weird thing going on.
-- English has two uses for 'knows'; knows a truth and knows some individual.
-- Compare Brian knows that Michigan won with Brian knows Joe Biden.
-- These translate differently into almost every other language.
-- Russell thinks the two senses of 'know' are connected. Our knowledge of facts (like Michigan won) is grounded in acquaintances, just the kind of acquiantance we report with second kind of know.
+## A Strange Fact about English
 
-# Two Theories of Truth
+English uses the same word (or perhaps two identically pronounced words) for two different things. Compare these three sentences.
 
-Correspondance
-Coherence
-Two reasons to reject coherence - 1) The conspiracy theory. 2) Coherence is defined in terms of truth, so it would be circular
-Russell sort of moves quickly from coherence fails to correspondance wins. But this is too quick. Should allow for, a) disquotational theories, and b) pluralist theories.
-Much more on this in metaphysics/language/logic classes.
+1. Brian knows that Biden won.
+2. Brian knows who won.
+3. Brian knows Biden.
 
-# Theories of Content
+In most languages, the 'knows' in 3 will get a different translation to the 'knows' in the other two.
 
-One bonkers paragraph, where Russell dismisses the standard theory
-Why believe the standard theory, because we can talk about them
-There's something that Alison said and Fatimah believes, namely that Othello loves Desdemona.
-Or I believe everything that Fatimah says. What I believe isn't some words, I don't believe "Othello loves Desdemona", I believe *that* Othello loves Desdemona. So there are things that can be said and believed. These we call propositions, and they are the contents of belief/speech.
+## French Translations
 
-This all seems like ordinary common sense. But not for Russell.
-He went for a really surprising theory, the multiple relation theory.
-This is largely of historical interest, but want to briefly mention it.
-Russell thinks that to believe Othello loves Desdemona, you don't have to be related to a proposition (he doesn't believe in them), but to Othello, LOVES, and Desdemona, in that order.
-What on earth is 'order' here; not sure, and it feels like we have a metaphor here when we need a theory.
-Many of you use Google Sheets I suspect; here's the analogy.
-Some functions on Google Sheets require precisely two inputs. CONCAT, somewhat surprisingly, is like that. CONCAT("a", "b", "c") yields an error, because it wants two inputs.
-Other functions can take variable numbers of inputs. SUM(1, 2) works, and yields 3, and SUM(1, 2, 3) works, and yields 6.
-You could do either of these differently, and in fact different programming languages do.
-Russell thinks 'believes' is like SUM; it takes many things as input.
-This is a mess of a theory, and it really relies on this metaphor of 'order' making more sense than I think it does.
+1. Brian sait que Biden a gagné.
+2. Brian sait qui a gagné.
+3. Brian connaît Biden.
 
-# A Very Surprising Claim
+## Spanish Translations
+
+1. Brian sabe que Biden ganó.
+2. Brian sabe quién ganó.
+3. Brian conoce a Biden.
+
+## Swedish Translations
+
+1. Brian vet att Biden vann.
+2. Brian vet vem som vann.
+3. Brian känner till Biden.
+
+## Difference
+
+Sait/Sabe/Vet are to do with possession of information, either represented directly (Biden won) or as a question (who won).
+
+Connaît/Conoce/Känner are to do with acquiantance with objects. Those sentences are true just in case Biden is one of Brian's (close) acquiantanes.
+
+(Puzzle for interested students: what's going on with "Brian knows the lyrics to _Vampire_"?)
+
+## Striking Thing About Russell
+
+He kind of thinks English gets it right, and everyone else is wrong, and these senses are closely connected.
+
+He thinks knowledge of facts is ultimately grounded in acquaintance with reality, or at least with sense-impressions. More on this next week.
+
+# Two Theories of Truth {background-color="#40666e"}
+
+## Correspondence
+
+The correspondence theory says that something is true if it corresponds to reality in the right way.
+
+- _Brian is Australian_ is true if what it says, i.e., that I'm Australian, matches up with the external world.
+- This seems (a) right as far as it goes, and (b) more of a metaphor than a theory. What, after all, is 'matching' or 'corresponding'.
+
+## Coherence
+
+The only alternative Russell considers is coherence: the truths are the maximally coherent story of the world.
+
+As stated this is a bizarre theory for many reasons.
+
+1. Wild conspiracy theories are coherent, but (usually, or at least sometimes) not true.
+2. The theory is circular, since coherence has to be defined in terms of truth.
+
+## Alternatives
+
+Russell's argument, however, leaves something to be desired. The chapter seems to go:
+
+1. The coherence theory is false.
+2. Therefore, the correspondence theory is true.
+
+And that _assumes_ that one of these two theories is correct. But that assumption is dodgy.
+
+## Minimalism
+
+One popular alternative is minimalism. The minimalist says that all there is to truth is that sentences like the following are true.
+
+- _Brian is Australian_ is true if and only if Brian is Australian.
+
+There isn't a _theory_ of truth; just a lot of biconditionals.
+
+## Pluralism
+
+Other philosophers say that some kind of pluralist theory is true.
+
+One motivation is that while coherence is implausible in general, it is plausible in some domains, especially mathematics.
+
+It's true that seven plus five is twelve, but does that correspond to reality? Are _seven_, _five_ and _twelve_ part of reality? 
+
+## Further Study
+
+What to say about truth is a big topic that comes up in a lot of other courses, including metaphysics, logic, philosophy of language, philosophy of mind, and philosophy of science.
+
+Some of the discussion concerns paradoxes, like _This sentence is not true_, but much of it concerns how mind and world have to relate for thoughts to be true.
+
+# Theories of Content {background-color="#40666e"}
+
+## The Second Most Surprising Paragraph in Chapter 12
+
+> It might be said that his belief is a relation to a different object, namely ‘that Desdemona loves Cassio’; but it is almost as difficult to suppose that there is such an object as this, when Desdemona does not love Cassio, as it was to suppose that there is ‘Desdemona’s love for Cassio’. Hence it will be better to seek for a theory of belief which does not make it consist in a relation of the mind to a single object.
+
+## The Standard Theory
+
+The theory that Russell is rejecting here is, these days, so widespread as to be called orthodoxy.
+
+It's that beliefs have contents, these contents are **propositions**, and they can be shared both between people and between act types.
+
+## Propositions
+
+So there is a proposition that Desdemona loves Cassio. (Ignore complications about fiction here; assume these are real people.)
+
+If Alison says "Desdemona loves Cassio", the content of her speech is the proposition that Desdemona loves Cassio.
+
+If Fatimah believes that Desdemona loves Cassio, the content of her belief is the proposition that Desdemona loves Cassio.
+
+And note in this case we can say _There is something that Alison says which Fatimah believes_. That something is the proposition.
+
+## Propopsitions
+
+These propositions have the main feature we usually associate with being (somewhat) real, namely that we can **quantify** over them.
+
+That is, we can use words like 'something' and 'everything' when talking about them.
+
+In _Brian believes everything Alison says_, the 'everything' there is about propositions; I don't believe words, I believe the contents of the words.
+
+## Multiple Relation Theory
+
+This all seems like almost common sense to me. But Russell thinks false propositions are weird, and so goes for a completely different theory.
+
+He thinks that in _Brian believes that Desdemona loves Cassio_, Brian is related not to a proposition, but to the Desdemona, LOVES, and Cassio.
+
+As he says, Brian has to be related to them **in that order**, and frankly that seems like a metaphor more than a theory to me.
+
+## Fixed and Variable Relata
+
+Still, there is an interesting technical point here.
+
+I suspect many of you use Google sheets; here's a fact about it that I find a bit surprising.
+
+Most of the functions have a fixed number of inputs; you'll just get an error if you put in too many or too few inputs.
+
+One of these is CONCAT, which concatenates strings. It's a two-place function in Google Sheets.
+
+## Fixed and Variable Relata
+
+But other functions have a variable number of inputs. Most notably, SUM (perhaps the most used function) is like this.
+
+Both SUM(1, 2) and SUM(1, 2, 3) are acceptable formulae in Google Sheets.
+
+That's to say, SUM is coded as a function that can take a variable number of inputs.
+
+## Belief
+
+The modern orthodoxy is that belief has a fixed number of relata, namely two. There is a believer, and a proposition believed.
+
+Russell's view is that belief is like SUM; it has a variable number of inputs.
+
+Unlike SUM, the order of the inputs matters, and that's really strange. (Personally I think it's fatal; if order matters, you need to compile the ordered elements into one thing. But that's not something I have a great argument for.)
+
+## The Most Surprising Paragraph
 
 > It seems fairly evident that if there were no beliefs there could be no falsehood, and no truth either, in the sense in which truth is correlative to falsehood. If we imagine a world of mere matter, there would be no room for falsehood in such a world, and although it would contain what may be called ‘facts’, it would not contain any truths, in the sense in which truths are things of the same kind as falsehoods. In fact, truth and falsehood are properties of beliefs and statements: hence a world of mere matter, since it would contain no beliefs or statements, would also contain no truth or falsehood.
 
-I mean, that's a bit weird. Think of a world with just a rock floating through space. It's true in that world that rocks exist; it's false in that world that humans exist. Russell's view, I guess, is that the world contains the fact ROCKS EXIST but no truths and no falsehoods. If I (in this world) believe of that world that it has humans, that's false, but that's a falsehood in this world.
+## Oh Really?
 
-I don't really buy it, and I kind of just wanted to flag that it's weird.
+- That's a bit weird. 
+- Think of a world with just a rock floating through space. 
+- It's true in that world that rocks exist; it's false in that world that humans exist.
+- Russell's view, I guess, is that the world contains the fact ROCKS EXIST but no truths and no falsehoods. 
+- If I (in this world) believe of that world that it has humans, that's false, but that's a falsehood in this world.
+- I don't really buy it, and I kind of just wanted to flag that it's weird.
 
-# For Next Time
+# For Next Time {background-color="#40666e"}
 
-Knowledge
+## Knowledge
+
+We're reading chapter 13, a chapter that queues up a huge amount of debate in **epistemology** in the late 20th century and beyond.
