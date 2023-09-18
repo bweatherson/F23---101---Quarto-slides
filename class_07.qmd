@@ -13,6 +13,54 @@ date: 2023-09-19
 from: markdown+fancy_lists+raw_html
 ---
 
+## Notes on Assignment
+
+1. It's really last **Tuesday**'s material that's relevant.
+2. Support should just about be a quote from the prompt.
+3. There are tricks to figuring out assumptions.
+
+## Kinds of Argument
+
+There are no objections here.
+
+It's mostly one step after another.
+
+Sometimes though there are two arguments.
+
+## Support
+
+The things that support, in this sense, the conclusion should just about be stated.
+
+The first place to look for the direct support for a sentence is the sentence immediately before it.
+
+Just make sure that there isn't an extra step between what you say and what's meant to be supported.
+
+## Assumptions
+
+In cases where there is moral or political reasoning, the assumptions are usually fairly easy to state.
+
+The argument is "If we do X, such-and-such will happen", therefore "We shouldn't do X."
+
+And the assumption is that "such-and-such" is BAD, or WRONG, or SHOULDN'T HAPPEN, or something like that.
+
+## Assumptions
+
+In general, if there's an argument from FIRST SENTENCE to SECOND SENTENCE, the background assumption is something like:
+
+- If FIRST SENTENCE then SECOND SENTENCE
+
+One way to think about the answers is to ask whether they are paraghrases of that conditional.
+
+## Assumptions
+
+But another thing to do here is to try to imagine what it would be like to reject one of the assumptions.
+
+Don't just say "Option C is false". Try to picture what it would be like to be someone who actually rejected Option C.
+
+When I did that, and it wasn't always easy, the argument sounded terrible from inside that worldview when I landed on the correct answer.
+
+If "such-and-such" is actually good, then the argument from two slides ago sounds awful.
+
 # Bertrand Russell {background-color="#40666e"}
 
 ## Biography
@@ -25,6 +73,9 @@ from: markdown+fancy_lists+raw_html
 
 - In philosophy, Russell wrote works that sold lots of copies, and works that have been part of the undergrad curriculum ever since, and more technical works that have been part of the graduate curriculum ever since.
 - He was also an important figure in mathematics, playing a crucial role in the development of set theory, and in the formalisation of proof theory. 
+
+## Public Profile
+
 - And he was a high profile public figure, especially in anti-war campaigns.
 - Despite being literally an aristocrat (he was Lord Russell later in life when his ancestors died), he was imprisoned during World War I for anti-war activities.
 - And because he kept on living, he met the Beatles during protests against the Vietnam War.
@@ -42,7 +93,7 @@ from: markdown+fancy_lists+raw_html
 
 - The background to the book is that when it was written, most British philosophers believed in a doctrine called **idealism**.
 - This isn't a political view; it's not like they were proto-Bernie Sanders supporters with strong political ideals.
-- It's derived from **idea**, not **idealism**.
+- It's derived from **idea**, not **ideal**.
 - Idealism, _in this context_, is the view that the world is fundamentally mental.
 
 ## Versions of Idealism
