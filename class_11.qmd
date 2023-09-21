@@ -1,0 +1,236 @@
+---
+title: _Problems of Philosophy_, Chapter 11
+subtitle: Philosophy 101 - Class 09
+format:
+  clean-revealjs:
+    self-contained: true
+author:
+  - name: Brian Weatherson
+    orcid: 0000-0002-0830-141X
+    email: weath@umich.edu
+    affiliations: University of Michigan
+date: 2023-10-03
+from: markdown+fancy_lists+raw_html
+---
+
+# Knowledge {background-color="#40666e"}
+
+## What is Knowledge?
+
+When does someone know something?
+
+Following mid-20th century philosophical tradition, we'll call the person _S_ and the thing that is maybe known _p_.
+
+So the question becomes, when is it true that _S_ knows that _p_.
+
+Or, as it's often put, how do we finish the sentence: _S_ knows that _p_ if and only if ...
+
+## Gettier
+
+There is a south-east Michigan connection to this question.
+
+The most famous paper on it in the 20th century was a three page paper written in 1963 by a philosopher then at Wayne State University, Edmund Gettier.
+
+We'll get to what Gettier said in a bit, but his paper was so influential that the problem of the previous slide was sometimes called the Gettier problem.
+
+## Naming and History
+
+Now I don't love that name because, as wonderful as Gettier was, it's a very old problem. And I don't love naming a problem that was widely discussed in India 1500 years ago about someone from recent-ish Michigan.
+
+But you may see the name come up in places. And Ed Gettier himself was, by all accounts, a wonderful person, so if it's going to be named after someone recent it's better him than someone else.
+
+# True Belief Theory
+
+## The True Belief Theory
+
+_S_ knows that _p_ if and only if:
+
+1. _S_ believes that _p_; and
+2. _p_ is true.
+
+## iClicker Quiz Time
+
+Russell presents several cases that he thinks are counterexamples to this theory. Which of the following is **not** among them.
+
+a.  A person believes the Prime Minister's name starts with 'B', but they inferred that from a false premise.
+b.  A person believes there is a fire in the hills, but there is not in fact a fire.
+c.  A person Socrates is Greek, because they invalidly inferred that from other things they knew.
+d.  None of the above; Russell uses all three of these examples.
+
+## Answer
+
+The correct answer is b.
+
+Russell does give the other two, and in fact gives a third example.
+
+## What's a counterexample
+
+The theory says that _S_ knows that _p_ just in case certain conditions are met.
+
+There are two ways in reject that.
+
+1. Come up with a case where _S_ does know _p_ but the conditions are not met.
+2. Come up with a case where the conditions are met, but _S_ does not know that _p_.
+
+Russell's examples are all of type 2.
+
+## Asymmetric Counterexamples
+
+There is a reason for that. Russell thinks the true belief theory is half-right.
+
+If _S_ knows that _p_, then he thinks that _p_ has to be true, and has to be believed.
+
+But he doesn't think this is enough.
+
+##  The Prime Minister
+
+The use of 'late' here is potentially confusing; I don't think this is how the word is used in contemporary American English. So I'll modify the example a touch.
+
+- _S_ believes the Prime Minister is Balfour.
+- In fact the Prime Minister is Bannerman.
+- _S_ infers the Prime Minister's name starts with a 'B'.
+
+## Question
+
+Which of the following is true, where _p_ is _The Prime Minister's name starts with a 'B'_? (Not a quiz; I want your reaction.)
+
+a.  _S_ has a true belief that _p_ and knows that _p_.
+b.  _S_ has a true belief that _p_ but does not know that _p_.
+c.  _S_ does not have a true belief that _p_ but does know that _p_.
+d.  _S_ does not have a true belief that _p_ and does not know that _p_.
+
+## Russell's View
+
+Option b is correct. And since either b or c would show that the true belief theory is false, it follows that the true belief theory is false.
+
+## The Battle Example
+
+Russell could be clearer with this one, so let's set it out.
+
+- A newspaper publishes a report saying country X won a battle.
+- They wrote this before the battle.
+- And they were making 'intelligent' guess that (a) there would be a battle, and (b) that X would win. But these were both guesses.
+- _S_ reads the paper, and believes X won a battle.
+
+## Question
+
+Which of the following is true, where _p_ is _X won a battle_? (Not a quiz; I want your reaction.)
+
+a.  _S_ has a true belief that _p_ and knows that _p_.
+b.  _S_ has a true belief that _p_ but does not know that _p_.
+c.  _S_ does not have a true belief that _p_ but does know that _p_.
+d.  _S_ does not have a true belief that _p_ and does not know that _p_.
+
+## The Socrates Example
+
+This one is a bit clearer.
+
+- _S_ knows that All Greeks are men and Socrates is a man.
+- _S_ infers that Socrates is Greek.
+- This is back to front, although actually true.
+
+## Question
+
+Which of the following is true, where _p_ is _Socrates is Greek_? (Not a quiz; I want your reaction.)
+
+a.  _S_ has a true belief that _p_ and knows that _p_.
+b.  _S_ has a true belief that _p_ but does not know that _p_.
+c.  _S_ does not have a true belief that _p_ but does know that _p_.
+d.  _S_ does not have a true belief that _p_ and does not know that _p_.
+
+## Result
+
+We seem to have at least one counterexample to True Belief = Knowledge.
+
+We also get that Knowledge can't be what's validly derived from a true belief.
+
+After all, you can derive _p_ from _p_. Or you could derive from Socrates is Greek and all Greeks are Europeans that Socrates is European, which would be no good.
+
+# Derivative Knowledge
+
+## Validly Derived from Knowledge
+
+### A New Hypothesis
+
+_S_ has derivative knowledge of _p_ if and only if
+
+- _S_ derived _p_ from things they know.
+- The derivation was valid.
+
+## Russell's Objection
+
+In this case it's the other way around.
+
+He thinks there are cases of derivative knowledge that do not fit this template.
+
+## A Counterexample - Right Here
+
+In fact he thinks that you can get a counterexample to this by looking at this very slide.
+
+Here's something true: _Bertrand Russell was born in 1872_.
+
+Russell thinks that if you look at this slide then
+
+1. You get derivative knowledge that I wrote that Russell was born in 1872.
+2. You did not deduce that from anything.
+
+## A Few Theories of Reading
+
+This connects up to several important theories in contemporary cognitive science.
+
+In particular, how does reading work and, separately, how does listening to sentences in one's native language work. (Or, more generally, a language you have native-like fluency in, which is non-trivial if you learned the language after about 3.5.)
+
+## Four Theories
+
+1. Knowledge of what's said is derivative, but not validly deduced from evidence.
+2. Knowledge of what's said is derivative, and is validly deduced from evidence, albeit subconsciously.
+3. Knowledge of what's said is observational, which is a subset of what Russell calls 'intuitive'.
+4. Knowledge of what's said fits into neither of these camps.
+
+## Perception and Cognition
+
+This connects to a big debate in contemporary cognitive science.
+
+An intuitive model of human minds is that they have fundamentally two parts: perception and cognition.
+
+Perception gives us inputs, and cognition acts on them. The terms are different, but this is basically Russell's intuitive and derivative knowledge, in different words.
+
+## Perception and Cognition
+
+This model raises a lot of questions.
+
+1. Does this exhaust things, or are there other ways to know about the world?
+2. Is there a real boundary, or is it just an arbitrary division?
+3. If there is a real boundary, where is it?
+4. The last question has two parts - where is it in terms of things we can talk about in ordinary language, and where is it physiologically/neurologically?
+
+## Back to Russell
+
+For Russell, the perceptual/intuitive is **really** narrow.
+
+What you perceive is little more than shapes, colors, volume and tone of sound, and generally things that a fairly primitive camera could pick up (plus perhaps some smells, tastes, and tactile sensations).
+
+This is really not a popular view in contemporary philosophy/psychology/cognitive science.
+
+## Linguistic Understanding
+
+Note, among other things, the following characteristics of perceiving sounds or texts in a language you are fluent in.
+
+1. It is automatic/involuntary.
+2. It is fast, really fast.
+3. It works even under pretty heavy cognitive load.
+
+These all feel like characteristics of perception, not cognition.
+
+## Derivative Knowledge without Derivations
+
+_All that said_, Russell is onto something here, even if his example is a weird one.
+
+We get lots of knowledge, even genuinely derivative knowledge, without anything like careful derivation.
+
+As long as we have reliable enough instincts, it seems like we get knowledge.
+
+
+
+
+
