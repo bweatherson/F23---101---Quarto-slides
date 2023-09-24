@@ -1,0 +1,85 @@
+---
+title: _Problems of Philosophy_, Chapters 14 and 15
+subtitle: Philosophy 101 - Class 12
+format:
+  clean-revealjs:
+    self-contained: true
+author:
+  - name: Brian Weatherson
+    orcid: 0000-0002-0830-141X
+    email: weath@umich.edu
+    affiliations: University of Michigan
+date: 2023-10-05
+from: markdown+fancy_lists+raw_html
+---
+
+# The Very Big Picture {background-color="#40666e"}
+
+## Aims of these Chapters
+
+- In chapter 14, the focus is largely on what philosophy can't do.
+- In chapter 15, the focus turns back to what philosophy can do, which has become more pressing given the negative results of chapter 14.
+
+## Is Russell Right?
+
+I'm going to make two negative points.
+
+1. The rather strange last few paragraphs aren't really consistent with (the more plausible) things Russell says earlier.
+2. Russell underestimates the importance of continued interactions with other disciplines.
+
+## Russell's Negative View
+
+Philosophy (as he understands it) can't tell us much about the world.
+
+- It can't tell us that the universe is fundamentally one absolute (as Hegel maybe said).
+- It can't tell us that this is the best of all possible worlds (as Leibniz said).
+- It can't tell us that matter is unreal (as Berkeley said).
+
+## Russell's Negative View
+
+He's relying here on an idea that gets its clearest formulation in David Hume's work (and will be of some importance starting next week).
+
+- The only things one can know by pure contemplation, by reasoning that does not start with observation of the world, are things whose negation is incoherent.
+- For any of these interesting philosophical claims, the negation is coherent.
+
+## Russell's Positive View
+
+In chapter 15, Russell goes through four things.
+
+1. Philosophy gives birth to disciplines.
+2. Philosophy helps us ask good questions.
+3. Philosophy helps us see that there are more answers to these questions than might have seemed apparent.
+4. Philosophy, by focussing on universal truths, removes us from our partial perspective.
+
+I'm going to agree with 1-3, not with 4.
+
+# The Limits of Philosophy {background-color="#40666e"}
+
+## Contra Hegel
+
+I don't know enough about Hegel to know how fair Russell is being here.
+
+My suspicion is that he isn't very fair, but I don't know.
+
+Still, there's a somewhat interesting argument he attributes to Hegel.
+
+## The Interconnectedness of All Things
+
+Here's an argument, that relies on no real empirical support, for the conclusion that all things are interconnected.
+
+1. If you know everything there is to know about any one thing, you know all there is to know about the universe.
+2. Therefore, all things are connected; everything that happens in the universe is in some sense a part of every thing.
+
+## The Interconnectedness of All Things
+
+The first premise can seem plausible with a bit of thought.
+
+Say that a fact is about a thing if the fact is of the form "The thing is ...", and what comes after is a long description of some attribute.
+
+That doesn't sound too implausible put that way.
+
+## The Interconnectedness of All Things
+
+But it can lead to some extreme results. Think about this remote control. 
+
+- The remote control is the property of the University of Michigan, which is a university in the United States, which is a country whose first President was George Washington, who had wooden teeth.“
