@@ -13,11 +13,140 @@ date: 2023-09-26
 from: markdown+fancy_lists+raw_html
 ---
 
+# Assignment Recap {background-color="#40666e"}
+
+## Adjustments
+
+I gave credit to the most common incorrect answers in questions 1 and 18. Question 18 I think there is a way to read one of the 'wrong' answers so it was actually correct, so that's a bad question, and I should have caught that. Question 1 I think was right the first way, but it was pretty hard first up.
+
+---
+
+Do you think your local butcher will reduce the amount of meat she orders from the slaughterhouse if you become a vegetarian? Of course not! The supply chain for meat just isn't sensitive to the quantities that a single person consumes. So, by becoming a vegetarian, you'll never save a single animal's life! But by becoming a vegetarian, you'll deprive yourself of the pleasure of eating meat, and you should only do that if the benefits would outweigh the losses. Therefore, you should only become a vegetarian if doing so would save some animals' lives.
+
+QUESTION: What is the conclusion of this argument?
+
+1. You should only become vegetarian if doing so would save animals' lives.
+2. You shouldn't become a vegetarian.
+
+---
+
+- On the one hand, 1 is what it literally says after therefore.
+- On the other hand, the person making this speech is clearly aiming for 2.
+- As a general rule, if someone is clearly arguing for _A_, they are not merely aiming to argue for _If A, then X_.
+- They want you to combine this with _A_ to get _X_.
+- So I think the person making this argument wants the stronger claim, don't be vegeterian, not the weaker claim, don't be vegetarian if...
+- But it's hard so I gave both full marks.
+
+--- 
+
+Question 8
+
+I don't think that humans should become biologically immortal. Due to natural selection and the process of evolution, each new generation of humans is slightly better adapted to survive than the one before it. If an entire generation were to become biologically immortal, this process would basically stagnate. Any future generations would have to be very small (or even nonexistent), because if there were a much lower death rate, we would have to limit the number of people born in order to preserve resources. Biological immortality would essentially stunt the evolutionary development of the entire human race. 
+
+---
+
+QUESTION: Which of the following is used to directly support the claim "biological immortality would stunt the evolutionary development of the entire human race"?
+
+1. If humans became biologically immortal, future generations would have to be very small or even nonexistent.
+2. If an entire generation were to become biologically immortal, the evolutionary process would stagnate.
+
+---
+
+- The short version here is that 2 is close to synonymous with the conclusion.
+- A really common form of writing is to say "Conclusion. Here's why to believe conclusion. Restated conclusion."
+- And that's what is going on here.
+- I don't think 2 is used to support anything because at the point it comes up, 2 isn't supported by anything; it's supported by what comes after.
+
+---
+
+- So that's the form of writing used.
+- And to be clear, this is a perfectly fine form of writing. It's not maximally efficient, but it can be clear in the way that maximally efficient writing isn't. (I'm not sure it's good here; but it can be good.)
+
+---
+
+Question 10
+
+I don't think that humans should become biologically immortal. Due to natural selection and the process of evolution, each new generation of humans is slightly better adapted to survive than the one before it. If an entire generation were to become biologically immortal, this process would basically stagnate. Any future generations would have to be very small (or even nonexistent), because if there were a much lower death rate, we would have to limit the number of people born in order to preserve resources. Biological immortality would essentially stunt the evolutionary development of the entire human race. 
+
+---
+
+QUESTION: What is assumed when the claim "if there is a much lower death rate, we would have to limit the number of people born in order to preserve resources" is used to support the claim that if humans became biologically immortal, future generations would have to be very small or even nonexistent?
+
+---
+
+- This was really hard. Only one where didn't have majority correct.
+- It's worth stepping back a bit to get a big picture of what's going on.
+- Both premise and conclusion here are conditionals, they are of the form $X \rightarrow Y$.
+- Call the premise $B \rightarrow C$, and the conclusion $A \rightarrow D$.
+- Then what's needed to get from premise to conclusion is $A \rightarrow B$ and $C \rightarrow D$.
+- It's worth pausing for a minute to think about why.
+
+---
+
+Now let's fill in the details
+
+- $A$ (the 'if' part of the conclusion) is _Humans become biologically immortal_.
+- $B$ (the 'if' part of the premise) is _There is a much lower death rate_.
+- $C$ (the 'then' part of the premise) is _We have to limit the number of people born in order to preserve resources_.
+- $D$ (the 'then' part of the conclusion) is _Future generations would have to be very small or even nonexistent_.
+
+---
+
+And the assumptions are $A \rightarrow B$, and $C \rightarrow D$.
+
+- I guess they were thinking that $C \rightarrow D$ is kind of trivial, so $A \rightarrow B$ is the real assumption. That's slightly questionable to me, but since $C \rightarrow D$ wasn't an option, $A \rightarrow B$ is the best answer.
+
+## Assumptions
+
+Then there were a few (12, 15, and 20) where people had problems with assumptions.
+
+- A lot of the time, people gave an answer that was either a restatement of the premise, or one of the earlier support lines.
+- The big thing to ask yourself about an assumption:
+- If I rejected this assumption, would I think that _step_ is terrible.
+- Let's do an example of that.
+
+---
+
+As nice as free college for everyone sounds, we shouldn't let the state fund college education. First of all, that would be expensive for the state, and expensive state-funded programs often result in resources being thinly spread. So, with resources spread so thin, the quality of education offered would definitely suffer. More importantly, we don't want the state to be in control of what we learn! If that were the case, then they could stop any criticism of the government and only promote their own ideas. That goes against the very essence of democracy! 
+---
+
+QUESTION: What is assumed when the claim "state-funded education suffers in quality" is used to support the claim that we should not let the state fund college education?
+
+ANSWER: We should not lower the quality of education.
+
+---
+
+The test.
+
+- Assume you believe it's false that "We should not lower the quality of education". I.e., you believe we should lower the quality of education. (Not so easy even if you try.)
+- How does the step from _State education suffers in quality_ to _We should not let the state fund college education_ look?
+- It looks terrible!
+- From this background, that state education suffers in quality is a reason **in favor** of the state funding college education.
+
+---
+
+The test and a rival answer: Lack of resources leads to lower quality education.
+
+- Assume you believe it's false that "Lack of resources leads to lower quality education.". I.e., you believe lack of resources does not lead to lower quality education. (Imagine thinking that at the margin, we waste tons of resources, and get no quality gain.)
+- How does the step from _State education suffers in quality_ to _We should not let the state fund college education_ look?
+- It looks fine!
+- The background gives you reason to reject the premise, but not the step from the premise to the conclusion.
+
 # Metaphysics {background-color="#40666e"}
 
 ## The Big Question
 
 What is in the world?
+
+**ALERT**: iClicker quiz on next slide.
+
+## iClicker Quiz
+
+What is Russell's view on universals?
+
+1. They don't exist.
+2. They exist but are mind-dependent.
+3. They exist are are mind-independent.
 
 ## The World of Things
 
@@ -30,7 +159,7 @@ Things aren't enough to explain all the facts.
 ::::  {.columns align=top .onlytextwidth}
 
 ::: {.column width="40%" align=center}
-![Squid, asleep](images/09/squid_sleep.jpg){height=650}
+![Squid, asleep](images/09/squid_sleep_small.jpg){height=650}
 :::
 
 ::: {.column width="60%"}
@@ -44,7 +173,7 @@ _Squid is sleeping_ isn't just made true by what exists (i.e., Squid), but by ho
 ::::  {.columns align=top .onlytextwidth}
 
 ::: {.column width="40%" align=center}
-![Squid, in a tree](images/09/squid_tree.jpg){height=650}
+![Squid, in a tree](images/09/squid_tree_small.jpeg){height=650}
 :::
 
 ::: {.column width="60%"}

@@ -230,6 +230,68 @@ We get lots of knowledge, even genuinely derivative knowledge, without anything 
 
 As long as we have reliable enough instincts, it seems like we get knowledge.
 
+# Russell's Positive Theory
+
+## Math and Knowledge
+
+Here's a very familiar picture of both how mathematical truth and mathematical knowledge works.
+
+- There are axioms, and there are rules of derivation.
+- Something is true if and only if it is derivable from the axioms via the rules.
+- Something is known if and only if we have done that derivation.
+
+## Russell's Picture of Knowledge
+
+Similarly there is intuitive, or direct knowledge (like the axioms), and indirect knowledge (like the derivations).
+
+_S_ knows that _p_ if and only if _p_ is either something _S_ has intuitive knowledge of, or has derived from something already known.
+
+That's not a complete theory, but if supplemented with an account of intuitive knowledge, and an account of proper derivation, it would be.
+
+## Two Questions
+
+First, is this the right picture?
+
+Second, if so, how do we fill in the parts?
+
+For today, we're just going to look at the first. It's really easy to move onto the second without doing that, because it's a very natural picture. But let's pause for a bit.
+
+## Derivation
+
+- In the previous section I mentioned one problem Russell brings up: subconscious derivation.
+- That's an important difference with math.
+- Or at least it seems like one; maybe we credit mathematicians with knowledge when they haven't made their proofs explicit.
+
+## Humans are not Machines
+
+Russell notes two more problems with the view that fit under this heading.
+
+1. In math, something either clearly is an axiom or it isn't. But in real life things aren't that clear. Evidence can be blurry, and it not be perfectly clear what it is.
+2. In math, arbitrarily long derivations are fine. That's really important for modern computing, where we have chains of literally billions of steps. But humans make mistakes. How should we think about the possibility of mistakes over long chains?
+
+## Humans are not Machines
+
+Gilbert Harman (who was until his recent death a philosopher at Princeton) argued that another way in which humans are not machines is really important. We forgot things.
+
+- In particular, we really frequently forget sources.
+- I know UM football is unbeaten so far this year.
+- But I don't remember where I read that. Was it ESPN, or the Athletic, or the Free Press, or?
+- Importantly, I don't need to remember this to keep the information.
+
+## Induction is Not Deduction
+
+Remember I said that in attacking a valid argument, like in math, there are only two possible attack points: you can say the premises are wrong, or that they don't support the conclusion.
+
+But in general there is a third way to attack arguments: the premises might be true and support the conclusion, but there is a stronger support for the alternative conclusion.
+
+Does this raise problems for the analogy with math? Maybe; that's a big question in what's sometimes called _Informal Logic_.
+
+# For Next Time
+
+## For Next Time
+
+We'll end with Russell's discussion of the value of philosophy.
+
 
 
 
