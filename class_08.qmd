@@ -135,8 +135,8 @@ By this he means something like that you'd only believe the argument was any goo
 
 There are (at least) two kinds of question-begging: 
 
-1. You'd only believe the premises if you( already) believe the conclusion; 
-2. You'd only believe that premises support conclusion if you (already) believe conclusion. 
+1. You'd only believe the premises if you (already) believed the conclusion; 
+2. You'd only believe that premises support conclusion if you (already) believed the conclusion. 
 
 The latter is rarer, but is what's at issue here.
 
