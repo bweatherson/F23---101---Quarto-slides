@@ -184,6 +184,51 @@ We need universals like SLEEPING and LOVES to be part of our metaphysics.
 
 :::: 
 
+---
+
+::::  {.columns align=top .onlytextwidth}
+
+::: {.column width="40%" align=center}
+![Plato](images/09/plato.jpg){height=500}
+:::
+
+::: {.column width="60%"}
+Plato (420s-348 BCE) argued that forms exist outside space and time, and ground universals.
+:::
+
+:::
+
+---
+
+::::  {.columns align=top .onlytextwidth}
+
+::: {.column width="40%" align=center}
+![Aristotle](images/09/aristotle.jpg){height=500}
+:::
+
+::: {.column width="60%"}
+Aristotle (384-322 BCE) agreed that universals are real and mind-independent, but denied they were independent of their bearers.
+:::
+
+:::
+
+
+---
+
+::::  {.columns align=top .onlytextwidth}
+
+::: {.column width="40%" align=center}
+![Abelard](images/09/abelard_and_heloise.jpg){height=500}
+:::
+
+::: {.column width="60%"}
+Peter Abelard (1079-1142) argued for nominalism, the view that we just have general words, but there are no universals.
+
+Abelard is shown here with his sometime lover Héloïse, and if you don't know the story of Abelard and Héloïse you probably should. Though be warned it gets a bit gory by the end.
+:::
+
+::::
+
 # Doing Without Universals
 
 ## Two Attempts
