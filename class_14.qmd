@@ -1,0 +1,270 @@
+---
+title: _Dialogues Concerning Natural Religion_, Part III
+subtitle: Philosophy 101 - Class 14
+format:
+  clean-revealjs:
+    self-contained: true
+author:
+  - name: Brian Weatherson
+    orcid: 0000-0002-0830-141X
+    email: weath@umich.edu
+    affiliations: University of Michigan
+date: 2023-10-12
+from: markdown+fancy_lists+raw_html
+---
+
+## Inductive Arguments
+
+**Enumerative Induction**:  Lots of Fs are Gs, so all Fs are Gs. (This is what Russell thought was the only form of reasoning about the unobserved.)
+
+**Analogy**:  This unknown case is like this known case.
+
+**Inference to the Best Explanation**:  The best explanation of a puzzling phenomena is _p_, therefore _p_.
+
+## Design Argument (Analogy)
+
+1. Artifacts that serve a purpose are designed.
+2. The universe serves a purpose.
+3. So by analogy to these artifacts it is designed.
+
+## Design Argument (IBE)
+
+1. Things we see, especially living creatures, have complex parts that fit together well.
+2. The best explanation of this is that they have a benevolent designer.
+3. Hence that designer, i.e. God, exists.
+
+## Historical Point
+
+A lot of organised religions (definitely not all, but a lot of different ones) have been hostile to Darwinian theories of evolution.
+
+At least part of that hostility was that Darwin's theories undermined Design Argument (IBE).
+
+It's worth noting that (a) Hume is writing a century before Darwin, and (b) he writes as if Design Argument (Analogy) is the real form of the design argument.
+
+## Historical Point
+
+It isn't just religious people who write this way.
+
+In the 1990s and 2000s there was a very prominent strand of atheism (especially online) that made Darwin central to their position.
+
+The line was roughly that Darwin, and only Darwin, had made it possible to be an intellectually respectable atheist.
+
+This never struck me as a plausible view, i.e., the conjunction of views that atheism was correct and would be flawed without Darwin. And it's really fascinating to read Hume with this in mind.
+
+## Why Analogy
+
+Cleanthes is going with the analogy at first.
+
+Philo’s first point is that he is forced to reason by analogy, rather than using enumerative induction. (Note that IBE isn't on the table yet.)
+
+We don’t have other examples of worlds created by intelligent designers.
+
+This is agreed on all sides.
+
+## What Analogy
+
+The analogy is supposed to be between artifacts (on the one hand) and animals or astronomical systems (on the other).
+
+Philo’s main point is that what’s in the two hands is too dissimilar to justify an argument by analogy.
+
+## Weak Analogy Objection
+
+Philo has a barrage of points
+
+1. Intuitive dissimilarity
+2. Worries about inferring from effect to cause
+3. Worries about psychological inference
+4. Can’t infer from parts to wholes
+
+We’ll go over these in turn
+
+## Intuitive Dissimilarity
+
+It would be a mistake to infer from the circulation of blood in humans to the circulation of sap in plants.
+
+It would be a bit of a leap (though I think a justified one) to infer the circulation of blood in other primates.
+
+But animals and plants are too dissimilar to justify this.
+
+## Intuitive Dissimilarity
+
+But animals and plants are more alike than animals and artifacts.
+
+So if inference from animal to plant is bad, inference from artifact to animal is worse.
+
+So this is a bad inference.
+
+## Causes and Effects
+
+The best cases of analogical reasoning are from causes to effects.
+
+If one time we put our hand in a flame, and it hurts, we’ll infer that the next time we put our hand in a flame it will lead to the same effect, i.e. pain.
+
+Same cause, same effect is a very plausible bit of reasoning; one so central that some Indian traditions treated it as a separate kind of argument.
+
+## Causes and Effects
+
+But it would be a serious mistake to infer that anyone else in pain but their hand in a flame.
+
+This is a bad argument.
+
+1. That person is in pain.
+2. When I was in pain like that, it was because I'd put my hand in a flame.
+3. So they must have put their hand in a flame.
+
+## Causes and Effects
+
+If we see similar designed cars, we’ll infer they behave in similar ways. (If you get a rental car of the same model you normally drive, you know how it works.)
+
+But it’s a mistake to infer from the fact that cars are behaved in similar (not identical) ways that they have the same underlying causes.
+
+Similar faults can be symptoms of very different underlying problems
+
+## Causes and Effects
+
+In general, it doesn’t take much observation to go from like cause to like effect, but it takes a lot to go from like effect to like cause.
+
+That’s the hard direction to run analogical reasoning.
+
+But that’s what the design inference does.
+
+## Psychological Inference
+
+Analogical reasoning is even harder in psychology.
+
+- Minds are complicated and massively connected.
+- Any part can have an impact on any other part.
+- So there are many possible psychological causes of an action.
+
+## Psychological Inference
+
+To take a homely example, think of all the ways a person might choose to study at the University of Michigan.
+
+It would be odd to infer on the basis of a few observations that people you don’t know chose UM for similar reasons to people you do know.
+
+## Psychological Inference
+
+But now imagine you’re trying to figure out why some people chose to study at Ohio State rather than Michigan.
+
+Ohio State and Michigan are similar in some ways, more than animals and artifacts. (Not similar at football obviously, but they are big Midwestern state universities.)
+
+But knowing why a few friends chose Cornell will be very little help in figuring out why students chose Penn
+
+## Summing Up
+
+- Inferring from artifacts to animals is already a risky business.
+- That the inference is from effect to cause, not cause to effect, makes it worse.
+- That the cause in question is psychological makes it worse again.
+
+Things look bad.
+
+## Parts and Wholes
+
+Philo worries that there might be some principle Cleanthes can use, e.g. parts are similar to the wholes they are of.
+
+This would balance out the weaknesses of the argument.
+
+Philo rejects that because of four examples.
+
+## Parts and Wholes
+
+- Generation of hair -> generation of humans
+- Blowing of leaf -> behavior of tree
+- Growing of embryo -> animalcule
+- Economy of household -> economy of a nation (It's wild that they think this is an obviously bad analogy.)
+
+Cleanthes, in response, doesn’t try to defend such a principle.
+
+## Cleanthes’ Responses
+
+Cleanthes makes two responses:
+
+- First, in some cases of successful analogical reasoning, the analogies have been similarly stretched.
+- Second, we can imagine cases where we’d automatically infer a designer but the analogy would be just as stretched.
+
+## Astronomy Analogy
+
+The first move is made by looking at facts from the history of astronomy.
+
+Cleanthes says that inferring from facts about earthly things to facts about the universe is no different from inferring from terrestrial mechanics to celestial mechanics.
+
+## Astronomy Analogy
+
+Cleanthes suggests that without this we can’t defend Copernican astronomy.
+
+Philo thinks Cleanthes is wrong on the history here.
+
+It’s true (remarkably) that the same basic principles underlie terrestrial and celestial motion.
+
+But Philo thinks this is a conclusion.
+
+## Astronomy Analogy
+
+He argues that the early great astronomers (Galileo, Copernicus etc) reasoned from claims about other celestial bodies, especially the moon, to claims about earth’s behaviour.
+
+They reasoned, that is, from like to like.
+
+They then discovered that very different things have similar mechanics.
+
+## Divine Voice Analogy
+
+Cleanthes comes back with a stronger kind of case.
+
+“Suppose that an articulate voice were heard in the clouds, much louder and more melodious than any which human art could ever reach … Must you not instantly assign to it some design or purpose?”
+
+## Divine Voice Analogy
+
+It is important to Cleanthes that this is an analogy not an enumerative induction.
+
+The fact that the voice is so powerful and melodious means we can’t say “Ah, in cases like this in the past there was a purpose, so there is one here too,” because there are no such cases.
+
+The Divine Voice case is really interesting I think, perhaps the best move Cleanthes makes in the book. And we're going to spend a bit of time on it over the next couple of weeks.
+
+##  Books Analogy
+
+This one is harder to follow.
+
+- Imagine, says Cleanthes, that books could reproduce like animals.
+- We would still attribute design to any book we found lying around.
+- We would see “the strongest analogy to mind and intelligence” in them.
+
+## Overgeneration
+
+I think Cleanthes's point is this.
+
+1. If any of Philo's arguments work, they would still work if we heard the Divine Voice.
+2. But if we heard the Divine Voice, we'd totally accept the argument by analogy to the existence of God.
+3. So Philo's arguments do not in fact work.
+
+## Philo's Move
+
+After some inconsequential back-and-forth with Demea, Philo changes subject, apparently conceding.
+
+I’m not sure Philo should have conceded.
+
+Cleanthes may be running together the two design arguments here.
+
+## The Divine Voice
+
+The following is plausibly true:
+
+- If we heard the Divine Voice, it would be very plausible that God exists.
+
+But what Cleanthes needs is this:
+
+- If we heard the DIvine Voice, it would be very plausible _that the argument by analogy shows that_ God exists.
+
+And we could reject that.
+
+## Design Arguments
+
+In the world where the Divine Voice happens, one could coherently say:
+
+1. The analogy argument is still bad; but
+2. Now, the best explanation is God exists, so the IBE argument works.
+
+## For Next Time
+
+Read Parts 4 and 5 of Hume.
+
+Hume will introduce the regress worry (short version, Who designed God?) and the worry about what we can learn about God from this argument.

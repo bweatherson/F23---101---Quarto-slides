@@ -79,110 +79,150 @@ There are three main types of inductive argument:
 2. Analogy
 3. Inference to the Best Explanation
 
+There could be others, e.g., testimonial reasoning, or causal reasoning, but lots of people, including I think Hume, are taking these to be fundamental.
 
-Inductive Reasoning
-What philosophers call enumerative induction is the following kind of inference (F is a noun, G an adjective)
-	
-	I’ve seen lots of Fs and they’ve all been Gs
-	––––––––––––––––––––––––––––
-	So the next F I see will be G
-Inductive Reasoning
-This kind of argument is not valid
-But it can be perfectly reasonable
-When can it be used?
-When I’ve seen lots of Fs
-When I’ve seen them in a wide variety of situations
-When F and G are real features of the world
-Inductive Reasoning
-When cases are exactly alike, or we have little data, we can’t use that method
-But we might be able to reason by analogy  with past cases
-The idea is that situations that are alike in some respects are alike in other respects
-Arguments by Analogy
-Inferring same culprit from same style of crime
-Inferring circulation of blood in other creatures from it happening in humans
-Inferring others have pains from the fact that we have pains
-These arguments might work even with small base
-Arguments by Analogy
-These arguments are strongest when they are explicitly causal
-Non-causal arguments by analogy often look fairly dubious
-E.g. The last world war started on a Tuesday, so by analogy the next world war will probably start on a Tuesday
-Unless Tuesday is causally relevant
-Argument by Analogy
-In general the slogan here is  	Similar Causes, Similar Effects 
-And vice versa
-Inference to the Best Explanation
-Imagine that we are detectives investigating a murder
-There are two suspects X and Y; only they had access to the murder weapon
-X had a strong motive to kill the victim
-Y liked the victim, and had no motive
-We infer that X was likely the killer
-Inference to the Best Explanation
-The reason for this is that if X is the killer, we could explain what happened
-If Y was the killer, it would be inexplicable
-In general, we adopt hypotheses that make our data explicable
-This is called inference to the best explanation
-Design Argument
-There are many ways that the design argument has been phrased
-Some of these make it sound like an argument by analogy
-Some of these make it sound like an inference to the best explanation
-We’ll look at both arguments
-Design Argument (Analogy)
-Artifacts that serve a purpose are designed
-The universe serves a purpose
-So by analogy to these artifacts it is designed
+## Inductive Reasoning
 
-Design Argument (Analogy)
-This doesn’t quite get us God
-We can get a bit closer to God’s existence with a trivial step
-Designed things have designers
-So it has a designer
-Who is this designer?
-Design Argument (IBE)
-Things we see, especially living creatures, have complex parts that fit together well
-The best explanation of this is that they have a benevolent designer
-Hence that designer, i.e. God, exists
-Design Argument
+We've talked about all these before, so I'll be brief here.
+
+1. **Enumerative Induction** is projecting a pattern (e.g., that snow is cold) from observed instances to unobserved instances.
+2. **Analogy** is inferring that unobserved things that are analogous to existing observed things in some respects are alike in other respects.
+3. **Inference to the Best Explanation** is believing the best explanation of the observed data.
+
+# Design Arguments {background-color="#40666e"}
+
+## Design Argument
+
+The short version of the design argument looks like this.
+
+1. The world has lots of features that seem like they are designed.
+2. Therefore, the world has a designer.
+3. The designer of the world would be a god.
+4. Therefore, a god exists.
+5. Therefore, God, of the great monotheistic religions, exists.
+
+## Design Argument
+
+The conclusion is very much not that one of Judaism, Christianity, or Islam is correct.
+
+But it is that something like one of those religions, with one capital-G God, exists.
+
+We are not going to get into whether this argument best supports one of those three religions.
+
+But we will talk about whether it's a good argument for **monotheism** as opposed to **polytheism**.
+
+## Design Argument or Arguments
+
+There are many ways that the design argument has been phrased.
+
+- Some of these make it sound like an argument by analogy.
+- Some of these make it sound like an inference to the best explanation.
+- We’ll look at both arguments.
+
+## Design Argument (Analogy)
+
+1. Artifacts that serve a purpose are designed.
+2. The universe serves a purpose.
+3. So by analogy to these artifacts it is designed.
+
+## Design Argument (Analogy)
+
+- This doesn’t quite get us God.
+- We can get a bit closer to God’s existence (or at least to gods' existences) with a trivial step.
+- Designed things have designers.
+- So it has a designer.
+- Who is this designer?
+
+## Design Argument (IBE)
+
+- Things we see, especially living creatures, have complex parts that fit together well.
+- The best explanation of this is that they have a benevolent designer.
+- Hence that designer, i.e. God, exists.
+
+## Poll
+
+Not entirely obvious question, and this is a poll not a quiz.
+
+When Cleanthes gives the design argument, is he giving:
+
+A. The analogy version
+B. The IBE version
+C. Both of them
+D. Something different
+
+## Design Arguments
+
 These two arguments overlap, but on inspection they may turn out to be very different arguments.
-In particular, there are different objections that we might make to the arguments
-Four Objections
-Weak analogy
-The universe is not like artifacts
-Regress
-Who designed God?
-Nature of God
-This doesn’t establish God’s goodness
-Alternative explanations
-The universe could have ‘generated’
-Design Argument
-The weak analogy objection is strictly an objection to the analogy argument
-And the alternative explanation point is primarily an objection to the IBE argument
 
-Design Argument
-Hume’s primary focus is the analogy
-He has Cleanthes run this argument, and Philo and Demea respond to it
-Cleanthes makes further inferences
-That designer is God
-Since designers we see are human, by analogy God is similar  to humans
-Demea’s Objections
-Compare: man was made in God’s image
-Surprisingly, Demea is strongly opposed to this conclusion
-God is infinite and not at all like humans
-Demea’s Objections
-This argument gives us a probability that God exists, not a certainty
-The latter point is clearly correct
-But we shouldn’t make too much of it
-It’s only probable in Demea’s sense that the snow in the quad is cold
-Kind of Designer
-Philo’s also objects to the analogy to humans
-It is unreasonable to believe we are the only kind  of intelligent life in the universe
-These other intelligences will also design some things
-So God could resemble them
-Other Design Objections
-This isn’t yet an objection to a design argument for theism
-Theism as such is consistent with God being more like a whale than a human
-Or more like a Martian
-Philo backs away from the claim about life on other planets by noting the variety of life on earth
-For Next Time
-Read chapter 3 of Hume
-We’ll look at the Weak Analogy objection
-Philo has two goes at presenting this objection, after Cleanthes seems to convince him that the first pass doesn’t work
+In particular, there are different objections that we might make to the arguments
+
+## Four Objections
+
+- **Weak analogy**: The universe is not like artifacts
+- **Regress**: Who designed God?
+- **Nature of God**: This doesn’t establish God’s goodness
+- **Alternative explanations**: The universe could have ‘generated’
+
+## Design Argument
+
+- The weak analogy objection is strictly an objection to the analogy argument.
+- And the alternative explanation point is primarily an objection to the IBE argument.
+
+## Design Argument
+
+At least at first, it seems Hume’s primary focus is the analogy. We'll see if this stays as we move along.
+
+He has Cleanthes run this argument, and Philo and Demea respond to it.
+
+## Cleanthes' Inferences
+
+Cleanthes makes further inferences:
+
+1. That designer is God.
+2. Since designers we see are human, by analogy God is similar to humans. (This is true, at least as I understand them, in the three great monotheistic religions I mentioned. But you could imagine a monotheistic religion that rejected it, like the kind of deism popular in the American colonies.)
+
+## Demea’s Objections
+
+First he objects to the similarity between God and humans.
+
+This is surprising because, as I said, I thought the idea that man was made in God’s image was a fairly standard theistic belief.
+
+Surprisingly, Demea is strongly opposed to this conclusion.
+
+He insists that God is infinite and not at all like humans.
+
+Now Demea is a made up character, but in other respects he is fairly orthodox theist.
+
+## Demea’s Objections
+
+This argument gives us a probability that God exists, not a certainty.
+
+This is correct, but we shouldn’t make too much of it.
+
+It’s only probable in Demea’s sense that the next snow you see will be cold.
+
+## Kind of Designer
+
+Philo also objects to the analogy to humans.
+
+It is unreasonable to believe we are the only kind  of intelligent life in the universe.
+
+These other intelligences will also design some things.
+
+So God could resemble them.
+
+## Other Design Objections
+
+This isn’t yet an objection to a design argument for theism.
+
+Theism as such is consistent with God being more like a whale than a human.
+
+Or more like a Martian.
+
+Philo backs away from the claim about life on other planets by noting the variety of life on earth.
+
+##  For Next Time
+
+- Read chapter 3 of Hume.
+- We’ll look at the Weak Analogy objection.
+- Philo has two goes at presenting this objection, after Cleanthes seems to convince him that the first pass doesn’t work.
