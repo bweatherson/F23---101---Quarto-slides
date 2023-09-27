@@ -82,4 +82,132 @@ That doesn't sound too implausible put that way.
 
 But it can lead to some extreme results. Think about this remote control. 
 
-- The remote control is the property of the University of Michigan, which is a university in the United States, which is a country whose first President was George Washington, who had wooden teeth.“
+- The remote control is the property of the University of Michigan, which is a university in the United States, which is a country whose first President was George Washington, who had wooden teeth.
+- Knowing all there is to know about the remote control implies knowing that George Washington had wooden teeth.
+- And the same kind of trick looks like it will work for any fact in the universe, with a bit of imagination.
+
+## Aboutness
+
+I think that this shows that we have to give up this background assumption:
+
+- A fact is about a thing if the fact is of the form "The thing is ...", and what comes after is a long description of some attribute.
+- The remote control example was silly, but there are simpler cases that I think make the same point.
+- E.g., the remote control was made the same year that Taylor Swift released the new version of _Red_.
+- That's not a fact _about_ the remote in the intended sense.
+
+---
+
+::::  {.columns align=top .onlytextwidth}
+
+::: {.column width="40%" align=center}
+![A 2014 book about aboutness](images/12/aboutness.jpeg){height=650}
+:::
+
+::: {.column width="60%"}
+At this stage it would be great to say, here's a simple theory of aboutness that explains what is going on.
+
+I don't have such a theory.
+
+If you're interested in a complicated but very fascinating theory, here's a 2014 book with a beautiful cover that goes into some detail.
+:::
+
+:::: 
+
+## Limits and Promises
+
+There is a general example from this kind of case.
+
+- Attempts to come up with grand theories of the world from purely philosophical reflection don't have a great track record in actually creating good theories.
+- But that doesn't mean they are worthless.
+- Sometimes seeing what they assume generates good questions, e.g., what is aboutness.
+ 
+## Good Questions
+
+And sometimes those questions have practical upshots.
+
+- My sense is that a big part of the reason 2020s language models (like GPT) are better than 2010s language models (based on things like LDA) is that they have a better theory of aboutness built into their architecture.
+- That's not to say it's a _good_ theory, in fact I think it's kind of terrible, but it's a _better_ theory than what we had in the 2010s. And maybe the 2030s, or even late 2020s, will use an even better one. 
+
+# The Birth of Disciplines {background-color="#40666e"} 
+
+## Newton and Beyond
+
+Russell mentions that Isaac Newton, one of the greatest ever physicists, worked in what was then called _natural philosophy_.
+
+The name isn't a coincidence; physics was really part of philosophy then.
+
+If Newton hadn't come along, maybe we'd remember René Descartes as the greatest physicist of that generation.
+
+And Newton had a long (and acrimonious) correspondence with the Gottfried Leibniz.
+
+## Newton and Beyond
+
+But Newton did come along, and one of the consequences of his work was that making further progress in physics required more specialised skills.
+
+And so physics programs, homes for people with those specialised skills, were born.
+
+## Philosophy as Discipline Generator
+
+That's one of the things Russell thinks is really valuable about philosophy.
+
+Every so often, it generates a whole new, and really valuable, discipline.
+
+Two examples of this that are not in Russell's book are from Russell's life.
+
+## Cambridge (UK) Philosophy
+
+There is [online](https://www.irwincollier.com/cambridge-on-the-moral-sciences-tripos-james-ward-editor-1891/) a handbook for what the "Moral Sciences" program at Cambridge was in 1891, which would have been when Russell was 19.
+
+What they called moral sciences was roughly what we'd call philosophy; at least it was 60% what we'd definitely call philosophy.
+
+But it was also 20% psychology, and 20% economics.
+
+## Cambridge (UK) Philosophy
+
+Even that's a bit misleading. The psychology was very theoretical, and most of the people they read were people we'd now think of as philosophers, like William James.
+
+And the economics was what became known as political economy, more like PPE than just economics.
+
+The key point for us is that within a generation, both of these were separate departments.
+
+## Cambridge (UK) Philosophy
+
+This wasn't because Cambridge was weak in economics and psychology, and had to catch up by generating departments.
+
+I don't know the history of the psychology program there well enough to say, but it was probably the best economics program in the English-speaking world at the time, and it was part of philosophy.
+
+## More Recent Cases
+
+That said, this was a hundred years ago. We might ask what philosophy has done for the university recently.
+
+And here the big thing has been not the creation of brand new programs, but the filling in of gaps.
+
+That's what happened at Michigan in the 2010s.
+
+## Two New Majors
+
+Two of the newest majors on campus are Cognitive Science and PPE.
+
+Cog Sci is a joint project of Psychology, Linguistics, and Philosophy.
+
+And PPE, as the name suggests, is a joint project of Politics, Philosophy, and Economics.
+
+And in each case it was less the creation of a new field, and more a recognition that there was a gap in our collective coverage, falling between the members of the field.
+
+## Physics and Metaphysics
+
+It hasn't become a major yet, and maybe it never will, but at some universities you see similar things with work at the overlap between (or in the space between) physics and philosophy.
+
+Work at the foundation of physics these days is not just about (a) better experiments, and (b) better mathematical theories to predict what will happen, but also (c) how to understand these theories.
+
+And (at least in my opinion) the best work on that front comes from interaction between philosophers and physicists.
+
+# Philosophy and the Universal {background-color="#40666e"} 
+
+## Two Russellian Claims
+
+Let's jump to the very end of Russell's book. He says two things that I think are in some tension.
+
+1. It's very important to be connected to the world. Part of what's valuable about knowledge is that knowledge requires an integration of knower and the world that is known.
+2. Philosophy is valuable because it makes us focus on universal claims that are 
+ 
