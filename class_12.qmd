@@ -100,7 +100,7 @@ I think that this shows that we have to give up this background assumption:
 ::::  {.columns align=top .onlytextwidth}
 
 ::: {.column width="40%" align=center}
-![A 2014 book about aboutness](images/12/aboutness.jpeg){height=650}
+![A 2014 book about aboutness](images/12/aboutness.png){height=650}
 :::
 
 ::: {.column width="60%"}
@@ -209,5 +209,39 @@ And (at least in my opinion) the best work on that front comes from interaction 
 Let's jump to the very end of Russell's book. He says two things that I think are in some tension.
 
 1. It's very important to be connected to the world. Part of what's valuable about knowledge is that knowledge requires an integration of knower and the world that is known.
-2. Philosophy is valuable because it makes us focus on universal claims that are 
+2. Philosophy is valuable because it makes us focus on universal claims and that means we don't rely on our partial perspective.
+
+## The Problem
+
+Let's say we focus on abstract things, like Russell wants, e.g., _Is there a largest set_?
+
+- The problem is that we're not really connecting to the world, so we're not getting the value in 1.
+- You're not really integrating yourself into your community or your world by thinking hard about whether there is a largest set.
+- It's true that because of that, you can think about set theory in a way that is less sensitive to your prejudices, biases, idiosyncratic limitations, etc.
+
+## Why Choose?
+
+What's odd is why Russell thinks we need to choose between engaging with the empirical world (clearly a valuable thing), and figuring out abstract facts in ways that don't engage various biases (also clearly valuable).
+
+The end of the book is a weird argument for one of these things that seems to miss the value of the other.
+
+# Big Picture {background-color="#40666e"} 
+
+## Realism
+
+Russell's book was a clear statement of a kind of realist attitude to the world that was unusual in philosophy at the time, but became much more so over the 20th century, especially the second half.
+
+Realism is a very natural view; it sure looks at first glance like there's a mind-independent world we can know about. But it raises deep questions, and this book was an interesting attempt to set out what those questions are and how to answer them.
+
+## Some questions
+
+- What must the world have to ground the facts we seem to perceive? (Russell: At least particulars and universals.)
+- What are minds like that they can both perceive the world, and think false thoughts? (Russell offers the multiple relation theory here, though few followed him.)
+- How do we perceive the world? (Russell thinks we just directly perceive our own mind, and then infer out.)
+- How do we make these inferences? (Russell gives a key role to induction)
+- These are all pressing questions today.
+
+## For Next Time
+
+- We'll go back in time, and aim for even deeper philosophical questions, looking at David Hume's discussion of the Design Argument for the existence of God.
  

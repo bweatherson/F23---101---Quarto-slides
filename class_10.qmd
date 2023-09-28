@@ -68,7 +68,7 @@ The narrator in the video says something that I think isn't supported by the dat
 
 One of the things that Russell is trying to do in the early part of the chapter is get you to think that the possibility of misrepresentation is weird, and something that needs explaining.
 
-This is a big thing we do in philosophy (and I'm sure elsewhere in academia): get you to look at something completely commonplace from a perspective that it becomes surprising and in need of explanation, and that some theory might be plausible because it explains that fact.
+This is a big thing we do in philosophy (and elsewhere in academia): get you to look at something  commonplace from a perspective that makes surprising and in need of explanation, and that some theory might be plausible because it explains that fact.
 
 My favorite instance of this (which I think I've already mentioned in this class) is getting into the mindset where it is deeply weird that 99.something percent of humans are fluent in the dominant local language.
 
@@ -87,7 +87,7 @@ My favorite instance of this (which I think I've already mentioned in this class
 
 ## A Telling Example
 
-- Tells, at least in English, is a funny case. You can use it for false things. Brian told me that Michigan won does not entail Michigan won. But you can also use it with questions. Brian told me who won implies Brian spoke truly.
+- Tells, at least in English, is a funny case. You can use it for false things. _Brian told me that Michigan won_ does not entail Michigan won. But you can also use it with questions. _Brian told me who won_ entails Brian spoke truly.
 - Anyway, it's this fact that lots of verbs, especially verbs that don't allow that clauses, allow false complements is what's driving Russell.
 
 ## A Strange Fact about English
@@ -122,7 +122,7 @@ In most languages, the 'knows' in 3 will get a different translation to the 'kno
 
 Sait/Sabe/Vet are to do with possession of information, either represented directly (Biden won) or as a question (who won).
 
-Connaît/Conoce/Känner are to do with acquiantance with objects. Those sentences are true just in case Biden is one of Brian's (close) acquiantanes.
+Connaît/Conoce/Känner are to do with acquiantance with objects. Those sentences are true just in case Biden is one of Brian's (close) acquiantances.
 
 (Puzzle for interested students: what's going on with "Brian knows the lyrics to _Vampire_"?)
 
@@ -130,9 +130,19 @@ Connaît/Conoce/Känner are to do with acquiantance with objects. Those sentence
 
 He kind of thinks English gets it right, and everyone else is wrong, and these senses are closely connected.
 
-He thinks knowledge of facts is ultimately grounded in acquaintance with reality, or at least with sense-impressions. More on this next week.
+He thinks knowledge of facts is ultimately grounded in acquaintance with reality, or at least with sense-impressions. This mostly comes up in the parts of the book we skipped, but it's interesting.
 
 # Two Theories of Truth {background-color="#40666e"}
+
+## iClicker Question
+
+Which theory of truth does Russell reject in this chapter?
+
+a. The correspondence theory.
+b. The coherence theory.
+c. The minimal theory of truth.
+d. The pragmatic theory.
+
 
 ## Correspondence
 
@@ -165,7 +175,7 @@ One popular alternative is minimalism. The minimalist says that all there is to 
 
 - _Brian is Australian_ is true if and only if Brian is Australian.
 
-There isn't a _theory_ of truth; just a lot of biconditionals.
+It's not clear this should really be called a _theory_ of truth; it's just a lot of biconditionals.
 
 ## Pluralism
 
@@ -221,13 +231,13 @@ As he says, Brian has to be related to them **in that order**, and frankly that 
 
 ## Fixed and Variable Relata
 
-Still, there is an interesting technical point here.
-
-I suspect many of you use Google sheets; here's a fact about it that I find a bit surprising.
+Still, there is an interesting technical point here. I suspect many of you use Google sheets; here's a fact about it that I find a bit surprising.
 
 Most of the functions have a fixed number of inputs; you'll just get an error if you put in too many or too few inputs.
 
 One of these is CONCAT, which concatenates strings. It's a two-place function in Google Sheets.
+
+The input `CONCAT("A","B","C")` will return `ABC` in Excel, and an error in Google Sheets.
 
 ## Fixed and Variable Relata
 
@@ -236,6 +246,8 @@ But other functions have a variable number of inputs. Most notably, SUM (perhaps
 Both SUM(1, 2) and SUM(1, 2, 3) are acceptable formulae in Google Sheets.
 
 That's to say, SUM is coded as a function that can take a variable number of inputs.
+
+And that's what Russell thinks `BELIEVES` in English is like; it takes a variable number of inputs. The orthodox view is that it just takes two: a believer and a proposition believed.
 
 ## Belief
 
