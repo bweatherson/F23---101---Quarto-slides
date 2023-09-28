@@ -20,6 +20,15 @@ from: markdown+fancy_lists+raw_html
 - In chapter 14, the focus is largely on what philosophy can't do.
 - In chapter 15, the focus turns back to what philosophy can do, which has become more pressing given the negative results of chapter 14.
 
+## iClicker Starting Quiz
+
+In Chapter 14, Russell talks about the 'limits of philosophical knowledge'. What does he mean by this?
+
+ A.  The areas of knowledge that philosophy cannot penetrate.
+ B.  The limitations philosophers face due to lack of empirical evidence.
+ C.  The degree to which philosophy can compete with scientific disciplines.
+ D.  The point where philosophical knowledge turns into wisdom.
+
 ## Is Russell Right?
 
 I'm going to make two negative points.

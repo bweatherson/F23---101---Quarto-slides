@@ -1,6 +1,6 @@
 ---
-title: _Problems of Philosophy_, Chapter 11
-subtitle: Philosophy 101 - Class 09
+title: _Problems of Philosophy_, Chapter 13
+subtitle: Philosophy 101 - Class 11
 format:
   clean-revealjs:
     self-contained: true
