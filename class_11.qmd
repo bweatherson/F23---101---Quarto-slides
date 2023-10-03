@@ -13,6 +13,18 @@ date: 2023-10-03
 from: markdown+fancy_lists+raw_html
 ---
 
+# Assignments
+
+## Schedule
+
+I didn't plan carefully enough the connection between (a) when the assignments would be due, (b) what the assignments would be on, and (c) when we'd cover that material in class.
+
+So the deadlines have been pushed back a bit.
+
+Assignment 2 is due just after spring break, on **Wednesday October 18**. We will finish the material it's on this week, and I think you'll be happier if you do it before the break.
+
+Assignment 3 is due on **Monday, October 30**. It will largely be on Part (i.e., chapter 2) of Hume's Dialogues, which we'll cover next week.
+
 # Knowledge {background-color="#40666e"}
 
 ## What is Knowledge?
