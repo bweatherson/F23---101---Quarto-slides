@@ -1,0 +1,275 @@
+---
+title: _Dialogues Concerning Natural Religion_, Parts IV and V
+subtitle: Philosophy 101 - Class 15
+format:
+  clean-revealjs:
+    self-contained: true
+author:
+  - name: Brian Weatherson
+    orcid: 0000-0002-0830-141X
+    email: weath@umich.edu
+    affiliations: University of Michigan
+date: 2023-10-19
+from: markdown+fancy_lists+raw_html
+---
+
+# The Design Argument
+
+## Design Argument (Analogy)
+
+1. Artifacts that serve a purpose are designed.
+2. The universe serves a purpose.
+3. So by analogy to these artifacts it is designed.
+
+## Design Argument (IBE)
+
+1. Things we see, especially living creatures, have complex parts that fit together well.
+2. The best explanation of this is that they have a benevolent designer.
+3. Hence that designer, i.e. God, exists.
+
+## Weak Analogy Objection
+
+- Animals are not like artifacts.
+- There are other reasons for thinking this is a bad analogy (e.g. wrong causal direction).
+- Cleanthes responds with the Voice in Clouds
+- In that case we are prepared to infer that there is a designer
+
+## Overgeneration
+
+Cleanthes is making here what's called an **overgeneration** objection. The dialectic goes as follows.
+
+- Person 1: Here's an argument.
+- Person 2: Here's an argument just as good as yours, for an absurd conclusion, so your argument fails.
+
+## Famous Example
+
+St Anselm argued for God's existence roughly as follows. (We could spend weeks on this, it's much more interesting than this rough sketch.)
+
+1. By definition, God has all the perfections.
+2. Existence is a perfection, i.e., it is better to exist than not exist.
+3. Therefore, God exists.
+
+## Gaunilo's Reply
+
+Define Ideal Island to be an island with all possible perfections.
+
+1. By definition, Ideal Island has all the perfections.
+2. Existence is a perfection, i.e., it is better to exist than not exist.
+3. Therefore, Ideal Island exists.
+
+## Gaunilo's Implicit Argument
+
+1. If Anselm's argument is any good, so is my island argument.
+2. My island argument is terrible.
+3. Therefore, so is Anselm's.
+
+## Cleanthes's Version
+
+1. If Philo's objections were good ones, they would still be good after the Voice happens. After all, it would still be a strained analogy, wrong causal direction, etc.
+2. Philo's objections would not be good ones after the Voice happens.
+3. So, Philo's objections are bad.
+
+## A Possible Response
+
+Here's one thing Philo could say: Premise 2 on the previous slide is bad.
+
+2. Philo's objections would not be good ones after the Voice happens.
+
+What's true is after the Voice happens, many of us would be tempted to believe in God.
+
+- But Cleanthes doesn't just need that his conclusion is good, but that his argument is good. And that's not the same thing.
+
+## Two Arguments
+
+That is, Philo could hold the following. In the world where the Voice happens:
+
+1. Some argument for God's existence, possibly Design Argument (IBE) is a good one _in that world_.
+2. But Design Argument (Analogy) is still a bad argument _even in that world_.
+
+## Philo's Actual Response
+
+This isn't in fact Philo's reply.
+
+Philo stays quiet for a while, then comes back with a very different line of reasoning:  he starts to stress the worry about an infinite regress of designers.
+
+# The Regress
+
+## A Parody of the Design Argument
+
+1. Whatever purposive features of design we see in the world, we see many more of them in God.
+2. The proponent of the design argument says that if something looks to have a purpose it probably has a designer.
+3. God looks to have a purpose,
+4. So God has a designer.
+
+## Is This a Parody?
+
+Maybe we could accept the conclusion. There are two possible moves, one of them a little more orthodox than the other.
+
+1. God is self-designing.
+2. Yeah, there is a Higher God who designed our God, and maybe a Yet Higher God who designed the Higher God, and so on to infinity.
+
+## What Does Cleanthes Do?
+
+- Cleanthes doesn’t say much here, merely saying that he’s happy as long as he has shown that a God exists.
+- Many theists would not be happy with a designed God, so maybe we should not join him.
+- In any case Philo’s main target here is not to show that God is designed.
+
+## Challenging Both Arguments
+
+Both Design Arguments have trouble with the _Who Designed God?_ question.
+
+- The analogy argument has the problem that the argument suggests the heretical view that God was designed by someone else.
+- The IBE argument has the problem that the 'explanation' posits something even more mysterious than what we see around us.
+
+## Challenging IBE
+
+What needs to be explained is the order and systematicity in the world.
+
+Why do the parts of the world all fit together so well?
+
+If you posit something just as orderly and just as systematic, whose parts fit together just as well, you haven’t explained order and systematicity at all.
+
+## Historical Note
+
+It's less common now, but through the 20th century (and into the 2000s), there were a lot of both theists and atheists who thought the following:
+
+- Before Darwin, only theism could explain the world, especially the biological world.
+
+And so you had Darwinian theories of evolution as really central to certain kinds of culture wars.
+
+Hume, 100 years before Darwin, has Philo denying that theism really explains anything.
+
+## Back to Cleanthes
+
+- Cleanthes at first isn’t moved by this.
+- His first reaction is, well if the design inference shows that there is a designer of God as well, that doesn’t undermine his view that God exists.
+- And if all we cared about was the argument by analogy that would be the right reaction.
+
+## The Design Regress
+
+- Say the argument by analogy worked.
+- Then we’d infer that the world has a designer, namely God.
+- We’d also infer that God has a designer, call Him Super-God.
+- And Super-God has a designer etc.
+- So there are infinitely many Gods.
+- This is heretical, but still God exists.
+
+## The Design Regress
+
+There are three options on the table:
+
+1. Infinitely many Gods
+2. An undesigned God and designed world
+3. An undesigned world without God
+
+Only option 1 has the design of each amazing thing explained
+
+## Could God be self-explanatory?
+
+- The same point could be used against anyone who wants to explain other features of the world (e.g. its causal structure) via God.
+- If God is an unexplained explainer, and the world isn’t, we need to posit a disanalogy  between the world and God.
+
+## The Design Regress
+
+- Philo thinks that for the purposes of these discussions, there is no such disanalogy.
+- Because Cleanthes is still pushing the analogy argument, he doesn’t see the need to answer this question.
+- Open question: What disanalogies might there be?
+
+## The Design Regress
+
+- There is also the option of infinitely many Gods.
+- Philo thinks that this is overkill.
+- Our evidence couldn’t possibly justify postulating that many beings.
+- Maybe this is not correct.
+
+# Mundane Designers
+
+## God's Features
+
+In Part 5 Philo launches into a discussion of what kind of God we could infer from the design features of the world.
+
+He stresses that the God we end up with won’t look like the monotheists’ God.
+
+## Mundane Designers
+
+- Actual designers are finite.
+- So by analogy with actual designers, we should conclude that God is finite.
+- This starts a line of reasoning leading to fairly traditional forms of polytheism, and Philo is going to run with this.
+
+## Mundane Designers
+
+- Actual designers are imperfect.
+- So by analogy we should infer that God is imperfect.
+- Philo here suggests that if we had independent evidence of God’s perfection, we might conclude the world was perfect.
+- But Cleanthes can’t offer that.
+- This is a precursor to **The Problem of Evil** that we'll discuss next week.
+
+## Mundane Designers
+
+There’s an interesting asymmetry in how we relate artifacts and designers.
+
+Flaws in the artifact are blamed on the designer.
+
+But virtues in the artifact aren’t necessarily things for which we praise the designer, for **they may be copies**.
+
+The same could be true in the world
+
+## Mundane Designers
+
+Almost nothing purposive in the world is designed wholly by an individual.
+
+Nor is it caused to be brought into being by an individual.
+
+So by analogy we should infer that there are multiple Gods.
+
+Some polytheistic religions take this seriously.
+
+One God for each feature of the world.
+
+##  Mundane Designers
+
+Philo worries a bit about this point, and it is worth coming back to.
+
+But before that we’ll notice his last analogy.
+
+Actual designers are mortal.
+
+By analogy, we should infer the designer of the universe is mortal.
+
+## Multiple Gods?
+
+The design analogy gives us a prima facie reason for polytheism.
+
+But it’s good philosophical and scientific practice to posit as few causes as you need to explain data.
+
+## Occam’s Razor
+
+Philo worries that this pushes us back to monotheism.
+
+His scale analogy is meant as a reply.
+
+## Multiple Gods?
+
+Imagine we can only see the right hand side, and the angle of the beam.
+
+We have reason to think something is in the left hand pan.
+
+Should we infer that is one thing there or many things?
+
+## Multiple Gods?
+
+Here’s Philo’s conclusion:
+
+- If we can explain the beam with just one thing in the pan we should do so, as long as it would be the kind of thing with which we are familiar.
+- But it’s better to posit many familiar kinds of thing than one unfamiliar kind of thing.
+
+Is this right? Is it bad news for Occam's Razor?
+
+## Multiple Gods?
+
+- Now obviously any kind of God is relatively unfamiliar.
+- Philo seems to claim that polytheistic Gods are sufficiently different in kind from the infinite monotheistic God that positing many Greek-type Gods is better than positing one Abrahamic God.
+
+## For Next Time
+
+We'll go 
