@@ -20,6 +20,24 @@ from: markdown+fancy_lists+raw_html
 - In chapter 14, the focus is largely on what philosophy can't do.
 - In chapter 15, the focus turns back to what philosophy can do, which has become more pressing given the negative results of chapter 14.
 
+## Reading Guide
+
+For Russell:
+
+- Chapters 14 and 15 are kind of a unit, first on what philosophy can't do, and then on what it can do. You should read them together.
+
+For Hume:
+
+- Part (i.e., chapter) 1 is stage-setting that makes sense in the context of 18th century theological debates, but is less helpful now. It is interesting, especially if you're familiar with some of this stuff, but we're going to mostly talk about Part 2.
+
+## Hume Versions
+
+In the 'Files' section of Canvas, I've included pdf, mobi, and epub versions of Jonathan Bennett's 'translated' version of Hume's Dialogues.
+
+I kind of prefer Hume's original prose, but I did notice that it was easier to follow who was speaking in the Bennett version.
+
+If you're doing really close reading, what does this paragraph, even this sentence, mean - then it might be useful to have both open.
+
 ## iClicker Starting Quiz
 
 In Chapter 14, Russell talks about the 'limits of philosophical knowledge'. What does he mean by this?
@@ -253,4 +271,8 @@ Realism is a very natural view; it sure looks at first glance like there's a min
 ## For Next Time
 
 - We'll go back in time, and aim for even deeper philosophical questions, looking at David Hume's discussion of the Design Argument for the existence of God.
+
+- Hume is going to give us three characters, one of whom (Cleanthes) is going to argue that the world resembles designed things, so it is designed, so it has a designer, so God exists.
+
+- And the other characters, living 100 years before Darwin, are going to throw everything they have at that argument, but Cleanthes isn't going to back down.
  
