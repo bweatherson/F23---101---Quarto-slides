@@ -1,0 +1,217 @@
+---
+title: _Dialogues Concerning Natural Religion_, Parts VI, VII, and VIII
+subtitle: Philosophy 101 - Class 16
+format:
+  clean-revealjs:
+    self-contained: true
+author:
+  - name: Brian Weatherson
+    orcid: 0000-0002-0830-141X
+    email: weath@umich.edu
+    affiliations: University of Michigan
+date: 2023-10-24
+from: markdown+fancy_lists+raw_html
+---
+
+## Big Picture
+
+Philo spends these three chapters going over various other analogies/explanations that, he says, are just as good as the one Cleanthes offers.
+
+Some of these seem absurd, and Philo sort of agrees they are absurd.
+
+His claim is that there is no reason to reject them that doesn't apply equally well to the Design Argument.
+
+## Alternative Explanations
+
+Whenever we offer an inference to the **best** explanation, we have to be sure it is actually the best.
+
+It's good to have someone imaginative around to offer alternative ones, so we can see what respects ours is better.
+
+It's no good to say the alternative explanations are implausible; the person offering the argument needs to make a comparative claim.
+
+## Alternative Analogies
+
+A new thing will be like different old things in all sorts of ways.
+
+Is an October day in Michigan more like:
+
+- An August day in Michigan?
+- An October day in France?
+
+Don't really answer that; it shouldn't be taken seriously. Philo's point is that the Design Argument relies on similar comparisons.
+
+## Recap
+
+There are two design arguments:
+
+- Analogy
+- Inference to the Best Explanation (IBE)
+
+## Design Argument (Analogy)
+
+1. Artifacts that serve a purpose are designed.
+2. The universe serves a purpose.
+3. So by analogy to these artifacts it is designed.
+
+## Design Argument (IBE)
+
+1. Things we see, especially living creatures, have complex parts that fit together well.
+2. The best explanation of this is that they have a benevolent designer.
+3. Hence that designer, i.e. God, exists
+
+## Where We’re At
+
+There are two design arguments, that need to be kept separate.
+
+- There is an argument by analogy. That, thinks Philo, falls to the weak analogy argument.
+- There is an IBE. That, thinks Philo, falls to the regress argument.
+
+## Weak Analogy
+
+It is generally bad reasoning to use analogical reasoning to infer the likeness of things that are not very similar.
+
+It is also dangerous to infer from effects to causes, and especially to psychological causes.
+
+But the Design Argument does both these things.
+
+## Regress
+
+It is a bad idea to adopt 'explanations' that create as many mysteries as they explain.
+
+The theistic explanation of the complexity and order of the universe creates a mystery about the complexity and order of God.
+
+So it isn’t a good explanation.
+
+## Nature of Designer
+
+Many contemporary theists reject the Design Argument for this reason, as Demea does in the text.
+
+There is no reason to infer monotheism from design.
+
+Indeed, as Philo argues, there may be good reason to infer polytheism. Most artifacts have multiple designers.
+
+So, arguably, monotheists shouldn’t rest too much weight on the Design Argument.
+
+## Universe as an Animal
+
+A big theme of parts 6 to 8 is that the universe resembles an animal as much as it resembles a machine.
+
+Or, at least, that's what Philo argues.
+
+And from that argument, we get objections to both forms of Design Argument.
+
+## A Growing Universe
+
+Philo’s position is that the universe resembles an animal (or a vegetable) more than it resembles a machine.
+
+And animals don’t have designers, they have parents.
+
+Perhaps that is how the universe came about.
+
+This need not be an atheist view; perhaps God is the soul of this living universe.
+
+## Question Begging
+
+You might think this is unfair, since Cleanthes thinks that animals do have designers, namely God.
+
+The idea would be that Philo is begging the question.
+
+This is what occurs when one participant in a debate assumes what they are trying to prove.
+
+## Question Begging
+
+To take a classic case of begging the question, imagine the discourse:
+
+A
+:	We know God doesn’t exist because He has never intervened on earth.
+T
+:	What about giving Moses the Ten Commandments?
+A
+:	We know that wasn’t God, because God doesn’t exist.
+
+## Question Begging
+
+Note that whether an argument is question-begging will depend a lot on (a) just what justifications are given for premises and (b) who the parties to the debate are.
+
+If A offered historical evidence that stories about Moses, Jesus, etc were false, she would not be begging the question. She might be wrong; but would not be question-begging.
+
+## Question Begging
+
+Back to Philo, he is not assuming that God didn’t create animals.
+
+He is staying neutral on that question, which is rather different.
+
+And Philo thinks that the universe is analogous to a particular animal, like my cat Squid, not to an animal species.
+
+The origins of Squid are not in question.
+
+## Growth and IBE
+
+Part of Philo’s argument here is that he has provided an alternative analogy.
+
+But he also wants to argue that he has provided an alternative explanation.
+
+The existence of a designer is not the only explanation for the universe as we see it, the 'generation' hypothesis is also on board.
+
+## Growth and IBE
+
+To be sure, this hypothesis has its weaknesses.
+
+- First, we don’t know how a universe could generate another.
+- Second, we’ve never seen any such generation so we shouldn’t believe that it happens.
+
+Philo concedes both points.
+
+## Growth and IBE
+
+His only point is that these problems are both problems for the design hypothesis as well.
+
+We don’t know how an immaterial deity could have produced a material universe. This issue, about immaterial things and material things could possibly interact, was one of the biggest philosophical issues of the day, because it's tied up with questions about how human minds work.
+
+Also, even if we figure out the 'how-possibly' question, we’ve never seen an immaterial being create something material.
+
+## Dialectical Point
+
+Philo does not want to argue that his explanation is better than the one Cleanthes offers.
+
+He's happy to settle for a draw on this point.
+
+That would be enough to show that Cleanthes does not have the **best** explanation.
+
+## Multiverse
+
+Towards the end of part 8, Hume gets very close (I think) to a view in contemporary-ish cosmology.
+
+Philo speculates that many universes could have been created, and we only see the one that is fit for life.
+
+This looks like the 'multiverse' hypothesis of Stanford physicist Andrei Linde.
+
+Linde thinks there are many different universes with different physical constants.
+
+Most of those don’t support life (or even molecules) but we only see one of the ones that does.
+
+Note that in objecting to this, Cleanthes makes a rather remarkable objection
+He says any kind of ‘natural selection’ hypothesis fails because we have parts that are not necessary for survival
+This seems to be an objection to Darwinism that no one has taken up
+Historical Note
+The reason should be clear
+Even if eyes aren’t necessary for all survival, they are necessary for survival in some circumstances
+Moreover, even if the nature of the universe drifts wildly until a stable position is found, that position need not be the minimally stable one
+Historical Note
+While we’re doing history, note a very surprising discussion in Part XI (109)
+Hume has his characters agree that no species has ever gone extinct
+This must have been common wisdom in Hume’s time
+So we’re a long way from Darwinian natural selection
+Wrapping Up
+How should people with different theological beliefs react to all this?
+Theists need not worry if the argument fails
+If the design argument fails, there are still many other reasons for belief in God
+They can copy Plantinga in rejecting it
+Wrapping Up
+Atheists, on the other hand, should worry about the argument succeeding
+Indeed, if either the analogy argument or the IBE argument works, atheism is refuted
+Now Philo does argue against both
+Though note that in Part XII even he seems to retract his arguments…
+For Next Time…
+Read Book One of Descartes’ Meditations
+This is very short, but we’ll spend more than a lecture on it

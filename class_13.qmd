@@ -145,10 +145,10 @@ Not entirely obvious question, and this is a poll not a quiz.
 
 When Cleanthes gives the design argument, is he giving:
 
-A. The analogy version
-B. The IBE version
-C. Both of them
-D. Something different
+A.  The analogy version
+B.  The IBE version
+C.  Both of them
+D.  Something different
 
 ## Design Arguments
 
