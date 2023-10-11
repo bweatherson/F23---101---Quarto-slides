@@ -1,0 +1,42 @@
+===
+selection:
+  statementSelectionMode: all # adds all statements as nodes to the map
+model:
+  explodeArguments: true # adds argument nodes for each inferential step of each argument
+map:
+  argumentLabelMode: title # no text in argument nodes
+  statementLabelMode: text # no titles in statement nodes
+dot:
+    argument:
+        shape: rectangle # argument nodes are in the shape of circles
+        minWidth: 0.2 # let's make those circles really small
+    graphVizSettings:
+        rankdir: TB # arrows flow from top to bottom (to produce a tree-like structure)
+===
+
+[God exists]
+  + <???>
+    + [Designer]
+      + <Analogy>
+        + [Design 2]
+        - [Weak analogy]
+      + <Inference to the best explanation>
+        + [Design 1]
+        - [Other explanations]
+    - [Polytheism]
+  - [Regress]
+        
+[Design 1]: The world has design features that need explaining
+ 
+[Design 2]: The world has design features that are like artifacts
+
+[Polytheism]: Multiple gods could have designed the world
+
+[Weak analogy]: The universe is not like any familiar artifact
+
+[Other explanations]: There are other explanations of the design features
+
+[Designer]: There is a designer of the world
+
+[Regress]: If the world is designed, so is the designer
+ 

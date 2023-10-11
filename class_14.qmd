@@ -33,13 +33,27 @@ from: markdown+fancy_lists+raw_html
 2. The best explanation of this is that they have a benevolent designer.
 3. Hence that designer, i.e. God, exists.
 
+## Plan for Today
+
+I'm going to mostly still be talking about Part II.
+
+But at the end we'll get to Cleanthes's replies in Part III.
+
+---
+
+<center>
+
+![A brief summary of the argument.](argdown/design.png){height=600}
+
+</center>
+
 ## Historical Point
 
 A lot of organised religions (definitely not all, but a lot of different ones) have been hostile to Darwinian theories of evolution.
 
 At least part of that hostility was that Darwin's theories undermined Design Argument (IBE).
 
-It's worth noting that (a) Hume is writing a century before Darwin, and (b) he writes as if Design Argument (Analogy) is the real form of the design argument.
+It's worth noting that (a) Hume is writing a century before Darwin, and (b) he sometimes writes as if Design Argument (Analogy) is the real form of the design argument.
 
 ## Historical Point
 
@@ -148,7 +162,7 @@ But now imagine you’re trying to figure out why some people chose to study at 
 
 Ohio State and Michigan are similar in some ways, more than animals and artifacts. (Not similar at football obviously, but they are big Midwestern state universities.)
 
-But knowing why a few friends chose Cornell will be very little help in figuring out why students chose Penn
+But knowing why a few friends chose Michigan will be very little help in figuring out why students chose Ohio State.
 
 ## Summing Up
 
@@ -157,6 +171,15 @@ But knowing why a few friends chose Cornell will be very little help in figuring
 - That the cause in question is psychological makes it worse again.
 
 Things look bad.
+
+## iClicker Quiz
+
+Which of them brings up the example of the "voice were heard in the clouds, much louder and more melodious than any which human art could ever reach"?
+
+A.  Cleanthes
+B.  Demea
+C.  Philo
+D.  None of them, it's not in the book.
 
 ## Parts and Wholes
 
@@ -230,11 +253,16 @@ This one is harder to follow.
 
 ## Overgeneration
 
-I think Cleanthes's point is this.
+Cleanthes is making a very important kind of philosophical move here: an **overgeneration** argument.
 
-1. If any of Philo's arguments work, they would still work if we heard the Divine Voice.
-2. But if we heard the Divine Voice, we'd totally accept the argument by analogy to the existence of God.
-3. So Philo's arguments do not in fact work.
+Overgeneration arguments are when you take someone's reasoning, and show that the same reasoning would work to show something actually wrong.
+
+## Overgeneration
+
+1. After hearing the Divine Voice, all of Philo's premises would still be true.
+2. After hearing the Divine Voice, Philo's conclusion would be false.
+3. So, Philo's reasoning is faulty.
+4. So, Philo's reasoning doesn't work _even in the world where we haven't heard the Divine Voice_.
 
 ## Philo's Move
 
@@ -252,9 +280,17 @@ The following is plausibly true:
 
 But what Cleanthes needs is this:
 
-- If we heard the DIvine Voice, it would be very plausible _that the argument by analogy shows that_ God exists.
+- If we heard the Divine Voice, it would be very plausible _that the argument by analogy shows that_ God exists.
 
 And we could reject that.
+
+---
+
+<center>
+
+![Philo needs to find some things he can retract if the Divine Voice appears.](argdown/design.png){height=600}
+
+</center>
 
 ## Design Arguments
 
