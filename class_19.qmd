@@ -1,0 +1,316 @@
+---
+title: _Discount Rates_
+subtitle: Philosophy 101 - Class 19
+format:
+  clean-revealjs:
+    self-contained: true
+    theme: 
+      [default, slow_reveal.scss]
+author:
+  - name: Brian Weatherson
+    orcid: 0000-0002-0830-141X
+    email: weath@umich.edu
+    affiliations: University of Michigan
+date: 2023-10-30
+from: markdown+fancy_lists+raw_html
+---
+
+# Big Picture
+
+## Climate Change is a Problem
+
+- The days are getting hotter.
+- The ocean levels are rising.
+- Extreme events, like hurricanes in Acapulco and fires across Canada, are getting more common.
+- Any one of these extreme events could definitely have happened without climate change, but the trend is worrying.
+
+## Short Term Long Term
+
+- A lot of the things we could do have short term costs and long term gains.
+- For example, we could spend a lot of money now building off short wind farms, or solar farms.
+- Or we could regulate away certain high pollution activities, which is costly to the people who like engaging in those activities.
+
+## Four Challenges
+
+::: {.incremental .highlight-last}
+- **Inflation**
+  - Assume for simplicity that everything is in real terms.
+- **Uncertainty**
+  - Assume for simplicity that the costs/benefits are expected not guaranteed.
+- **Wealth Effect**
+  - This is what $\eta$, the eta value, is about.
+- **Self-Locating Preferences**
+  - This is what $\delta$, the delta value, is about.
+:::
+
+# Ramsey Rule
+
+## Frank Ramsey
+
+:::{.columns}
+
+::::{.column width=50%}
+![Frank Ramsey, 1903-1930](images/19/ramsey.jpeg){.absolute top=0 left=0}
+::::
+
+::::{.column width=50%}
+Ramsey died at 26, but he made major contributions to philosophy, mathematics, and economics.
+
+What we're doing is normally discussed in his economics, though it flows naturally from philosophical premises.
+::::
+
+:::
+
+## The Rule
+
+$$
+d = \delta + \eta g
+$$
+
+::: {.incremental .highlight-last}
+- $d$ is how much you discount a value by. So if $d$ is 7%, then a gain in 5 years is only worth 71% as much, since you divide the gain by $(1.07)^5$.
+- $\delta$, pronounced delta, is the rate of pure time preference.
+- $g$ is the rate of growth of (real) median consumption. This has been under 1% for a long time, but has risen post-pandemic.
+- $\eta$, pronounced eta, is the elasticity of marginal utility of consumption. 
+:::
+
+## What is an Elasticity
+
+- If you take economics, and/or you remember stuff from calc 1, we could work through what this means by first principles.
+- I'm very much not going to do that.
+- Instead I'll jump to the conclusions.
+
+## Utility and Consumption
+
+- Assume that a person consumes $C$ dollars of goods and services in a year.
+- This gives them a **utility** of $U(C)$.
+- With more money you can buy more/better things, so we assume as $C$ goes up, $U(C)$ goes up.
+- But we also assume that the richer you get, the less difference each dollar makes.
+- An extra $10,000/year in consumption matters a lot to the average American, less so to Mark Zuckerberg.
+
+## Declining Marginal Utility
+
+- As $C$ gets larger, $U(C)$ gets larger.
+- But also as $C$ gets larger $U(C + x) - U(C)$, i.e., the gain in utility from an addition of $x$, gets smaller.
+- How quickly does $U(C + x) - U(C)$ get smaller as $C$ gets larger?
+- That's what $\eta$ measures.
+
+## Some Examples
+
+Imagine our hero starts, in year 1, with $20,000/year in consumption.
+
+They get a pay raise, and in year 2, they have $40,000/year in consumption.
+
+Question: How much would they have to consume in year 3 such that
+
+- The improvement in well-being from year 2 to year 3, _equals_
+- The improvement in well-being from year 1 to year 2?
+
+Different values for $\eta$ give different answers to this question.
+
+---
+
+::: {.incremental .highlight-last}
+- If $\eta = 0$, each extra dollar has the same value, so the answer is $60,000.
+- If $\eta = 0.5$, utility is the square root of consumption, so the answer is $66,862.
+- If $\eta = 1$, utility is log of consumption, so every doubling has the same value, so the answer is $80,000.
+- If $\eta = 1.5$, the answer is $116,568. I'll explain why on next slide.
+- If $\eta \geq 2$, the question has no answer. The utility from consumption caps out before you make that big a jump.
+:::
+
+## iClicker
+
+Question: What do you think the answer is? How much consumption is needed for year 3 to be as much an improvement as year 2 was?
+
+A.  $60,000
+B.  $66,862.
+C.  $80,000.
+D.  $116,568.
+E.  Infinite.
+
+## Some Formulae
+
+If you prefer doing this with formulae, here are some example formulae that get the right values of $\eta$.
+
+- If $\eta < 1, U(C) = C^{1-\eta}$.
+- If $\eta = 1, U(C) = log(C)$.
+- If $\eta > 1, U(C) = 1 - C^{1-\eta}$.
+
+---
+
+```{r load-packages}
+#| include: false
+require(tidyverse)
+```
+
+```{r eta-variants}
+#| label: fig-variable-eta
+#| fig-cap: "The relation between utility and consumption for four values of $\eta$."
+#| echo: false
+#| cache: true
+#! warning: false
+#| message: false
+base <-
+  ggplot() +
+  theme_minimal() +
+  xlim(10000, 100000) +
+  theme(
+     axis.text.y = element_blank(),
+     axis.ticks.y = element_blank()
+   )
+
+a <- 100 / (log(40000) - log(10000))
+b <- 100 - a * log(10000)  
+the_graph <- base + 
+  geom_function(fun = function(x) x ^ 0.5, aes(color = "eta 0.5")) +
+  geom_function(fun = function(x) a * log(x) + b, aes(color = "eta 1")) +
+  geom_function(fun = function(x) 300 * (1 - 200 * (x^-0.5)/3), aes(color = "eta 1.5")) +
+  labs(y = "Utility", x = "Annual Consumption in Dollars")
+the_graph
+```
+
+# Market Alternatives to Ramsey
+
+## Interest Rates
+
+- We could discount using interest rates. 
+- Right now long-term interest rates on government bonds are 4 to 5 percent.
+- So that's what the market is telling us is the value of money now versus the future.
+
+## Investment Rates
+
+- We could discount using the values that firms use for making investment decisions.
+- There are very few firms that will make investments if a project promises to return just above the rate on government bonds.
+- The extra amount differs a bit by company and by industry, but I gather a 3 to 5 percent premium isn't unusual.
+
+## Stock Returns
+
+- Historically, the stock market has gone up at much faster rates than interest or inflation.
+- This might indicate the return the market thinks is appropriate for speculative investments.
+- And maybe that should guide the value of $d$.
+
+## News You Can Use
+
+:::{.columns}
+
+::::{.column width=50%}
+![Aswath Damodaran](images/19/aswath.jpg)
+::::
+
+::::{.column width=50%}
+It's a little hard to calculate stock market returns because you have to really dig around to get the dividend data, but according to Aswath Damodaran at NYU, stocks have risen on average at over 10%/year for many years.
+::::
+
+:::
+
+## News You Can Use
+
+- His data is available at [his website](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/histretSP.html).
+- It's striking how much more quickly stock prices have gone up than house prices.
+- If you'd invested $10,000 in a broad basket of stocks in 1974, and reinvested the dividends, you'd have $2,500,000 by 2021.
+- That's a little fun with endpoints, but it's really striking how much return the market has demanded, and gotten, from stock investments.
+
+# Why Ramsey
+
+## Utilitarianism
+
+Here is a moral theory you might have.
+
+- The well-being of the society is just the sum of the well-beings of everyone in it.
+- The aim of public policy is to maximise social well-being.
+- Then it follows that roughly what policy should do is follow the Ramsey Rule with $\delta = 0$.
+- Roughly because there are complications of $\eta$ isn't constant, and for uncertain returns, but it's pretty close.
+
+## Other Moral Theories
+
+:::{.columns}
+
+::::{.column width=50%}
+![Sir Partha Dasgupta](images/19/partha.JPG)
+::::
+
+::::{.column width=50%}
+Partha Dasgupta has argued that it also gives the intuitively correct moral answers to a bunch of tough cases.
+
+For a very detailed discussion, see his [SEP entry on the Ramsey rule](https://plato.stanford.edu/entries/ramsey-economics/).
+::::
+
+:::
+
+## Pure Discounting
+
+One immediate philosophical question that doesn't require a degree in economics is _what's the right value of_ $\delta$.
+
+::: {.incremental .highlight-last}
+- On the one hand, it's odd to say that someone counts less because they live in 2300 rather than 2030.
+- On the other hand, $\delta = 0$ implies that we should make almost any sacrifice in well-being now for the benefits of future people. This is related to debates about _longtermism_.
+:::
+
+
+# What is $\eta$?
+
+---
+
+```{r eta-variants-reprise}
+#| label: fig-variable-eta-reprise
+#| fig-cap: "The relation between utility and consumption for four values of $\eta$."
+#| echo: false
+#| cache: true
+#! warning: false
+#| message: false
+
+the_graph
+```
+
+## $\eta$ and Politics
+
+::: {.incremental .highlight-last}
+- A high value for $\eta$ means:
+  - Present day policy is more focussed on the least well off.
+  - The discount rate is higher, so policy does less on climate change.
+- A low value for $\eta$ means:
+  - Present day policy is more focussed on wealth maximisation, whoever gets it.
+  - The discount rate is lower, so more reason to act on climate change.
+:::
+
+## Descriptive or Evaluative
+
+Two approaches to working out $\eta$.
+
+::: {.incremental .highlight-last}
+- Descriptive, what do people actually do?
+  - Could find this out by asking.
+  - Could find this out by looking at their risk-sensitive behavior.
+- Evaluative, what is morally right?
+  - We do some moral theorising, to work out the morally right value.
+:::
+
+## To Be Completed
+
+Write up an example of a moral tradeoff.
+
+Question 1: When would they think the tradeoff is ok?
+
+Question 2: Do they think we should just defer to the general public on this?
+
+## Philosophers Inconsistency
+
+Mintz-Woo says that philosophers are often inconsistent here.
+
+- They argue that $\delta$ equals zero using evaluative arguments.
+- But they use descriptive methods to work out $\eta$.
+- We should maybe use the same approaches for both
+
+## iClicker
+
+Can write up some iClicker questions here.
+
+
+
+# Does This Matter
+
+## Notes
+
+- We finance a lot of things with loans, so it's sort of long-term costs long-term benefits
+- Also there are short-term benefits from clean energy. New Delhi is like what is was like over summer with the smoke wafting in *every day*.
+- There are surely some things where short-term long-term tradeoffs matter, but it isn't the only thing that matters.

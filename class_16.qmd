@@ -13,6 +13,12 @@ date: 2023-10-24
 from: markdown+fancy_lists+raw_html
 ---
 
+## iClicker Bug
+
+We don't have iClicker today because apparently it's not working through the podium computers.
+
+Hopefully it will be back by Thursday.
+
 ## Big Picture
 
 Philo spends these three chapters going over various other analogies/explanations that, he says, are just as good as the one Cleanthes offers.
@@ -122,12 +128,11 @@ This is what occurs when one participant in a debate assumes what they are tryin
 
 To take a classic case of begging the question, imagine the discourse:
 
-A
-:	We know God doesn’t exist because He has never intervened on earth.
-T
-:	What about giving Moses the Ten Commandments?
-A
-:	We know that wasn’t God, because God doesn’t exist.
+**A**: We know God doesn’t exist because He has never intervened on earth.
+
+**T**:	What about giving Moses the Ten Commandments?
+
+**A**:	We know that wasn’t God, because God doesn’t exist.
 
 ## Question Begging
 
@@ -166,7 +171,11 @@ Philo concedes both points.
 
 His only point is that these problems are both problems for the design hypothesis as well.
 
-We don’t know how an immaterial deity could have produced a material universe. This issue, about immaterial things and material things could possibly interact, was one of the biggest philosophical issues of the day, because it's tied up with questions about how human minds work.
+We don’t know how an immaterial deity could have produced a material universe. 
+
+## Growth and IBE
+
+This issue, about immaterial things and material things could possibly interact, was one of the biggest philosophical issues of the day, because it's tied up with questions about how human minds work.
 
 Also, even if we figure out the 'how-possibly' question, we’ve never seen an immaterial being create something material.
 
@@ -186,32 +195,46 @@ Philo speculates that many universes could have been created, and we only see th
 
 This looks like the 'multiverse' hypothesis of Stanford physicist Andrei Linde.
 
+## Multiverse
+
 Linde thinks there are many different universes with different physical constants.
 
 Most of those don’t support life (or even molecules) but we only see one of the ones that does.
 
-Note that in objecting to this, Cleanthes makes a rather remarkable objection
-He says any kind of ‘natural selection’ hypothesis fails because we have parts that are not necessary for survival
-This seems to be an objection to Darwinism that no one has taken up
-Historical Note
-The reason should be clear
-Even if eyes aren’t necessary for all survival, they are necessary for survival in some circumstances
-Moreover, even if the nature of the universe drifts wildly until a stable position is found, that position need not be the minimally stable one
-Historical Note
-While we’re doing history, note a very surprising discussion in Part XI (109)
-Hume has his characters agree that no species has ever gone extinct
-This must have been common wisdom in Hume’s time
-So we’re a long way from Darwinian natural selection
-Wrapping Up
-How should people with different theological beliefs react to all this?
-Theists need not worry if the argument fails
-If the design argument fails, there are still many other reasons for belief in God
-They can copy Plantinga in rejecting it
-Wrapping Up
-Atheists, on the other hand, should worry about the argument succeeding
-Indeed, if either the analogy argument or the IBE argument works, atheism is refuted
-Now Philo does argue against both
-Though note that in Part XII even he seems to retract his arguments…
-For Next Time…
-Read Book One of Descartes’ Meditations
-This is very short, but we’ll spend more than a lecture on it
+## Fine-Tuning Argument
+
+The multiverse hypothesis is an explanation of why the laws of the universe are 'fine-tuned' for life. This is a big topic in contemporary philosophy/physics/astronomy. Or, perhaps better, there are three big topics here.
+
+1. Is the universe really fine-tuned for life?
+2. If so, does this fact need an explanation?
+3. If so, is the multiverse a good explanation? Or, is the existence of a designer (or designers) a good explanation?
+
+---
+
+![For more on this, see the Stanford Encyclopedia of Philosophy entry on fine-tuning](images/16/sep-fine-tuning.png){height=650}
+
+## Cleanthes's Reply
+
+In objecting to this, Cleanthes makes a rather remarkable objection.
+
+- He says any kind of ‘natural selection’ hypothesis fails because we have parts that are not necessary for survival.
+- This seems to be an objection to Darwinism that no one has taken up.
+
+## Historical Note
+
+The reason this is not a popular objection to Darwinism should be clear.
+
+- Even if eyes aren’t necessary for all survival, they are necessary for survival in some circumstances.
+- Moreover, even if the nature of the universe drifts wildly until a stable position is found, that position need not be the minimally stable one.
+
+## Historical Note
+
+While we’re doing history, note a very surprising discussion in Part XI. (This is a side note to what we'll actually discuss in XI, so I'm noting it here.)
+
+- Hume has his characters agree that no species has ever gone extinct.
+- This must have been common wisdom in Hume’s time.
+- So we’re a long way from Darwinian natural selection.
+
+## For Next Time
+
+We'll discuss one of the arguments *against* belief in God, the Problem of Evil.
