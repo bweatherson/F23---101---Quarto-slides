@@ -37,17 +37,106 @@ Posner and Weisbach say that we should focus our efforts on climate treaties tha
 ------
 
 
-# A Game
+# Objection from Cynicism
 
-## A Game
+## Two Comparisons
 
-We'll start with something that might feel very different from climate change. But hopefully the relevance will become clear in a second.
+The cynic might say the following. It's not important that an agreement satisfy condition 1. It also has to satisfy condition 2.
 
-This is a version of what's sometimes called an investment game in economics.
+1. Everyone following the agreement is better than no one following the agreement.
+2. Your following the agreement is better than your not following it.
 
-## A Game
+## Back to the Game
 
-Pretend that we're playing the following two stage game.
+An agreement to all put in \$4 satisfies 1 but not 2.
 
-1. First, each of you will choose to 'invest' 0, 1, 2, 3, or 4 dollars.
-2. Then, I'll add up how much everyone invested, multiply the amount by 5, and distribute that equally among everyone, whether you 
+1. We are all \$16 better off if we all put in \$4 rather than \$0.
+2. No matter what everyone else, you are approximately \$4 better off not following the agreement than following it.
+
+## Intertemporal Agreements
+
+The big worry here is that the arguments we just made prove too much.
+
+- If you're worried about future governments not honoring agreements, then the real standard is 2, not 1.
+- When a future government is deciding whether to honor the agreement, they won't care about whether it would have been better or worse to not have made the agreement.
+- They'll just care about, going forward, what's best.
+
+## Putting the Two Objections Together
+
+If you focus on morality, then countries should do things that would be for the best, even if they wouldn't make their own citizens better off.
+
+If you focus on national self-interest, the feasible deals might be the ones that are worth making, **and** which are worth keeping.
+
+But there might not be very many deals like that.
+
+# Building a Better Deal
+
+## Binding Agreements
+
+When the parties to an agreement like this are people or corporations, we get around the problem here by using legally binding agreements.
+
+We'll all enter into a deal knowing that the courts will enforce compliance.
+
+::: {.fragment}
+The problem is that there is no international court that can do this when the agreements are between countries.
+:::
+
+## What Else Do We Have?
+
+It's worth thinking through what other moves we have available here.
+
+## Two Suggestions
+
+There might be some grounds for hope here.
+
+::: {.incremental .highlight-last}
+1. Rely on countries having a desire for a reputation for promise keeping.
+2. Rely on people in countries having a desire to be part of agreements.
+:::
+
+## A Different Game
+
+If either conditions hold, we might have a situation analogous to the following game.
+
+::: {.incremental .highlight-last}
+1. At the first stage everyone decides whether to invest, or not invest, \$10.
+2. At the second stage, if everyone invested, everyone is given \$25 (for a profit of \$15).
+3. But if not everyone invested, everyone just gets \$5 (for either a \$5 profit if you didn't invest, or a \$5 loss if you did).
+:::
+
+## Two Game Types
+
+::: {.incremental .highlight-last}
+- What game theorists call a **Prisoners Dilemma** is like the first game I discussed.
+- What game theorists call a **Stag Hunt** is like the second game I discussed.
+:::
+
+Both games have cooperative and non-cooperative outcomes, but they have one important difference.
+
+## Different Types
+
+::: {.incremental .highlight-last}
+- In Prisoners Dilemma, cooperation is **costly**.
+    - Whatever everyone else does, you are better off not cooperating.
+- In Stag Hunt, cooperation is **risky**.
+    - If you don't know what others will do, betting on cooperation is a very risky bet.
+    - But if you know everyone else will cooperate, you're better off cooperating too.
+:::
+
+## Changing the Game Type
+
+Can we create the second type of agreement?
+
+- Possibly if governments (or their people) care about reputations for promise-keeping.
+- And possibly if governments (or their people) care about international fairness.
+- There is some evidence for both of these, though it's hard to be sure.
+
+## Back to Feasibility
+
+But if we have these conditions, should we even care about International Paretianism?
+
+- I'm not sure - it does seem like a strange mix of moralism and cynicism.
+- But maybe there are countries where the median voter will only agree to deals that are win-win, but will prefer keeping the deal even if there is a self-interested reason to break it.
+
+  
+
