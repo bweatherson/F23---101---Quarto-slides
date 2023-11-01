@@ -1,0 +1,290 @@
+---
+title: _Climate Change_
+subtitle: Philosophy 101 - Class 18
+format:
+  clean-revealjs:
+    self-contained: true
+author:
+  - name: Brian Weatherson
+    orcid: 0000-0002-0830-141X
+    email: weath@umich.edu
+    affiliations: University of Michigan
+date: 2023-10-30
+from: markdown+fancy_lists+raw_html
+---
+
+# Big Picture
+
+## Things Are Looking Bad
+
+As you probably know, the world is getting hotter.
+
+I was planning on pulling together a bunch of graphics from different sources to show this, but it turns out that a paper that came out last week probably has most of what we need to know.
+
+## Source for Next Few Graphics
+
+"The 2023 state of the climate report: Entering uncharted territory", _Bioscience_, 24 October 2023.
+
+<https://doi.org/10.1093/biosci/biad080>
+
+---
+
+![Ice extent, water and air temperatures, and hectares burned. Note the last is surely an anomoly, and won't be repeated in future years.](images/18/climate-1.jpeg)
+
+---
+
+![It's possible we've stopped making the problem worse at an accelerating rate.](images/18/climate-2a.jpeg)
+
+---
+
+![But things are still getting worse, and this is showing up in things like ice melt, and sea level rise](images/18/climate-3.jpg)
+
+## Theory and Observation
+
+You might worry about all the graphs I just showed you.
+
+None of them are simple exercises of putting a machine out and taking a measurement.
+
+Every point on those graphs is the result of a ton of inputs and calculations.
+
+## Two Challenges
+
+1. There is a lot of theory behind how to do the various calculations, what to emphasise and de-emphasise, etc. And at least at the margins, there are always reasons to quibble with one or other choice.
+2. You might not trust either the reliability or the honesty of the people who collect the data. There are so many of them, surely some are fallible!
+
+## Two Responses
+
+1. These are just as strong reasons to think that the data are under-stated as over-stated. Possibly even more reason to think they are under-stated. I normally double check unusual measurements, but take normal measurements for granted.
+2. You can look at some data yourself, at least when it comes to populated areas.
+
+## The Kitchen Table Observatory
+
+Here's something you can do from your own computer. (Even right now, though probably don't.)
+
+The NOAA keeps records of historical measurements from weather stations going back in some cases 150 years. They can be downloaded at:
+
+<https://www.ncei.noaa.gov/cdo-web/datatools/selectlocation>
+
+## Managing the Data
+
+What happens if you download a bunch of data from somewhere like that?
+
+- First, there are days when the power was out, or the station manager was drunk, and there is missing data. This complicates simply running simple software on them.
+- Any one station won't necessarily show much of a pattern. The big picture is that the planet is maybe 2 degrees F warmer than it used to be. That gets swamped in the ordinary variation in any one location.
+
+## A Home Experiment
+
+Select any day and any city in the US. Maybe it can be the birthday and home town of any particular person you know.
+
+- I'm using November 23, and Bellingham, Washington, because that's President Ono's birthday, and the nearest point in the US to where he was born.
+- The data goes back to 1949.
+- Find the warmest and coldest temperatures on Nov 23 (or whatever day you're using) for that location.
+- Ask which is later.
+
+## Result of One Test
+
+In this case it's a little later:
+
+- The warmest measurement is 61 degrees in 1995, and the coldest is 10 degrees in 1985.
+- On it's own this shows approximately nothing. Among other things, the second warmest is back in the 1950s, and the second coldest a few years ago.
+- But if you repeat this experiment hundreds of times you'll find (I think!) that the warmest is typically later.
+
+## Decisive Evidence?
+
+Would this settle things? Of course not, nothing ever gets settled.
+
+- Weather stations tend to be where people are, and where people are tends to be warmer than the surrounding areas.
+- Science is hard and there are no easy paths.
+
+## Anomolies
+
+But it's worth stressing how much all the evidence these days points in the same direction.
+
+- This is a fairly recent development.
+- Twenty five years ago there were surprising measurements from certain kinds of balloons: the 'middle atmosphere' wasn't getting warmer.
+- This led to a bunch of investigations, and I think it turned out that it was a mistake in one of the steps from what the balloons actually measured to what the temperature was.
+- These days, I don't know of any anomolies like that.
+
+# Plan
+
+## Three Big Topics
+
+1. Political reactions.
+2. Personal reactions.
+3. Knowledge and society.
+
+# Discounting
+
+## A Thought Experiment
+
+There is some bit of infrastructure we can build that will cost us a lot right now, but will have benefits for a century.
+
+- The up front cost is $1 billion.
+- The gains are $20 million per year for a century, after which it will be obsolete.
+- Should we build it?
+
+## iClicker
+
+If iClicker is working I'll poll you on this. Should we build this infrastructure?
+
+A.  Yes.
+B.  No.
+
+## Argument For Yes
+
+- Twenty million per year times one hundred years is two billion dollars.
+- Two billion is greater than one billion.
+- So the benefits outweigh the costs.
+- So we should build it.
+
+## Arguments For No
+
+You can't simply compare money now and money later.
+
+What might go wrong if you simply compare money now and money later?
+
+## Interest Rates
+
+Imagine Michigan had this kind of possibility available.
+
+- They would be better off doing the following.
+- First, put the money in Treasuries for a year, getting 5.something percent interest.
+- Then, build the infrastructure the following year.
+- The 50-something million dollars in interest would offset the loss of 20 million in gains from having it available one year earlier.
+
+## Inflation
+
+As you might have noticed, money has a tendency to get less valuable over time.
+
+- This isn't a universal feature of human socities.
+- Until the not too recent past, long periods of deflation were familiar.
+- In England prices were considerably lower in 1937 than they had been in 1921.
+
+## Inflation
+
+But in the last 80 plus years, sustained deflation is basically unheard of, and inflation is common.
+
+- As you might know, it's at crisis levels in Argentina, and still at worrying levels in a lot of the world.
+- We can't just measure benefits in dollar terms, but in 'real' terms.
+- Indeed, one of the graphs I showed you earlier already did that.
+- This does add another quite complicated layer of theory-dependence.
+
+## Uncertainty
+
+In any real-world case, we can't say for sure that a new bit of infrastructure will be valuable for 100 years.
+
+- Maybe the world will end by then because of nuclear war, or the robot takeover, or something.
+- More likely, whatever we do will be obsolete much earlier than we realised.
+- We shouldn't list the actual gains in 100 years time, but something like the _expected_ gains.
+- That means the weighted average gain, where the average is over the possible outcomes, and the weights are the probabilities of each outcome.
+
+## Wealth Effects
+
+Let's imagine a different thought experiment. The Michigan government can introduce a policy that will have the following effects.
+
+- Most people will be about $100 worse off. Over 10 million people, that's a cost of a billion dollars.
+- The richest 100 people in the state will each be about $20 million better off. That's a gain of two billion dollars.
+
+## Wealth Effects
+
+But still, you might think that this policy would make the state as a whole worse off.
+
+- The gains don't matter nearly as much to rich people, who might gain or lose that amount in the stock market any given day, as the losses matter to poor people.
+- In economists' terms, money has a _declining marginal utility_.
+- That means, the more money you have, the less value each extra dollar gives you.
+
+## Wealth Effects
+
+Policy should aim at creating _value_, not at creating _wealth_, and that means it matters who gets the money, and who pays.
+
+## Wealth Effects
+
+Why does this matter to infrastructure? Well, we think the future will be richer than the present.
+
+- Spending money now to make things better in the future is a bit like taxing a poor city to provide services to a richer one.
+- Sometimes that's actually the right thing to do. (I say as an employee of the University of Michigan at **Ann Arbor**.)
+- But we should be cautious about it.
+
+## Altruism
+
+Finally, there is a general ethical question about how much we are obliged to do to help others.
+
+- In some cases, the people who will benefit from the infrastructure aren't even born. They don't exist!
+- When I was your age a lot of discussion of climate change centered around this idea.
+- The thought was that making sacrifices now to benefit people who didn't even exist was dubious even beyond questions of how altruistic we were required to be.
+
+## Altruism
+
+This feels a little less pressing now.
+
+- Hopefully most people in this room will still be alive in 2100.
+- And a lot of the costs of not spending money now to fix the climate will be borne before 2100.
+- For you, infrastructure spending now is less like altruism and more like saving for retirement.
+
+## Altruism
+
+But still, there might be some limits. Imagine a different kind of thought experiment, a policy with these implications.
+
+- Everyone alive today will be $10,000/year worse off for the rest of their lives.
+- Everyone born after today will be $1/year better off (in inflation-adjusted terms) for their whole lives.
+- There will be a million times more people live in the future than are alive now.
+
+## Summary
+
+There are four separate reasons to not just add up dollars over time. (I think interest rates are not a separate reason; maybe we'll go over that if we have time.)
+
+1. Inflation
+2. Uncertainty
+3. Wealth Effects
+4. Limits to Altruism
+
+# Discount Rates
+
+## Discount Rates
+
+There is a standard way to capture these four considerations in economic modeling.
+
+Say there is a discount rate, _d_, and when a policy has a gain _n_ years into the future, you reduce the value of the gain by _d_, and do that _n_ times, before summing up the gains.
+
+## Discount Rates
+
+That was a mouthful; I'll do an example, then present it in symbols.
+
+Say our discount rate is 10%.
+
+Then a gain of \$20 million in 1 year's time is worth \$18 million, that's 10% less.
+
+And a gain of \$20 million in 2 year's time is worth \$16.2 million, that's 10% less than the 10% less figure.
+
+## General Formula
+
+Assume that our policy (or building) will have gain $g(i)$ in year $i$, where this may be negative.
+
+And assume our discount rate is $d$. A 10% discount rate we'll write as $0.1$, because it's a discount of 1/10.
+
+Then the total value of the policy over 100 years is:
+
+$$
+\sum_{i=0}^{100} \frac{g(i)}{(d+1)^i}
+$$
+
+## General Formula
+
+Slightly more spelled out, the value of the policy is:
+
+$$
+g(0) + \frac{g(1)}{d+1} + \frac{g(2)}{(d+1)^2} + \frac{g(3)}{(d+1)^3} + \dots
+$$
+
+## Discount Rates
+
+That means the value of $d$ is really important for determining whether a policy has positive value if it has these characteristics:
+
+1. It has large up front costs, $g(0)$ is large and negative;
+2. The largest gains are many years in the future.
+
+And _maybe_ a lot of investments in clean energy are like this.
+
+## For Next Time
+
+We'll start looking at what various people, including philosophers, economists, and policy makers, have said about how we should think about $d$.

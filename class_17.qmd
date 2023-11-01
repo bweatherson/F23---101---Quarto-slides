@@ -1,0 +1,230 @@
+---
+title: _Dialogues Concerning Natural Religion_, Final Parts.
+subtitle: Philosophy 101 - Class 17
+format:
+  clean-revealjs:
+    self-contained: true
+author:
+  - name: Brian Weatherson
+    orcid: 0000-0002-0830-141X
+    email: weath@umich.edu
+    affiliations: University of Michigan
+date: 2023-10-26
+from: markdown+fancy_lists+raw_html
+---
+
+# The Problem of Evil
+
+## The Problem of Evil
+
+1. If God is all-good, He wants to get rid of all evils that he knows of.
+2. If God is all-knowing, he knows of all the evils there are.
+3. If God is all-powerful, he does whatever he wants to do.
+4. Evil exists.
+5. So God is not all of: all-good, all-knowing, all-powerful.
+
+## Reasoning
+
+Consider an arbitrary evil.
+
+- By all-knowing, God knows about it.
+- So by all-good, God wants to get rid of it.
+- So by all-powerful, he does get rid of it.
+- But oops, by observation he has not got rid of it.
+- So one of the assumptions about God must be false.
+
+## Philo's Short Version
+
+> EPICURUS’s old questions are yet unanswered. Is he willing to prevent evil, but not able? then is he impotent. Is he able, but not willing? then is he malevolent. Is he both able and willing? whence then is evil?
+
+- Note this takes all-knowing for granted, but it should probably be included.
+
+## Philo's Slightly Longer Version
+
+> His power we allow is infinite: whatever he wills is executed: but neither man nor any other animal is happy: therefore he does not will their happiness.
+
+> His wisdom is infinite: He is never mistaken in choosing the means to any end: But the course of Nature tends not to human or animal felicity: therefore it is not established for that purpose.
+
+## Responses
+
+1. This is actually as good as it gets.
+2. Although it could be better, God couldn't make it better.
+
+I'll go over these in reverse order.
+
+## Free Will
+
+It doesn't come up much in the text, but a very common view (perhaps the most common nowadays) response is to say that the evils in the world are due to human free will.
+
+- There could be a better world where we all acted more morally.
+- But God can't make us more moral without restricting our freedom.
+
+## All Powerful
+
+There is a technical point here about the nature of Divine power.
+
+- Most people think that being all powerful doesn't mean God can do literally anything.
+- For instance, God can't make two plus two equal seven.
+- God can only do what's possible.
+
+## Freedom and Possibility
+
+Now here's a plausible principle about freedom and possibility.
+
+- God can't simultaneously make us free, and guarantee that we will always do the right thing.
+- That's because it's impossible to make someone free, and guarantee that they will do one particular thing.
+
+## Responses
+
+1. Maybe this is really possible, though here we get into tricky questions about the nature of freedom.
+2. There are lots of evils in the world that don't seem to turn on human free will.
+
+## Examples from Chapter 10
+
+Some of the evils in the world do seem to be related in some way to human freedom. First here's Demea.
+
+> "a hospital full of diseases, a prison crowded with malefactors and debtors, a field of battle strewed with carcasses, a fleet foundering in the ocean, a nation languishing under tyranny, famine, or pestilence."
+
+Evidence from the 20th century suggests that better forms of human organisation can remedy most of these.
+
+## More Human Caused Misery
+
+Now Philo,
+
+> "Man is the greatest enemy of man. Oppression, injustice, contempt, contumely, violence, sedition, war, calumny, treachery, fraud; by these they mutually torment each other; and they would soon dissolve that society which they had formed, were it not for the dread of still greater ills, which must attend their separation."
+
+## Other Examples
+
+But it's harder to explain other evils as products of human free will.
+
+> "A perpetual war is kindled amongst all living creatures. Necessity, hunger, want, stimulate the strong and courageous: Fear, anxiety, terror, agitate the weak and infirm. The first entrance into life gives anguish to the new-born infant and to its wretched parent: Weakness, impotence, distress, attend each stage of that life: and it is at last finished in agony and horror."
+
+## Yet More Examples
+
+And Demea's list of psychological evils is a little harder to classify, but also hard for the free will theorist to explain away.
+
+> "The disorders of the mind, continued DEMEA, though more secret, are not perhaps less dismal and vexatious. Remorse, shame, anguish, rage, disappointment, anxiety, fear, dejection, despair; who has ever passed through life without cruel inroads from these tormentors? How many have scarcely ever felt any better sensations?"
+
+## Which Is Worst?
+
+Which of these lists do you think is most pressing in a discussion of God. That is, which is the hardest to understand how they are compatible with an all-powerful, all-knowing, all-loving, God?
+
+A.  Human caused misery, e.g., oppression, injustice, fraud, war.
+B.  Misery in nature, e.g., weakness, impotence, distress, hunger.
+C.  Disorders of the mind, e.g., shame, anguish, rage, fear, despair.
+
+## Alternative Move
+
+Perhaps some evils are necessary parts of other evils.
+
+- It's annoying to lose a game.
+- But God couldn't make it be the case that everyone wins a game, any more than He could make two plus two equal seven.
+- Maybe other evils are necessary for a greater good.
+
+## Patterns
+
+Here is one popular move, one which Philo spends most of Part XI complaining about.
+
+- It's good that we live in a world that has regularities.
+- The fact that there are laws about how food works, how machines work, etc, give us many opportunities that we wouldn't have in a random world.
+- Perhaps there is no better world than this one that has the same kind of regularities.
+
+## Objections
+
+Personally, this seems like a kind of depressing response to me. (The same is sort of true of the free will move.)
+
+A standard part of most theologies is that there is a Heaven, and things are somewhat better there.
+
+But if these considerations are right, Heaven will be just like more of the same as here.
+
+If this is the best possible, allowing for valuable things like freedom or regularities, then Heaven isn't any better.
+
+## Philo's Objections
+
+The short version is that regularities aren't that valuable.
+
+- Would a world with the odd miracle in it really be worse?
+- Maybe just tinker a bit to change the brain of some tyrants.
+- It's not like we know everything anyway, changing things below the level we know about could produce benefits without the costs of losing regularities.
+
+## Philo's Objections
+
+It might be replied that if God does this then there will be a limit to what we can learn.
+
+What was a mystery to everyone in Hume's time is something that we have a bit better knowledge of today.
+
+For an example of this, consider his suggestion that God could simply alter the winds a little to make some fleets move better than others.
+
+Now we have a much better understanding of how wind works; this much tinkering would prevent that.
+
+## Freedom and Character
+
+There is a really fascinating discussion in the paragraph starting "In order to cure most of the ills of human life,".
+
+Philo says that we'd cure most of the evils if humans were "endowed with a greater propensity to industry and labour; a more vigorous spring and activity of mind; a more constant bent to business and application."
+
+## Freedom and Character
+
+And here we get a hard question.
+
+- Would it be a violation of free will if God gave us different characters in this way?
+- Does freedom, the kind of freedom that's really valuable, require that our character be left completely undetermined?
+- There are good answers each way here, and I'll leave that for you to think about.
+
+## Cleanthes's Response
+
+Cleanthes's response to this argument is in one respect disappointing, and in another sets up an interesting argument.
+
+- He basically just concedes that the argument works.
+- And he also (at the start of 11) concedes that the arguments from analogies to human designers also show that God isn't perfectly good.
+- His fallback is God might be _very_ powerful, and _very_ good.
+
+## Philo's Counter
+
+In most discussions of the Problem of Evil, that would be the end of the matter.
+
+But Philo is aiming for an even more surprising result.
+
+He tries to argue that the evils in the world suggest that God (or whoever created the world) isn't even moderately good.
+
+This is a fairly bold claim, and a little hard to warrant.
+
+## Philo's Counter
+
+The way Philo tells it, destroying the whole world would be basically a good thing, since life is little more than suffering.
+
+Things are definitely very bad for a lot of animals, but this is a pretty extreme view to take.
+
+# The Conclusion
+
+## What Happens in Part XII
+
+Short version: Philo takes it all back as soon as Demea leaves.
+
+Slightly longer version: He takes back the criticism of the very general analogy argument, but stays critical of two (related) things.
+
+1. The idea that we can know very much about God's attributes.
+2. "Superstition" which endorses belief in God without really thinking it through.
+
+## What To Make Of This
+
+Philo doesn't say where any of the earlier arguments go wrong.
+
+It's very tempting to read this as Hume basically giving himself cover in case the censors get to it, and I think that's a fairly popular reading in the literature.
+
+## What To Make of This
+
+Against that, Philo is still very hostile to anything like organised religion in Part XII; it's not clear how much this would help with the political fallout.
+
+And Hume didn't publish the book in his lifetime!
+
+It's weird that Philo doesn't engage the earlier arguments he made more conclusively, but I'm not sure that's enough to say Hume was being wholly insincere here.
+
+# For Next Time
+
+## Climate Change
+
+We'll jump into the 21st century, and discuss philosophical issues about climate change.
+
+
+

@@ -1,0 +1,619 @@
+---
+title: _Discount Rates_
+subtitle: Philosophy 101 - Class 19
+format:
+  clean-revealjs:
+    self-contained: true
+    theme: 
+      [default, slow_reveal.scss]
+author:
+  - name: Brian Weatherson
+    orcid: 0000-0002-0830-141X
+    email: weath@umich.edu
+    affiliations: University of Michigan
+date: 2023-10-30
+from: markdown+fancy_lists+raw_html
+---
+
+# Big Picture
+
+## Climate Change is a Problem
+
+- The days are getting hotter.
+- The ocean levels are rising.
+- Extreme events, like hurricanes in Acapulco and fires across Canada, are getting more common.
+- Any one of these extreme events could definitely have happened without climate change, but the trend is worrying.
+
+::: {.notes}
+Notes go here.
+:::
+
+## Short Term Long Term
+
+- A lot of the things we could do have short term costs and long term gains.
+- For example, we could spend a lot of money now building off short wind farms, or solar farms.
+- Or we could regulate away certain high pollution activities, which is costly to the people who like engaging in those activities.
+
+## Four Challenges
+
+::: {.incremental .highlight-last}
+- **Inflation**
+  - Assume for simplicity that everything is in real terms.
+- **Uncertainty**
+  - Assume for simplicity that the costs/benefits are expected not guaranteed.
+- **Wealth Effect**
+  - This is what $\eta$, the eta value, is about.
+- **Self-Locating Preferences**
+  - This is what $\delta$, the delta value, is about.
+:::
+
+# Ramsey Rule
+
+## Frank Ramsey
+
+:::{.columns}
+
+::::{.column width=50%}
+![Frank Ramsey, 1903-1930](images/19/ramsey.jpeg){height=500}
+::::
+
+::::{.column width=50%}
+Ramsey died at 26, but he made major contributions to philosophy, mathematics, and economics.
+
+What we're doing is normally discussed in his economics, though it flows naturally from philosophical premises.
+::::
+
+:::
+
+---
+
+$$
+d = \delta + \eta g
+$$
+
+::: {.incremental .highlight-last}
+- $d$ is how much you discount a value by. So if $d$ is 7%, then a gain in 5 years is only worth 71% as much, since you divide the gain by $(1.07)^5$.
+- $\delta$, pronounced delta, is the rate of pure time preference.
+- $g$ is the rate of growth of (real) median consumption. This has been under 1% for a long time, but has risen post-pandemic.
+- $\eta$, pronounced eta, is the elasticity of marginal utility of consumption. 
+:::
+
+## What is an Elasticity
+
+- If you take economics, and/or you remember stuff from calc 1, we could work through what this means by first principles.
+- I'm very much not going to do that.
+- Instead I'll jump to the conclusions.
+
+## Utility and Consumption
+
+- Assume that a person consumes $C$ dollars of goods and services in a year.
+- This gives them a **utility** of $U(C)$.
+- With more money you can buy more/better things, so we assume as $C$ goes up, $U(C)$ goes up.
+- But we also assume that the richer you get, the less difference each dollar makes.
+- An extra $10,000/year in consumption matters a lot to the average American, less so to Mark Zuckerberg.
+
+## Declining Marginal Utility
+
+- As $C$ gets larger, $U(C)$ gets larger.
+- But also as $C$ gets larger $U(C + x) - U(C)$, i.e., the gain in utility from an addition of $x$, gets smaller.
+- How quickly does $U(C + x) - U(C)$ get smaller as $C$ gets larger?
+- That's what $\eta$ measures.
+
+## Some Examples
+
+Imagine our hero starts, in year 1, with \$20,000/year in consumption. They get a pay raise, and in year 2, they have \$40,000/year in consumption.
+
+::: {.fragment .fade-in}
+Question: How much would they have to consume in year 3 such that
+
+- The improvement in well-being from year 2 to year 3, _equals_
+- The improvement in well-being from year 1 to year 2?
+:::
+
+::: {.fragment .fade-in}
+Different values for $\eta$ give different answers to this question.
+:::
+
+---
+
+Different values for $\eta$ give different answers to this question.
+
+::: {.incremental .highlight-last}
+- If $\eta = 0$, each extra dollar has the same value, so the answer is $60,000.
+- If $\eta = 0.5$, utility is the square root of consumption, so the answer is $66,862.
+- If $\eta = 1$, utility is log of consumption, so every doubling has the same value, so the answer is $80,000.
+- If $\eta = 1.5$, the answer is $116,568. I'll explain why in a couple of slides.
+- If $\eta \geq 2$, the question has no answer. The utility from consumption caps out before you make that big a jump.
+:::
+
+## iClicker
+
+Question: What do you think the answer is? How much consumption is needed for year 3 to be as much an improvement as year 2 was?
+
+A.  $60,000
+B.  $66,862.
+C.  $80,000.
+D.  $116,568.
+E.  Infinite.
+
+## Some Formulae
+
+If you prefer doing this with formulae, here are some example formulae that get the right values of $\eta$.
+
+- If $\eta < 1, U(C) = C^{1-\eta}$.
+- If $\eta = 1, U(C) = log(C)$.
+- If $\eta > 1, U(C) = 1 - C^{1-\eta}$.
+
+If you set $\eta = 1.5$ and find the $C$ such that
+
+$$
+U(C) - U(40000) = U(40000) - U(20000)
+$$
+
+you get $C$ is about 116,000.
+
+---
+
+```{r load-packages}
+#| include: false
+require(tidyverse)
+require(gganimate)
+require(scales)
+```
+
+```{r set-up-graph}
+#| include: false
+#| cache: true
+
+f0 <- function(x) {x}
+f1 <- function(x) {x^0.5}
+f2 <- function(x) {log(x)}
+f3 <- function(x) {-(x^-0.5)}
+f4 <- function(x) {-1/x}
+f5 <- function(x) {-(x^-1.5)}
+
+u10 <- f0(20000)
+u11 <- f1(20000)
+u12 <- f2(20000)
+u13 <- f3(20000)
+u14 <- f4(20000)
+u15 <- f5(20000)
+
+u20 <- f0(40000)
+u21 <- f1(40000)
+u22 <- f2(40000)
+u23 <- f3(40000)
+u24 <- f4(40000)
+u25 <- f5(40000)
+
+a0 <- 1/(u20 - u10)
+a1 <- 1/(u21 - u11)
+a2 <- 1/(u22 - u12)
+a3 <- 1/(u23 - u13)
+a4 <- 1/(u24 - u14)
+a5 <- 1/(u25 - u15)
+
+b0 <- 1 - u10 * a0
+b1 <- 1 - u11 * a1
+b2 <- 1 - u12 * a2
+b3 <- 1 - u13 * a3
+b4 <- 1 - u14 * a4
+b5 <- 1 - u15 * a5
+
+g0 <- function(x){a0 * f0(x) + b0}
+g1 <- function(x){a1 * f1(x) + b1}
+g2 <- function(x){a2 * f2(x) + b2}
+g3 <- function(x){a3 * f3(x) + b3}
+g4 <- function(x){a4 * f4(x) + b4}
+g5 <- function(x){a5 * f5(x) + b5}
+
+utility_tibble <- tibble(
+  Consumption = c(500:25000) * 10
+) |>
+  mutate(
+    u0 = g0(Consumption),
+    u1 = g1(Consumption),
+    u2 = g2(Consumption),
+    u3 = g3(Consumption),
+    u4 = g4(Consumption),
+    u5 = g5(Consumption),
+  )
+
+base <-
+  ggplot(utility_tibble) +
+  theme_minimal() +
+  labs(y = "Utility", x = "Annual Consumption in Dollars")
+```
+
+```{r eta-variants}
+#| label: fig-variable-eta-first
+#| fig-cap: "The relation between utility and consumption for two values of eta."
+#| echo: false
+#| cache: true
+#! warning: false
+#| message: false
+
+the_graph <- base + 
+  geom_line(aes(x = Consumption, y = u0, color = "eta 0")) +
+  geom_line(aes(x = Consumption, y = u2, color = "eta 1")) +
+  coord_cartesian(xlim = c(10000, 90000), ylim=c(0, 4.5), expand = FALSE) +
+  scale_x_continuous(breaks = 1:4*20000)
+
+the_graph
+```
+
+---
+
+```{r eta-variants-second}
+#| label: fig-variable-eta-second
+#| fig-cap: "The relation between utility and consumption for six values of eta."
+#| echo: false
+#| cache: true
+#! warning: false
+#| message: false
+
+second_graph <- base + 
+  geom_line(aes(x = Consumption, y = u0, color = "eta 0")) +
+  geom_line(aes(x = Consumption, y = u1, color = "eta 0.5")) +
+  geom_line(aes(x = Consumption, y = u2, color = "eta 1")) +
+  geom_line(aes(x = Consumption, y = u3, color = "eta 1.5")) +
+  geom_line(aes(x = Consumption, y = u4, color = "eta 2")) +
+  geom_line(aes(x = Consumption, y = u5, color = "eta 2.5")) +
+  coord_cartesian(xlim = c(10000, 90000), ylim=c(-2, 4.5), expand = FALSE) +
+  scale_x_continuous(breaks = 1:4*20000)
+
+second_graph
+```
+
+---
+
+```{r eta-variants-low-c}
+#| label: fig-variable-eta-low-c
+#| fig-cap: "The relation between utility and consumption for six values of eta for low consumption."
+#| echo: false
+#| cache: true
+#! warning: false
+#| message: false
+
+low_c_graph <- base + 
+  geom_line(aes(x = Consumption, y = u0, color = "eta 0")) +
+  geom_line(aes(x = Consumption, y = u1, color = "eta 0.5")) +
+  geom_line(aes(x = Consumption, y = u2, color = "eta 1")) +
+  geom_line(aes(x = Consumption, y = u3, color = "eta 1.5")) +
+  geom_line(aes(x = Consumption, y = u4, color = "eta 2")) +
+  geom_line(aes(x = Consumption, y = u5, color = "eta 2.5")) +
+  coord_cartesian(xlim = c(5000, 45000), ylim=c(-10, 2.5), expand = FALSE) +
+  scale_x_continuous(breaks = 1:4*10000) +
+  scale_y_continuous(breaks = (-4):1 * 2)
+
+low_c_graph
+```
+
+## High Values of $\eta$ Mean Low Incomes Really Matter
+
+Assume we are trying to maximise the sum of $U$ across all the people in the community.
+
+And at the start, everyone has $20,000/year in consumption.
+
+After a change, 90% of the people have \$40,000/year, and 10% have \$5,000/year.
+
+If $\eta = 2.5$, that's on average worse, because the loss of utility going from \$20,000 to \$5,000 is that great.
+
+---
+
+```{r eta-variants-high-c}
+#| label: fig-variable-eta-high-c
+#| fig-cap: "The relation between utility and consumption for six values of eta for high consumption."
+#| echo: false
+#| cache: true
+#! warning: false
+#| message: false
+
+high_c_graph <- base + 
+  geom_line(aes(x = Consumption, y = u0, color = "eta 0")) +
+  geom_line(aes(x = Consumption, y = u1, color = "eta 0.5")) +
+  geom_line(aes(x = Consumption, y = u2, color = "eta 1")) +
+  geom_line(aes(x = Consumption, y = u3, color = "eta 1.5")) +
+  geom_line(aes(x = Consumption, y = u4, color = "eta 2")) +
+  geom_line(aes(x = Consumption, y = u5, color = "eta 2.5")) +
+  coord_cartesian(xlim = c(10000, 250000), ylim=c(-2, 12.5), expand = FALSE) +
+  scale_x_continuous(breaks = 1:6*40000) +
+  scale_y_continuous(breaks = 0:12 * 3)
+
+high_c_graph
+```
+
+## Low Values of $\eta$ Mean High Incomes Really Matter
+
+Assume we are trying to maximise the sum of $U$ across all the people in the community.
+
+And at the start, everyone has $40,000/year in consumption.
+
+After a change, 10% of the people have \$240,000/year, and 90% have \$20,000/year.
+
+If $\eta = 0$, that's on average better, because the gain of utility going from \$40,000 to \$240,000 is that great.
+
+# Market Alternatives to Ramsey
+
+## Interest Rates
+
+- We could discount using interest rates. 
+- Right now long-term interest rates on government bonds are 4 to 5 percent.
+- So that's what the market is telling us is the value of money now versus the future.
+
+## Interest Rates
+
+Two complications:
+
+::: {.incremental .highlight-last}
+- Real and Nominal
+  - What we care about are inflation adjusted interest rates, and they are a bit lower.
+- Public and Private
+  - Maybe we should be using the interest-rates that private actors face.
+  - These two complications might balance out.
+:::
+
+## Investment Rates
+
+- We could discount using the values that firms use for making investment decisions.
+- There are very few firms that will make investments if a project promises to return just above the rate on government bonds.
+- The extra amount differs a bit by company and by industry, but I gather a 3 to 5 percent premium isn't unusual.
+
+## Stock Returns
+
+- Historically, the stock market has gone up at much faster rates than interest or inflation.
+- This might indicate the return the market thinks is appropriate for speculative investments.
+- And maybe that should guide the value of $d$.
+
+## News You Can Use
+
+:::{.columns}
+
+::::{.column width=50%}
+![Aswath Damodaran](images/19/aswath.jpg)
+::::
+
+::::{.column width=50%}
+It's a little hard to calculate stock market returns because you have to really dig around to get the dividend data, but according to Aswath Damodaran at NYU, stocks have risen on average at over 10%/year for many years.
+::::
+
+:::
+
+## News You Can Use
+
+- His data is available at [his website](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/histretSP.html).
+- It's striking how much more quickly stock prices have gone up than house prices.
+- If you'd invested \$10,000 in a broad basket of stocks in 1974, and reinvested the dividends, you'd have \$2,500,000 by 2021.
+- That's a little fun with endpoints, and I'm using nominal not real dollars here, but it's really striking how much return the market has demanded, and gotten, from stock investments.
+
+# Why Ramsey
+
+## Utilitarianism
+
+Here is a moral theory you might have.
+
+- The well-being of the society is just the sum of the well-beings of everyone in it.
+- The aim of public policy is to maximise social well-being.
+- Then it follows that roughly what policy should do is follow the Ramsey Rule with $\delta = 0$.
+- Roughly because there are complications of $\eta$ isn't constant, and for uncertain returns, but it's pretty close.
+
+## Other Moral Theories
+
+:::{.columns}
+
+::::{.column width=50%}
+![Sir Partha Dasgupta](images/19/partha.JPG)
+::::
+
+::::{.column width=50%}
+Partha Dasgupta has argued that it also gives the intuitively correct moral answers to a bunch of tough cases.
+
+For a very detailed discussion, see his [SEP entry on the Ramsey rule](https://plato.stanford.edu/entries/ramsey-economics/).
+::::
+
+:::
+
+## Pure Discounting
+
+One immediate philosophical question that doesn't require a degree in economics is _what's the right value of_ $\delta$.
+
+::: {.incremental .highlight-last}
+- On the one hand, it's odd to say that someone counts less because they live in 2300 rather than 2030.
+- On the other hand, $\delta = 0$ implies that we should make almost any sacrifice in well-being now for the benefits of future people. This is related to debates about _longtermism_.
+:::
+
+
+# What is $\eta$?
+
+---
+
+```{r eta-variants-reprise}
+#| label: fig-variable-eta-reprise
+#| fig-cap: "The relation between utility and consumption for six values of eta."
+#| echo: false
+#| cache: true
+#! warning: false
+#| message: false
+
+second_graph
+```
+
+## $\eta$ and Politics
+
+::: {.incremental .highlight-last}
+- A high value for $\eta$ means:
+  - Present day policy is more focussed on the least well off.
+  - The discount rate is higher, so policy does less on climate change.
+- A low value for $\eta$ means:
+  - Present day policy is more focussed on wealth maximisation, whoever gets it.
+  - The discount rate is lower, so more reason to act on climate change.
+:::
+
+## Descriptive or Evaluative
+
+Two approaches to working out $\eta$.
+
+::: {.incremental .highlight-last}
+- Descriptive, what do people actually do?
+  - Could find this out by asking.
+  - Could find this out by looking at their risk-sensitive behavior.
+- Evaluative, what is morally right?
+  - We do some moral theorising, to work out the morally right value.
+:::
+
+## Risk-Sensitive Behavior
+
+People often have opportunities to take more or less risky options.
+
+- You can see this directly in things like investing retirement funds.
+- But you can also see it in things like career choices, whether people go into fields that have higher average returns, or more stable returns.
+- And you see it in sports, when players sign long-term contracts for under their current market value, but which protect them from injury risk.
+
+## Good and Bad Changes
+
+Imagine that we produce some things (call them widgets) for export.
+
+Right now, we employ 2,000 people making them, and each of those workers have a good job that allows $40,000/year in consumption.
+
+A new technology is being developed, and it will only require 1,000 workers to make the same number of widgets, but those workers will develop specialised skills, so they will be paid more.
+
+The other workers will end up with less good jobs, and fall back to $20,000 year in consumption.
+
+## Good and Bad Changes
+
+Question: How much would the new workers have to get paid before the change was, all up, good for the workers?
+
+That is, how much would they have to get paid so that the gains for the 1,000 who stay are greater than the losses for the 1,000 who leave?
+
+If every dollar was as valuable as every other, the answer would be easy: $60,000.
+
+But presumably that's not a very plausible answer.
+
+## iClicker Poll
+
+How much would the remaining workers have to be paid to make this an, on balance, good result for the workers?
+
+A.  $60,000
+B.  $70,000
+C.  $80,000
+D.  $120,000
+E.  Nothing could make it worthwhile
+
+## iClicker Poll
+
+In general, what do you think the right way is to figure out these questions?
+
+A.  Ask individuals what they think about the value of different amounts of money.
+B.  Look at how people behave with respect to risk, and figure out what $\eta$ must be for them (if their actions make sense).
+C.  Do some moral theory, consult our moral intuitions, and otherwise do things we can do in class?
+
+## Philosophers' Inconsistency
+
+Mintz-Woo says that philosophers are often inconsistent here.
+
+- They argue that $\delta$ equals zero using evaluative arguments.
+- But they use descriptive methods to work out $\eta$.
+- We should maybe use the same approaches for both.
+
+# Does This Matter?
+
+## Is This Relevant to Climate Change?
+
+Four reasons for scepticism:
+
+::: {.incremental .highlight-last}
+- **Justice**
+  - Can we express the costs in dollar terms?
+- **Make Costs Long Term**
+  - If we borrow to build, the costs are long-term as well.
+- **Is the Future Richer?**
+  - The past 50 years are not so encouraging.
+- **Short Term Gains**
+  - Pollution is really really bad; so are wildfires and hurricanes.
+:::
+
+## Justice
+
+This kind of modelling assumes that we can express costs and benefits of action and inaction in dollar terms.
+
+But that's a strong assumption.
+
+In reality, the cost of inaction might be that Chennai or Dhaka are uninhabitable.
+
+There's something a bit uncomfortable about doing a balance sheet with saying "Ah yes, the cost of making one of those cities uninhabitable is _x_ trillion dollars, but the gain from doing so is..."
+
+## Only Long Term Costs
+
+If you're worried about spending now to build infrastructure that will primarily benefit rich(er) people in the future, there is a simple solution.
+
+Build the wind farms (or whatever) with borrowed money.
+
+The economics of it are not that simple, not by a long shot, but we can put _some_ of the costs on the people who will benefit from them.
+
+## Low values for $g$
+
+Go back to the Ramsey rule:
+
+$$
+d = \delta + \eta g
+$$
+I've said a bit about $\delta$, and a lot about $\eta$, but I haven't said much about $g$.
+
+## Empirical Evidence about the History of $g$
+
+![Real median personal income over last 50 years, as percentage of 1974 value](images/19/real_median_personal_income.png)
+Note the long periods where this is flat, and that on average $g$ is well under 1%.
+
+## Short-Term Gains
+
+Some things we can do to help the climate are just costly in the short-term.
+
+- Travelling less is a real loss of value for many people.
+
+But there are short-term gains from some things that are good on climate grounds.
+
+## Short-Term Gains
+
+Some of those gains are climate related.
+
+- There really are very bad wildfires and hurricanes this year.
+
+## Short-Term Gains
+
+Some things that will produce long-term, global benefits for the climate, will also produce short-term local benefits.
+
+This is especially true in massive population centers.
+
+There is a cricket tournament (the men's World Cup) going on in India right now, and the air quality is a bit of a problem.
+
+One of the England players described playing as "like eating air."
+
+## Carbon Pollution
+
+![Players wear masks during a Sri Lanka-India match in New Delhi.](images/19/cricket_pollution.jpeg)
+
+This is not COVID-era; it's from 2017, and it's because the pollution was so bad.
+
+## Pollution
+
+For some context on this, many of you will have lived through days in major American cities where it was unpleasant to be outside because of smoke from wildfires.
+
+It was particularly bad in Philadelphia this summer, but it's been an intermittant problem across North America for a while.
+
+Major Indian cities are that bad every single day.
+
+## Pollution and Climate
+
+If India moved from coal and gasoline to solar and wind power, it would have serious short-term economic costs.
+
+And it would have large long-term gains for the whole planet.
+
+It would also have large short-term gains for India, and especially for major Indian cities.
+
+## For Next Time
+
+We'll start on a question that might have been in the back of your mind already.
+
+Is it feasible to rapidly decarbonise the economies of the world?
+
+And what does it even mean to say that something is or is not feasible?

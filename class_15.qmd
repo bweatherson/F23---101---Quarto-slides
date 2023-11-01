@@ -63,6 +63,15 @@ Define Ideal Island to be an island with all possible perfections.
 2. My island argument is terrible.
 3. Therefore, so is Anselm's.
 
+
+## iClicker Poll
+
+Which of these reactions to Gaunilo's parody strikes you as best?
+
+A.  This shows Anselm's argument is bad.
+B.  The response fails because there is an important difference between the original argument and the parody.
+C.  The response fails because it's fine to believe that the Ideal Island exists.
+
 ## Cleanthes's Version
 
 1. If Philo's objections were good ones, they would still be good after the Voice happens. After all, it would still be a strained analogy, wrong causal direction, etc.
@@ -107,6 +116,7 @@ Maybe we could accept the conclusion. There are two possible moves, one of them 
 
 1. God is self-designing.
 2. Yeah, there is a Higher God who designed our God, and maybe a Yet Higher God who designed the Higher God, and so on to infinity.
+
 
 ## What Does Cleanthes Do?
 
@@ -272,4 +282,4 @@ Is this right? Is it bad news for Occam's Razor?
 
 ## For Next Time
 
-We'll go 
+We'll go over alternatives to theistic explanations of the design-like features of the world.
