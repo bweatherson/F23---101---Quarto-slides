@@ -1,0 +1,19 @@
+Draft Essay Questions
+
+# Question 1
+
+A person, call them A, is recommending the United States adopt a particular clean energy policy. It is estimated that the policy will cost the average American about $30 over the next year, for a total cost of around $10 billion. But, they argue, the benefits in terms of doing less damage to the climate will be worth $400 million per year (in inflation adjusted terms) every year for the next century. So they argue that it's a good deal, and should be done.
+
+Three other people, B, C and D, all object to the policy. They all agree with the claims about the costs and (inflation-adjusted) gains, but they all argue for different reasons that it is a bad deal.
+
+B says that right now companies are only making investments that return well over 5% (after inflation), and this only returns 4%, so by market standards it's a bad deal. And those are the standards that should be used.
+
+C and D both use versions of the Ramsey rule to argue against the proposal.
+
+C says that we shouldn't give the same weight to future generations as we give to ourselves. They think we should use the Ramsey rule with delta set at 3%, eta at 1, and an expected growth rate of 2%. Between those we get a 5% discount rate, but this only returns 4% per year, so it's a bad deal.
+
+D says that we should give the same weight to future generations as to ourselves, so they think delta should be 0. But they think eta is really high, actually around 2.5. And they think growth will be at 2%. So again they get a discount rate of 5%. They think this is really an unjustified transfer from poorer people (namely us) to richer people (namely the future people who benefit from the policy.)
+
+Your job is to pick **one** of B, C and D, and (1) explain their objection, (2) say what A could say in response to it, and (3) evaluate whether the objection works.
+
+(Note that while I've used letters here, feel free to substitute real names that start with those letters for the people, especially if you find it easier to use actual names than letters!)
