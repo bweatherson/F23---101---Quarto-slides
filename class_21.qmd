@@ -1,0 +1,306 @@
+---
+title: _Feasibility_
+subtitle: Philosophy 101 - Class 21
+format:
+  clean-revealjs:
+    self-contained: true
+    theme: 
+      [default, slow_reveal.scss]
+author:
+  - name: Brian Weatherson
+    orcid: 0000-0002-0830-141X
+    email: weath@umich.edu
+    affiliations: University of Michigan
+date: 2023-11-08
+from: markdown+fancy_lists+raw_html
+---
+
+# A Game
+
+## A Game
+
+We'll start with something that might feel very different from climate change. But hopefully the relevance will become clear in a second.
+
+This is a version of what's sometimes called an investment game in economics.
+
+## A Game
+
+Pretend that we're playing the following two stage game.
+
+1. First, each of you will choose to 'invest' 0, 1, 2, 3, or 4 dollars.
+2. Then, I'll add up how much everyone invested, multiply the amount by 5, and distribute that equally among everyone, whether you invested or not.
+
+On the next slide I'll do an iClicker poll about this game, and it's important that people answer quickly, so load up iClicker now. 
+
+## Question
+
+In the pretense, how much do you 'invest'? 
+
+A.  $0
+B.  $1
+C.  $2
+D.  $3
+E.  $4
+
+## Analogy
+
+- Each person in the room is like a country.
+- The 'investment' levels are like how much we spend on climate abatement.
+- The gains in step 2 are how much we each benefit from having a cleaner planet.
+
+## Three Characteristics of the Game
+
+::: {.incremental .highlight-last}
+1. Everyone is better off if everyone puts in \$4 rather than everyone putting in \$0.
+2. Whatever everyone else does, the world as a whole (all the students, or all the countries) are better off if you put in \$4 rather than \$0.
+3. Whatever everyone else does, you are better off putting in \$0 rather than \$4.
+:::
+
+## Three Characteristics of the Analogy
+
+::: {.incremental .highlight-last}
+1. Everyone is better off if everyone spends a lot on climate abatement rather than nothing.
+2. Whatever everyone else does, the world as a whole (all the students, or all the countries) are better off if your country spends a lot rather than nothing.
+3. Whatever everyone else does, you are better off spending nothing rather than a lot.
+:::
+
+## More Realistic Analogy
+
+::: {.incremental .highlight-last}
+- Point 3 might seem too strong.
+  - Remember all that stuff about pollution in India from last time.
+- More realistic games might make it so that if no one is doing anything, so there is some really low-hanging fruit, you're better off doing it.
+  - In the game this might be like investing \$1.
+  - In the real world, it might be getting people away from using wood stoves in cities.
+:::
+
+## How Would You Solve This?
+
+Earlier I told you to act quickly in the game. What might you have done differently if you had more time?
+
+## Possible Moves
+
+::: {.incremental .highlight-last}
+1. Talk
+2. Informal agreements
+3. Binding agreements
+4. Informal agreements with informal sanctions
+:::
+
+# Feasibility
+
+## Pareto Optimal
+
+:::{.columns}
+
+::::{.column width=50%}
+![Vilfredo Pareto (1848-1923)](images/21/pareto.jpg){height=500}
+::::
+
+::::{.column width=50%}
+One situation is a **Pareto improvement** on another if someone is better off, and no one is worse off.
+
+A situation is **Pareto optimal** if there are no possible improvements on it.
+::::
+
+:::
+
+
+## International Paretianism
+
+:::{.columns}
+
+::::{.column width=50%}
+![Eric Posner](images/21/posner.jpeg){height=500}
+::::
+
+::::{.column width=50%}
+Eric Posner and David Weisbach argue that we should focus our climate actions on international agreements that are Pareto improvements on the present situation.
+::::
+
+:::
+
+## Why International Paretianism?
+
+- They don't think we should make every **person** better off.
+- Rather, they think we should make every **country** better off.
+- By this, they mean that we should increase the sum of the well-being of the people in each country.
+- The alternatives, they argue, are not **feasible**.
+
+## Back to the Game
+
+In the game we started with, this would give the intuitively right solution.
+
+- An agreement to all invest \$4 would leave everyone much better off (in fact \$16 better off) than doing nothing.
+- So they recommend that we work towards that kind of agreement.
+- And that sounds like pretty good advice I guess.
+
+## International Paretianism
+
+:::{.columns}
+
+::::{.column width=50%}
+![Katie Steele](images/21/steele.jpg){height=500}
+::::
+
+::::{.column width=50%}
+Katie Steele offers a bunch of criticisms of this, and I want to focus on two of them.
+
+The objections are going to be from opposite directions, and between them they suggest that there is something rather unstable about this position.
+::::
+
+:::
+
+# Objection From Morality
+
+## Drowning Child
+
+Here's a variant of a famous thought experiment by another Australian philosopher, Peter Singer.
+
+- There is a child drowning in a shallow pond.
+- Lots of us are standing nearby.
+- Any one of us could walk in and rescue the child.
+- But doing so would damage our shoes, and besides the water is rather cold.
+
+## Feasibility
+
+::: {.incremental .highlight-last}
+- It would be very bad if none of us rescued the child.
+- It would also be bad if we all said it wasn't feasible for us to rescue the child because well what was in it for us?
+- Exactly what feasibility comes to is very hard, but surely it doesn't rule out that kind of rescue.
+:::
+
+## Drownings
+
+One of the things that might happen if we don't do anything about climate change is that Tuvalu might literally go under water.
+
+And it's not just that Tuvalu might go under water, it might do so because of our actions.
+
+We aren't just bystanders in this case; we (collectively) are responsible for the problem.
+
+## Cross Time
+
+But Posner and Weisbach can say something important here.
+
+::: {.incremental .highlight-last}
+- There is a big difference between the drowning child case and action on climate.
+- Anything worth doing on climate will have to be maintained over time.
+- It doesn't help much to turn off coal power plants if the next government can simply turn them back on.
+:::
+
+## Two Kinds of Cooperation
+
+Two kinds of cooperation seem central to action on climate change.
+
+1. Cooperation across countries.
+2. Cooperation within countries across time, e.g., between successive governments.
+
+Maybe you can convince yourself the first is not essential; e.g., America can and should simply do better.
+
+But the second is essential, and maybe Posner and Weisbach can argue that asking countries to act against their self-interest is incompatible with it.
+
+# Objection from Cynicism
+
+## Two Comparisons
+
+The cynic might say the following. It's not important that an agreement satisfy condition 1. It also has to satisfy condition 2.
+
+1. Everyone following the agreement is better than no one following the agreement.
+2. Your following the agreement is better than your not following it.
+
+## Back to the Game
+
+An agreement to all put in \$4 satisfies 1 but not 2.
+
+1. We are all \$16 better off if we all put in \$4 rather than \$0.
+2. No matter what everyone else, you are approximately \$4 better off not following the agreement than following it.
+
+## Intertemporal Agreements
+
+The big worry here is that the arguments we just made prove too much.
+
+- If you're worried about future governments not honoring agreements, then the real standard is 2, not 1.
+- When a future government is deciding whether to honor the agreement, they won't care about whether it would have been better or worse to not have made the agreement.
+- They'll just care about, going forward, what's best.
+
+## Putting the Two Objections Together
+
+If you focus on morality, then countries should do things that would be for the best, even if they wouldn't make their own citizens better off.
+
+If you focus on national self-interest, the feasible deals might be the ones that are worth making, **and** which are worth keeping.
+
+But there might not be very many deals like that.
+
+# Building a Better Deal
+
+## Binding Agreements
+
+When the parties to an agreement like this are people or corporations, we get around the problem here by using legally binding agreements.
+
+We'll all enter into a deal knowing that the courts will enforce compliance.
+
+::: {.fragment}
+The problem is that there is no international court that can do this when the agreements are between countries.
+:::
+
+## What Else Do We Have?
+
+It's worth thinking through what other moves we have available here.
+
+## Two Suggestions
+
+There might be some grounds for hope here.
+
+::: {.incremental .highlight-last}
+1. Rely on countries having a desire for a reputation for promise keeping.
+2. Rely on people in countries having a desire to be part of agreements.
+:::
+
+## A Different Game
+
+If either conditions hold, we might have a situation analogous to the following game.
+
+::: {.incremental .highlight-last}
+1. At the first stage everyone decides whether to invest, or not invest, \$10.
+2. At the second stage, if everyone invested, everyone is given \$25 (for a profit of \$15).
+3. But if not everyone invested, everyone just gets \$5 (for either a \$5 profit if you didn't invest, or a \$5 loss if you did).
+:::
+
+## Two Game Types
+
+::: {.incremental .highlight-last}
+- What game theorists call a **Prisoners Dilemma** is like the first game I discussed.
+- What game theorists call a **Stag Hunt** is like the second game I discussed.
+:::
+
+Both games have cooperative and non-cooperative outcomes, but they have one important difference.
+
+## Different Types
+
+::: {.incremental .highlight-last}
+- In Prisoners Dilemma, cooperation is **costly**.
+    - Whatever everyone else does, you are better off not cooperating.
+- In Stag Hunt, cooperation is **risky**.
+    - If you don't know what others will do, betting on cooperation is a very risky bet.
+    - But if you know everyone else will cooperate, you're better off cooperating too.
+:::
+
+## Changing the Game Type
+
+Can we create the second type of agreement?
+
+- Possibly if governments (or their people) care about reputations for promise-keeping.
+- And possibly if governments (or their people) care about international fairness.
+- There is some evidence for both of these, though it's hard to be sure.
+
+## Back to Feasibility
+
+But if we have these conditions, should we even care about International Paretianism?
+
+- I'm not sure - it does seem like a strange mix of moralism and cynicism.
+- But maybe there are countries where the median voter will only agree to deals that are win-win, but will prefer keeping the deal even if there is a self-interested reason to break it.
+
+  
+
+
+

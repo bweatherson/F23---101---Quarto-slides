@@ -24,10 +24,6 @@ from: markdown+fancy_lists+raw_html
 - Extreme events, like hurricanes in Acapulco and fires across Canada, are getting more common.
 - Any one of these extreme events could definitely have happened without climate change, but the trend is worrying.
 
-::: {.notes}
-Notes go here.
-:::
-
 ## Short Term Long Term
 
 - A lot of the things we could do have short term costs and long term gains.
@@ -46,6 +42,79 @@ Notes go here.
 - **Self-Locating Preferences**
   - This is what $\delta$, the delta value, is about.
 :::
+
+## Discount Rates
+
+:::{.columns}
+
+::::{.column width=50%}
+![Kian Mintz-Woo](images/19/kian.jpg){height=500}
+::::
+
+::::{.column width=50%}
+There is a standard way to capture these four considerations in economic modelling, and Mintz-Woo discusses it at some length in the reading for this week.
+::::
+
+:::
+
+## Discount Rates
+
+Say there is a discount rate, _d_, and when a policy has a gain _n_ years into the future, you reduce the value of the gain by _d_, and do that _n_ times, before summing up the gains.
+
+## Discount Rates
+
+That was a mouthful; I'll do an example, then present it in symbols.
+
+Say our discount rate is 10%.
+
+Then a gain of \$20 million in 1 year's time is worth \$18 million, that's 10% less.
+
+And a gain of \$20 million in 2 year's time is worth \$16.2 million, that's 10% less than the 10% less figure.
+
+## General Formula
+
+Assume that our policy (or building) will have gain $g(i)$ in year $i$, where this may be negative.
+
+And assume our discount rate is $d$. A 10% discount rate we'll write as $0.1$, because it's a discount of 1/10.
+
+Then the total value of the policy over 100 years is:
+
+$$
+\sum_{i=0}^{100} \frac{g(i)}{(d+1)^i}
+$$
+
+## General Formula
+
+Slightly more spelled out, the value of the policy is:
+
+$$
+g(0) + \frac{g(1)}{d+1} + \frac{g(2)}{(d+1)^2} + \frac{g(3)}{(d+1)^3} + \dots
+$$
+
+## Discount Rates
+
+That means the value of $d$ is really important for determining whether a policy has positive value if it has these characteristics:
+
+1. It has large up front costs, $g(0)$ is large and negative;
+2. The largest gains are many years in the future.
+
+And _maybe_ a lot of investments in clean energy are like this.
+
+## Planning Note
+
+Because I spent a bit of time on Tuesday going over the background facts about climate change, it would be *really* rushed to get through all this stuff today.
+
+So the plan is to continue this material on Tuesday, maybe some of Tuesday's class, maybe all.
+
+But the stuff for next week on feasibility is I think a little less time consuming, so we'll finish that by Thursday of next week come what may.
+
+## Background Assumptions for Today
+
+1. We can put a dollar value on climate gains or losses. Roughly, the cost of pollution is the cost subsequent generations will have to spend to ameliorate the damage.
+2. The aim of policy is to maximise well-being. That's not the same as maximising wealth, even if we put a dollar value on well-being, but it's related.
+3. The future will be richer than the present. Therefore, each dollar is worth less to 'them' than it is to 'us'.
+
+These are all highly questionable assumptions, but we'll see what happens with them, and come back to whether we should reject them later.
 
 # Ramsey Rule
 
@@ -422,6 +491,11 @@ One immediate philosophical question that doesn't require a degree in economics 
 - On the other hand, $\delta = 0$ implies that we should make almost any sacrifice in well-being now for the benefits of future people. This is related to debates about _longtermism_.
 :::
 
+## Longtermism
+
+![Will MacAskill](images/19/will.jpg){height=400}
+
+In Phil 250 these questions get covered in much more depth, but I'm not going to go over them more in _lecture_.
 
 # What is $\eta$?
 
@@ -505,7 +579,7 @@ In general, what do you think the right way is to figure out these questions?
 
 A.  Ask individuals what they think about the value of different amounts of money.
 B.  Look at how people behave with respect to risk, and figure out what $\eta$ must be for them (if their actions make sense).
-C.  Do some moral theory, consult our moral intuitions, and otherwise do things we can do in class?
+C.  Do some moral theory, consult our moral intuitions, and otherwise do things we can do in class.
 
 ## Philosophers' Inconsistency
 
