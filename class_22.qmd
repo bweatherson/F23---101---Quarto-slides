@@ -1,0 +1,190 @@
+---
+title: _Efficacy_
+subtitle: Philosophy 101 - Class 22
+format:
+  clean-revealjs:
+    self-contained: true
+    theme: 
+      [default, slow_reveal.scss]
+author:
+  - name: Brian Weatherson
+    orcid: 0000-0002-0830-141X
+    email: weath@umich.edu
+    affiliations: University of Michigan
+date: 2023-11-13
+from: markdown+fancy_lists+raw_html
+---
+
+# Three Approaches to Ethics
+
+## Three Approaches to Ethics
+
+::: {.incremental .highlight-last}
+- **Dentology**
+  - Follow rules.
+- **Virtue Ethics**
+  - Be a good person.
+- **Consequentialism**
+  - Make the world a better place.
+:::
+
+## And More
+
+::: {.incremental .highlight-last}
+- Are these all the options?
+  - No, though they are the biggest by far in recent-ish English language philosophy
+- Are they incompatible?
+  - No (version 1): you can be a pluralist.
+  - No (version 2): you can argue that they are compatible.
+  - No (version 3): you can mix and match.
+:::
+
+::: {.notes}
+On 3, note for instance Julia Driver saying that good people are people who have characteristics which make the world a better place.
+:::
+
+## Three Approaches to Ethics
+
+In history of (western) philosophy, each of these three is identified with a famous old philosopher.
+
+- A famous version of deontology was developed by Immanuel Kant (1724-1804)
+- Aristotle (384 BCE - 322 BCE) is usually read as a virtue theorist.
+- Consequentialism is associated with 19th century English philosophers, especially Jeremy Bentham (1748-1832).
+  
+## Consequentialism and Climate
+
+The plan for this week is to talk about how consequentialism relates to climate change.
+
+::: {.incremental}
+- At first it seems like a good fit; what makes polluting behavior bad is that it has bad consequences.
+- But the details get very messy very quickly.
+:::
+
+# Consequentialism and Climate
+
+## Five Problems
+
+::: {.incremental .highlight-last}
+- **Define consequences**
+- **All options on the table**
+- **Demandingness**
+- **Cluelessness**
+- **Efficacy**
+:::
+
+## What Are Consequences
+
+We already talked about this a lot the last two weeks.
+
+But there is this big picture question of how to compare two outcomes when one is better for some people and the other one is better for others.
+
+We've done enough on that question for now.
+
+## All Options on the Table
+
+A traditional complaint about consequentialism is that in principle it has an anything goes approach to means.
+
+- All that matters is producing the best outcome.
+- So the ends always justify the means.
+- If the best outcome involves a billion people being displaced, those people better get going on their passport applications.
+
+## Demandingness
+
+In its most common form, consequentialism is very demanding.
+
+- It says to produce the **best** outcomes.
+- Imagine (as is plausible) that having rice and beans for every meal, and sending the money you'd otherwise spend on food to buying malaria nets, would produce on balance a better world.
+- Then, says the consequentialist, you should do that.
+
+::: {.notes}
+Note that malaria nets do seem, as best we can tell, a much better use of charitable dollars even than food aid.
+:::
+
+## Demandingness
+
+This is related to Julia Nefsky's example of Green.
+
+- Green is a basically environmentally sensitive person who does occasional things that are sub-optimal.
+- According to the standard version of consequentialism, that means she's doing the wrong thing.
+
+::: {.notes}
+I mean, the occasional flight to Italy isn't actually the same as occasional drive to go hiking. Flying is a thing
+:::
+
+ 
+## Cluelessness
+
+Here are two problem cases for the version of consequentialism that Bentham defended, which just said that goodness is producing the best outcome.
+
+1. A drives in a really reckless way, and the result is that they get home a bit quicker and spend more time with their kids.
+2. B rescues a drowning child, and that child grows up to be a serial killer.
+
+::: {.notes}
+Stress that these go in opposite directions.
+Take some time spelling out the details.
+:::
+
+## Cluelessness
+
+There is a standard solution to both of these problems.
+
+Morality is not about producing the best outcomes, but the best **expected** outcomes.
+
+## Expected Outcome
+
+If there are a bunch of possible outcomes: $O_1, O_2, \dots$, the expected outcome is:
+
+$$
+Pr(O_1)V(O_1) + Pr(O_2)V(O_2) + \dots
+$$
+
+It's a bit more complicated if there are infinitely many options - then you use calculus - but that's the basic idea.
+
+## Intuition
+
+::: {.incremental .highlight-last}
+- The expected outcome is something like the average outcome.
+- It is the average value you'd get if the option was repeated many times.
+- That makes sense for things like drink driving; the expected outcome from drink driving just is the average outcome. And the average of making it home a bit earlier and a horrible crash is really bad.
+- It's a little trickier for climate where we don't get to repeat our options, but that's the idea
+:::
+
+## Expected Outcome
+
+It's going to matter here because Nefsky thinks (along with many others) that when it comes to climate:
+
+- The probability that any one individual will make a big difference is incredibly small.
+- And the differences we do make are (individually) probably tiny.
+
+## Efficacy
+
+So that brings us back (at last!) to the title of the paper.
+
+The last worry is that although climate concerns are all about outcomes, the difference any one of us makes is arguably very small.
+
+So maybe consequentialism does not say there is anything wrong with flying across the country for lunch.
+
+## Dilemma
+
+Nefsky poses this as a dilemma.
+
+::: {.incremental .highlight-last}
+1. If we say that the only bad actions are ones where we can say clearly in advance what the bad consequences are, or at least what the (non-trivial) risk of a bad consequence is, then practically no individual actions that make the climate worse are morally bad.
+2. If we say that anything that might make a difference is bad, then all of us are bad.
+:::
+
+::: {.notes}
+Gautam Adani might be an exception
+:::
+
+# Responses
+
+## Three Big Responses
+
+We'll talk more about the details of this argument on Thursday, but for now I just wanted to note three initial replies you might make.
+
+1. Deontology
+2. Virtue
+3. Comparative consequentialism
+
+ 
