@@ -177,14 +177,73 @@ Nefsky poses this as a dilemma.
 Gautam Adani might be an exception
 :::
 
+# Nefsky's Examples
+
+## Lavish and Green
+
+- Lavish is an example of over the top pollution/consumption.
+- Green is a mostly responsible environmentalist.
+
+## Lavish
+
+Ms. Lavish lives a high-emissions lifestyle. She has a big home, which she keeps very warm in the winter and very cool in the summer ... She travels frequently for weekend getaways and vacations. She has a gas-guzzling SUV ...she loves driving ... so much that on most Sundays she goes for a drive along the nearby scenic highway just for fun.
+
+## Green
+
+Ms. Green has a very low-emissions lifestyle. She lives in a tiny apartment, with minimal and efficient appliances. She does not use an air conditioner .... She gets around almost exclusively by walking, biking, and taking public transit ... She keeps [her car] primarily so that she can drive every once and a while to the woods (about an hour away) to go hiking. She barely travels. Her last trip was two years ago, when she went to Italy with a friend.
+
+## iClicker Poll
+
+A.  Both Lavish and Green's polluting activities are immoral.
+B.  Lavish's polluting activities are immoral, but Green's are not.
+C.  Green's polluting activities are immoral, but Lavish's are not.
+D.  Neither Lavish nor Green's polluting activities are immoral.
+
+## Nefsky's Argument
+
+- Option B is correct.
+- Consequentialist theories cannot explain why that's so.
+- Therefore, consequentialist theories are wrong.
+
 # Responses
 
-## Three Big Responses
+## Two Natural Responses
 
-We'll talk more about the details of this argument on Thursday, but for now I just wanted to note three initial replies you might make.
+When someone poses a dilemma, it's natural to think through two obvious responses.
 
-1. Deontology
-2. Virtue
-3. Comparative consequentialism
+1. Accept the first horn.
+2. Accept the second horn.
 
- 
+I'll very briefly go over these today, and then say much more on Thursday.
+
+## Climate Harms
+
+Here are two basic facts about climate change.
+
+::: {.incremental .highlight-last}
+1. Collectively, the pollution we are emitting is causing grave harms, harms much greater than the benefits we get from engaging in the polluting activities.
+2.  In typical situations, the expectation of harm from an activity is the average harm caused by that kind of activity.
+:::
+
+## Climate Harms
+
+We'll go over on Thursday whether the 'typical situations' caveat is right, but if those things are right, you might think the expected harm from pollution is very bad.
+
+## Everyone's a Sinner
+
+What about the other horn, that this approach makes everyone bad?
+
+There is a natural move here, namely to say that consequentialism is not a theory of right and wrong, but of better and worse action.
+
+## Comparative Consequentialism
+
+Compare these two theories.
+
+::: {.incremental .highlight-last}
+1. All that matters morally is the expected consequences of your actions. If you perform the act with the highest expected value, you're morally good, otherwise you're morally bad.
+2. All that matters morally is the expected consequences of your actions. The higher they are, the morally better you are. 
+:::
+
+## For Next Time
+
+We'll look over some toy examples of group culpability, and talk about which of them best resemble the climate.
