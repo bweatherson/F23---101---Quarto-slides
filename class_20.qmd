@@ -1,6 +1,6 @@
 ---
 title: _Discount Rates_
-subtitle: Philosophy 101 - Class 19
+subtitle: Philosophy 101 - Class 20
 format:
   clean-revealjs:
     self-contained: true
@@ -11,128 +11,27 @@ author:
     orcid: 0000-0002-0830-141X
     email: weath@umich.edu
     affiliations: University of Michigan
-date: 2023-11-02
+date: 2023-11-07
 from: markdown+fancy_lists+raw_html
 ---
 
 # Big Picture
 
-## Climate Change is a Problem
-
-- The days are getting hotter.
-- The ocean levels are rising.
-- Extreme events, like hurricanes in Acapulco and fires across Canada, are getting more common.
-- Any one of these extreme events could definitely have happened without climate change, but the trend is worrying.
-
-## Short Term Long Term
-
-- A lot of the things we could do have short term costs and long term gains.
-- For example, we could spend a lot of money now building off short wind farms, or solar farms.
-- Or we could regulate away certain high pollution activities, which is costly to the people who like engaging in those activities.
-
-## Four Challenges
-
-::: {.incremental .highlight-last}
-- **Inflation**
-  - Assume for simplicity that everything is in real terms.
-- **Uncertainty**
-  - Assume for simplicity that the costs/benefits are expected not guaranteed.
-- **Wealth Effect**
-  - This is what $\eta$, the eta value, is about.
-- **Self-Locating Preferences**
-  - This is what $\delta$, the delta value, is about.
-:::
-
 ## Discount Rates
 
-:::{.columns}
+Some climate actions have short term costs and long term benefits.
 
-::::{.column width=50%}
-![Kian Mintz-Woo](images/19/kian.jpg){height=500}
-::::
+How to trade these off is a hard question for several reasons including:
 
-::::{.column width=50%}
-There is a standard way to capture these four considerations in economic modelling, and Mintz-Woo discusses it at some length in the reading for this week.
-::::
+1. Uncertainty about the future;
+2. Worries about transfers from poor to rich.
+3. The reasonableness of (mild) self-centered preference.
 
-:::
-
-## Discount Rates
-
-Say there is a discount rate, _d_, and when a policy has a gain _n_ years into the future, you reduce the value of the gain by _d_, and do that _n_ times, before summing up the gains.
-
-## Discount Rates
-
-That was a mouthful; I'll do an example, then present it in symbols.
-
-Say our discount rate is 10%.
-
-Then a gain of \$20 million in 1 year's time is worth \$18 million, that's 10% less.
-
-And a gain of \$20 million in 2 year's time is worth \$16.2 million, that's 10% less than the 10% less figure.
-
-## General Formula
-
-Assume that our policy (or building) will have gain $g(i)$ in year $i$, where this may be negative.
-
-And assume our discount rate is $d$. A 10% discount rate we'll write as $0.1$, because it's a discount of 1/10.
-
-Then the total value of the policy over 100 years is:
-
-$$
-\sum_{i=0}^{100} \frac{g(i)}{(d+1)^i}
-$$
-
-## General Formula
-
-Slightly more spelled out, the value of the policy is:
-
-$$
-g(0) + \frac{g(1)}{d+1} + \frac{g(2)}{(d+1)^2} + \frac{g(3)}{(d+1)^3} + \dots
-$$
-
-## Discount Rates
-
-That means the value of $d$ is really important for determining whether a policy has positive value if it has these characteristics:
-
-1. It has large up front costs, $g(0)$ is large and negative;
-2. The largest gains are many years in the future.
-
-And _maybe_ a lot of investments in clean energy are like this.
-
-## Planning Note
-
-Because I spent a bit of time on Tuesday going over the background facts about climate change, it would be *really* rushed to get through all this stuff today.
-
-So the plan is to continue this material on Tuesday, maybe some of Tuesday's class, maybe all.
-
-But the stuff for next week on feasibility is I think a little less time consuming, so we'll finish that by Thursday of next week come what may.
-
-## Background Assumptions for Today
+## Background Assumptions for (First Half of) Today
 
 1. We can put a dollar value on climate gains or losses. Roughly, the cost of pollution is the cost subsequent generations will have to spend to ameliorate the damage.
 2. The aim of policy is to maximise well-being. That's not the same as maximising wealth, even if we put a dollar value on well-being, but it's related.
 3. The future will be richer than the present. Therefore, each dollar is worth less to 'them' than it is to 'us'.
-
-These are all highly questionable assumptions, but we'll see what happens with them, and come back to whether we should reject them later.
-
-# Ramsey Rule
-
-## Frank Ramsey
-
-:::{.columns}
-
-::::{.column width=50%}
-![Frank Ramsey, 1903-1930](images/19/ramsey.jpeg){height=500}
-::::
-
-::::{.column width=50%}
-Ramsey died at 26, but he made major contributions to philosophy, mathematics, and economics.
-
-What we're doing is normally discussed in his economics, though it flows naturally from philosophical premises.
-::::
-
-:::
 
 ---
 
@@ -146,80 +45,6 @@ $$
 - $g$ is the rate of growth of (real) median consumption. This has been under 1% for a long time, but has risen post-pandemic.
 - $\eta$, pronounced eta, is the elasticity of marginal utility of consumption. 
 :::
-
-## What is an Elasticity
-
-- If you take economics, and/or you remember stuff from calc 1, we could work through what this means by first principles.
-- I'm very much not going to do that.
-- Instead I'll jump to the conclusions.
-
-## Utility and Consumption
-
-- Assume that a person consumes $C$ dollars of goods and services in a year.
-- This gives them a **utility** of $U(C)$.
-- With more money you can buy more/better things, so we assume as $C$ goes up, $U(C)$ goes up.
-- But we also assume that the richer you get, the less difference each dollar makes.
-- An extra $10,000/year in consumption matters a lot to the average American, less so to Mark Zuckerberg.
-
-## Declining Marginal Utility
-
-- As $C$ gets larger, $U(C)$ gets larger.
-- But also as $C$ gets larger $U(C + x) - U(C)$, i.e., the gain in utility from an addition of $x$, gets smaller.
-- How quickly does $U(C + x) - U(C)$ get smaller as $C$ gets larger?
-- That's what $\eta$ measures.
-
-## Some Examples
-
-Imagine our hero starts, in year 1, with \$20,000/year in consumption. They get a pay raise, and in year 2, they have \$40,000/year in consumption.
-
-::: {.fragment .fade-in}
-Question: How much would they have to consume in year 3 such that
-
-- The improvement in well-being from year 2 to year 3, _equals_
-- The improvement in well-being from year 1 to year 2?
-:::
-
-::: {.fragment .fade-in}
-Different values for $\eta$ give different answers to this question.
-:::
-
----
-
-Different values for $\eta$ give different answers to this question.
-
-::: {.incremental .highlight-last}
-- If $\eta = 0$, each extra dollar has the same value, so the answer is $60,000.
-- If $\eta = 0.5$, utility is the square root of consumption, so the answer is $66,862.
-- If $\eta = 1$, utility is log of consumption, so every doubling has the same value, so the answer is $80,000.
-- If $\eta = 1.5$, the answer is $116,568. I'll explain why in a couple of slides.
-- If $\eta \geq 2$, the question has no answer. The utility from consumption caps out before you make that big a jump.
-:::
-
-## iClicker
-
-Question: What do you think the answer is? How much consumption is needed for year 3 to be as much an improvement as year 2 was?
-
-A.  $60,000
-B.  $66,862.
-C.  $80,000.
-D.  $116,568.
-E.  Infinite.
-
-## Some Formulae
-
-If you prefer doing this with formulae, here are some example formulae that get the right values of $\eta$.
-
-- If $\eta < 1, U(C) = C^{1-\eta}$.
-- If $\eta = 1, U(C) = log(C)$.
-- If $\eta > 1, U(C) = 1 - C^{1-\eta}$.
-
-If you set $\eta = 1.5$ and find the $C$ such that
-
-$$
-U(C) - U(40000) = U(40000) - U(20000)
-$$
-
-you get $C$ is about 116,000.
 
 ---
 
@@ -294,24 +119,6 @@ base <-
   labs(y = "Utility", x = "Annual Consumption in Dollars")
 ```
 
-```{r eta-variants}
-#| label: fig-variable-eta-first
-#| fig-cap: "The relation between utility and consumption for two values of eta."
-#| echo: false
-#| cache: true
-#! warning: false
-#| message: false
-
-the_graph <- base + 
-  geom_line(aes(x = Consumption, y = u0, color = "eta 0")) +
-  geom_line(aes(x = Consumption, y = u2, color = "eta 1")) +
-  coord_cartesian(xlim = c(10000, 90000), ylim=c(0, 4.5), expand = FALSE) +
-  scale_x_continuous(breaks = 1:4*20000)
-
-the_graph
-```
-
----
 
 ```{r eta-variants-second}
 #| label: fig-variable-eta-second
@@ -333,127 +140,6 @@ second_graph <- base +
 
 second_graph
 ```
-
----
-
-```{r eta-variants-low-c}
-#| label: fig-variable-eta-low-c
-#| fig-cap: "The relation between utility and consumption for six values of eta for low consumption."
-#| echo: false
-#| cache: true
-#! warning: false
-#| message: false
-
-low_c_graph <- base + 
-  geom_line(aes(x = Consumption, y = u0, color = "eta 0")) +
-  geom_line(aes(x = Consumption, y = u1, color = "eta 0.5")) +
-  geom_line(aes(x = Consumption, y = u2, color = "eta 1")) +
-  geom_line(aes(x = Consumption, y = u3, color = "eta 1.5")) +
-  geom_line(aes(x = Consumption, y = u4, color = "eta 2")) +
-  geom_line(aes(x = Consumption, y = u5, color = "eta 2.5")) +
-  coord_cartesian(xlim = c(5000, 45000), ylim=c(-10, 2.5), expand = FALSE) +
-  scale_x_continuous(breaks = 1:4*10000) +
-  scale_y_continuous(breaks = (-4):1 * 2)
-
-low_c_graph
-```
-
-## High Values of $\eta$ Mean Low Incomes Really Matter
-
-Assume we are trying to maximise the sum of $U$ across all the people in the community.
-
-And at the start, everyone has $20,000/year in consumption.
-
-After a change, 90% of the people have \$40,000/year, and 10% have \$5,000/year.
-
-If $\eta = 2.5$, that's on average worse, because the loss of utility going from \$20,000 to \$5,000 is that great.
-
----
-
-```{r eta-variants-high-c}
-#| label: fig-variable-eta-high-c
-#| fig-cap: "The relation between utility and consumption for six values of eta for high consumption."
-#| echo: false
-#| cache: true
-#! warning: false
-#| message: false
-
-high_c_graph <- base + 
-  geom_line(aes(x = Consumption, y = u0, color = "eta 0")) +
-  geom_line(aes(x = Consumption, y = u1, color = "eta 0.5")) +
-  geom_line(aes(x = Consumption, y = u2, color = "eta 1")) +
-  geom_line(aes(x = Consumption, y = u3, color = "eta 1.5")) +
-  geom_line(aes(x = Consumption, y = u4, color = "eta 2")) +
-  geom_line(aes(x = Consumption, y = u5, color = "eta 2.5")) +
-  coord_cartesian(xlim = c(10000, 250000), ylim=c(-2, 12.5), expand = FALSE) +
-  scale_x_continuous(breaks = 1:6*40000) +
-  scale_y_continuous(breaks = 0:12 * 3)
-
-high_c_graph
-```
-
-## Low Values of $\eta$ Mean High Incomes Really Matter
-
-Assume we are trying to maximise the sum of $U$ across all the people in the community.
-
-And at the start, everyone has $40,000/year in consumption.
-
-After a change, 10% of the people have \$240,000/year, and 90% have \$20,000/year.
-
-If $\eta = 0$, that's on average better, because the gain of utility going from \$40,000 to \$240,000 is that great.
-
-# Market Alternatives to Ramsey
-
-## Interest Rates
-
-- We could discount using interest rates. 
-- Right now long-term interest rates on government bonds are 4 to 5 percent.
-- So that's what the market is telling us is the value of money now versus the future.
-
-## Interest Rates
-
-Two complications:
-
-::: {.incremental .highlight-last}
-- Real and Nominal
-  - What we care about are inflation adjusted interest rates, and they are a bit lower.
-- Public and Private
-  - Maybe we should be using the interest-rates that private actors face.
-  - These two complications might balance out.
-:::
-
-## Investment Rates
-
-- We could discount using the values that firms use for making investment decisions.
-- There are very few firms that will make investments if a project promises to return just above the rate on government bonds.
-- The extra amount differs a bit by company and by industry, but I gather a 3 to 5 percent premium isn't unusual.
-
-## Stock Returns
-
-- Historically, the stock market has gone up at much faster rates than interest or inflation.
-- This might indicate the return the market thinks is appropriate for speculative investments.
-- And maybe that should guide the value of $d$.
-
-## News You Can Use
-
-:::{.columns}
-
-::::{.column width=50%}
-![Aswath Damodaran](images/19/aswath.jpg)
-::::
-
-::::{.column width=50%}
-It's a little hard to calculate stock market returns because you have to really dig around to get the dividend data, but according to Aswath Damodaran at NYU, stocks have risen on average at over 10%/year for many years.
-::::
-
-:::
-
-## News You Can Use
-
-- His data is available at [his website](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/histretSP.html).
-- It's striking how much more quickly stock prices have gone up than house prices.
-- If you'd invested \$10,000 in a broad basket of stocks in 1974, and reinvested the dividends, you'd have \$2,500,000 by 2021.
-- That's a little fun with endpoints, and I'm using nominal not real dollars here, but it's really striking how much return the market has demanded, and gotten, from stock investments.
 
 # Why Ramsey
 
@@ -589,6 +275,63 @@ Mintz-Woo says that philosophers are often inconsistent here.
 - But they use descriptive methods to work out $\eta$.
 - We should maybe use the same approaches for both.
 
+# Market Alternatives to Ramsey
+
+## Interest Rates
+
+- We could discount using interest rates. 
+- Right now long-term interest rates on government bonds are 4 to 5 percent.
+- So that's what the market is telling us is the value of money now versus the future.
+
+## Interest Rates
+
+Two complications:
+
+::: {.incremental .highlight-last}
+- Real and Nominal
+  - What we care about are inflation adjusted interest rates, and they are a bit lower.
+- Public and Private
+  - Maybe we should be using the interest-rates that private actors face.
+  - These two complications might balance out.
+:::
+
+## Investment Rates
+
+- We could discount using the values that firms use for making investment decisions.
+- There are very few firms that will make investments if a project promises to return just above the rate on government bonds.
+- The extra amount differs a bit by company and by industry, but I gather a 3 to 5 percent premium isn't unusual.
+
+## Stock Returns
+
+- Historically, the stock market has gone up at much faster rates than interest or inflation.
+- This might indicate the return the market thinks is appropriate for speculative investments.
+- And maybe that should guide the value of $d$.
+
+## News You Can Use
+
+:::{.columns}
+
+::::{.column width=50%}
+![Aswath Damodaran](images/19/aswath.jpg)
+::::
+
+::::{.column width=50%}
+It's a little hard to calculate stock market returns because you have to really dig around to get the dividend data, but according to Aswath Damodaran at NYU, stocks have risen on average at over 10%/year for many years.
+::::
+
+:::
+
+## News You Can Use
+
+- His data is available at [his website](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/histretSP.html).
+- It's striking how much more quickly stock prices have gone up than house prices.
+- If you'd invested \$10,000 in a broad basket of stocks in 1974, and reinvested the dividends, you'd have \$2,500,000 by 2021.
+- That's a little fun with endpoints, and I'm using nominal not real dollars here, but it's really striking how much return the market has demanded, and gotten, from stock investments.
+
+
+
+
+
 # Does This Matter?
 
 ## Is This Relevant to Climate Change?
@@ -638,6 +381,22 @@ I've said a bit about $\delta$, and a lot about $\eta$, but I haven't said much 
 ![Real median personal income over last 50 years, as percentage of 1974 value](images/19/real_median_personal_income.png)
 Note the long periods where this is flat, and that on average $g$ is well under 1%.
 
+## Two Climate-Specific Factors
+
+Climate change doesn't just make things worse for humans, it also affects businesses.
+
+If you have to abandon investments in places that become too hot, or too wet, that's going to impact growth.
+
+## Two Climate-Specific Factors
+
+Many of the costs of climate change will fall not just on future people, but on **poor** future people.
+
+It's one thing to ask us to make sacrifices now so that Californians in 100 years time don't have to make slightly larger sacrifices.
+
+It's (probably) a very different to ask us to make sacrifices now so that Bangladeshis in 100 years time don't have to make slightly larger sacrifices.
+
+Maybe Bangladesh will have an massive growth over the next 100 years, but it's not clear we should bet on that.
+
 ## Short-Term Gains
 
 Some things we can do to help the climate are just costly in the short-term.
@@ -667,6 +426,12 @@ One of the England players described playing as "like eating air."
 ![Players wear masks during a Sri Lanka-India match in New Delhi.](images/19/cricket_pollution.jpeg)
 
 This is not COVID-era; it's from 2017, and it's because the pollution was so bad.
+
+## Up To Date
+
+![India Gate should be visible at the end of this road (picture 3 November 2023).](images/20/delhi.jpeg)
+
+This was the picture accompanying a story about a team cancelling practice before a World Cup game because of the pollution.
 
 ## Pollution
 
