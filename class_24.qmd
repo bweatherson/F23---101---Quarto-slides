@@ -1,0 +1,279 @@
+---
+title: _Belief_
+subtitle: Philosophy 101 - Class 24
+format:
+  clean-revealjs:
+    self-contained: true
+    theme: 
+      [default, slow_reveal.scss]
+author:
+  - name: Brian Weatherson
+    orcid: 0000-0002-0830-141X
+    email: weath@umich.edu
+    affiliations: University of Michigan
+date: 2023-11-20
+from: markdown+fancy_lists+raw_html
+---
+
+# A Puzzle About Testimony
+
+## Climate Change and Testimony
+
+There are a lot of things that we can only know about concerning climate change via testimony.
+
+Maybe that doesn't include whether it's happening at all; that we can more or less check for ourselves.
+
+But it does arguably include:
+
+- The magnitude of the problem; and
+- The efficacy of various solutions.
+
+## Need for Experts
+
+So we need to find experts we can trust.
+
+This raises all sorts of interesting problems.
+
+First problem, which will be hovering over everything else we talk about:
+
+- Is identifying experts something that an ordinary person should be able to do, or is it yet another problem to be pushed off to experts?
+
+## Identifying Experts
+
+Neither answer here seems completely satisfying.
+
+- On the one hand, for specialist enough questions, knowing even which field a question falls in can require some specialist knowledge.
+- On the other hand, if we keep pushing off questions to experts, we'll get into a regress.
+- At some point, we have to decide something for ourselves.
+- Possibly the thing we have to decide is who to trust about who to trust, but we need to ultimately make up our own minds on something.
+
+## Identifying Experts
+
+Let's assume we have decided we will decide for ourselves who the experts are.
+
+And let's assume we are interested in a question where the experts do not speak entirely with one voice. (So that excludes questions on whether climate change is happening, but includes magnitudes and mitigation questions.)
+
+Now there are two principles that are plausible.
+
+## Trust Reliable Experts
+
+It's better to trust experts who are reliable than ones who are not.
+
+By 'reliable' here I mean experts who get things right.
+
+## Don't Get Into Bubbles
+
+It's bad to get into an 'epistemic bubble' where you just agree with people like yourself, and ignore other people.
+
+This has become a very big problem in the last few decades, and may be contributing to political polarization.
+
+## The Problem
+
+These two principles are in conflict.
+
+- We don't have magical access to who is reliable and who isn't.
+- The only way we can tell who is reliable is by using our own beliefs.
+- So trusting people who are reliable, as far as we can tell, will just mean trusting people who agree with us on other questions, and ignoring those who disagree with us.
+- And that produces epistemic bubbles.
+
+## Rational Polarization
+
+There has been a bunch of work in philosophy of science, but also in other disciplines, on how bubbles/polarization can arise as a result of the very rational approach of trusting reliable people, and distrusting unreliable people.
+
+# Three Notions
+
+## Three Concepts to be Discussed
+
+1. Confirmation Bias
+2. Cultural Cognition
+3. Rational Updating
+
+:::{.notes}
+Do not go over these in detail - they are on upcoming slides.
+:::
+
+## Confirmation Bias
+
+This gets used for a lot of different things. The wikipedia definition is particularly broad (most others don't list quite so many things):
+
+> "Confirmation bias is the tendency to search for, interpret, favor, and recall information in a way that confirms or supports one's prior beliefs or values."
+
+## Confirmation Bias
+
+That definition allows for confirmation bias being manifested in four ways:
+
+1. Search
+2. Interpretation
+3. Favoring
+4. Recall
+
+:::{.notes}
+Do not go over these in detail - will come back to.
+:::
+
+## Confirmation Bias
+
+And it uses 'confirmation bias' to mean doing these things to preserve one's prior:
+
+1. Beliefs; or
+2. Values
+
+In the reading, these two are kept cleanly apart, and I think that's worthwhile.
+
+I'm just going to use 'confirmation bias' to mean doing these things to support one's prior **beliefs**. We'll come back to values.
+
+## Search
+
+So imagine someone who starts out with this view
+
+> Hydro-power isn't part of the best response to climate change.
+
+They know that two organisations have new reports out on the usefulness of hydro-power: River-Protectors; and Dam-Builders.
+
+Biased search is just going and reading River-Protectors, and ignoring the report from Dam-Builders.
+
+## Interpretation and Favoring
+
+I'll link these together. Often times the evidence is **ambiguous**. You can read it one way or another. 
+
+Imagine that the cost of electricity at the last four big hydro projects (in cents per kilowatt hour) were:
+
+- 6; 5; 4; 4.
+
+Is the cost falling or stabilised? Bias in interpretation is judging that question on your prior beliefs.
+
+## Recall
+
+Imagine last year two big hydro projects were opened.
+
+- One came in on time and on budget, and is producing carbon-free electricity at cheaper prices than any wind or solar installation.
+- The other was years late and way over budget, and it would have been better by far to have never started it.
+
+Bias in recall is just remembering one of these when thinking about whether hydro should be a part of the solution.
+
+## Cultural Cognition
+
+Cultural cognition is doing all these kinds of things, but doing it via the lens of whether the proposition being investigate fits with, or clashes with, one's values.
+
+## Cultural Cognition
+
+Two (alleged) differences between this and confirmation bias:
+
+1. It kicks in even if the person doesn't have a prior attitude.
+2. It can be adjusted by reframing the proposition.
+
+## Reframing
+
+Compare this sales pitch with the one on the next slide.
+
+> The government is considering building a hydro power project on the Huron River. Proponents say it will provide an alternative to coal power plants that contribute to climate change. Opponents say it will potentially be very costly, and could mean a big increase in government debt.
+
+## Reframing
+
+Compare this sales pitch with the one on the previous slide.
+
+> The government is considering building a hydro power project on the Huron River. Proponents say it will provide a cheap and stable source of electricity. Opponents say it will have a devastating effect on wildlife that relies on the river.
+
+## Is This Really Different?
+
+Greco argues that these differences aren't in fact particularly substantial, and I'm inclined to agree.
+
+## Prior Attitudes
+
+Especially on climate change, values tend to be a mix of unambiguously evaluative claims ("It's really bad to flood Pacific Islands") and unambiguously factual claims ("Such-and-such level of carbon emissions will have the following consequences for sea level, hurricane intensity, etc...").
+
+And even if someone doesn't have an attitude on a particular question ("Would a hydro plant on this river be good or bad"), the answer might be implied by other things they believe. So they effectively have a prior view.
+
+## Reframing
+
+Reframing just looks like the highlighting certain evidence over others.
+
+- It's not that different from the favoring and interpreting parts of confirmation bias.
+
+## Reframing
+
+I'm also a little sceptical about how much this really explains.
+
+- One of the key examples was a certain kind of view being associated with preference for large industrial projects.
+- Building a hydro electric power project, or an offshore turbine, or a battery big enough to provide backup power to a state, is about as large and as industrial a process as you can imagine.
+- But the predictions about who will/won't favor these large industrial processes didn't seem particularly plausible to me.
+
+## Rational Updating
+
+Here's the problem, and I think we'll just end by noting it is a big problem.
+
+- The way I've presented it, recalling evidence that supports your view and ignoring evidence that goes against it, looks pretty irrational.
+- But it can be rational if we make the two assumptions on the next slide.
+
+## Rational Updating
+
+1. It is costly to keep and process evidence, and given that, a sensible person will remove/ignore misleading evidence.
+2. Misleading evidence is evidence that supports a false conclusion, and in practice the only way a person has for telling what's false is their own views.
+
+# Resolving the Challenge
+
+## Don't Get too Optimistic
+
+This is a really deep problem.
+
+The social consequences of everyone processing information this way are awful.
+
+But individually, it makes a certain kind of sense.
+
+## Three Kinds of Approaches
+
+I'll say just a bit more about each of these.
+
+1. Look for red flags.
+2. Pay more attention to people who disagree with you a bit.
+3. Do an audit every so often.
+
+## Red Flags
+
+By this I mean the kind of thing Greco suggests.
+
+- If it's a coincidence that two things are true, and not a coincidence that you believe them both, that's a red flag.
+- Whenever you get a red flag, go back and look more carefully at evidence you might have written off.
+
+## Red Flags
+
+But it's really hard to identify these properly.
+
+- Greco's own approach doesn't seem to work.
+- There are lots of things that are coincidences that they are true, but not coincidences that one believes them.
+- A fan of a particular band, say boygenius, might know lots of things about the band members. Some of these things will be coincidences that it's not a coincidence they believe. And that's no kind of red flag.
+
+## Slight Disagreement
+
+It's consistent to believe the following things:
+
+1. It's rational to ignore/downweight people who are clearly wrong.
+2. We over-use that rational permission.
+
+Arguably we should pay much more attention than we actually do to people with whom we have moderate disagreements.
+
+Maybe that's a way to reduce bubbles/polarization.
+
+## Audits/Resets
+
+One thing you might do in an engineering project is have regular checks of the equipment.
+
+- You don't use the equipment to check itself.
+- You don't say "Ah this thermometer says its 72 degrees in here, and I know it's 72 degrees (the thermometer says so), so the thermometer is right."
+
+## Audits/Resets
+
+It's actually a little hard to say precisely what's wrong with the reasoning on the previous slide, though it is kind of obviously silly.
+
+But we know that a good practice is to every so often do independent checks of our equipment, even equipment that we otherwise rely on.
+
+Maybe we should do the same with our beliefs. 
+
+Every so often, carefully read views that you think are completely misleading, and see if looking at them fresh they might be on to something.
+
+## For Next Time
+
+After a nice relaxing Thanksgiving, we'll look at the emotional aspects of climate change.
+
+
+
