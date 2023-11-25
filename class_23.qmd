@@ -1,0 +1,286 @@
+---
+title: _Harm_
+subtitle: Philosophy 101 - Class 23
+format:
+  clean-revealjs:
+    self-contained: true
+    theme: 
+      [default, slow_reveal.scss]
+author:
+  - name: Brian Weatherson
+    orcid: 0000-0002-0830-141X
+    email: weath@umich.edu
+    affiliations: University of Michigan
+date: 2023-11-15
+from: markdown+fancy_lists+raw_html
+---
+
+# Background
+
+## Consequentialism and Climate
+
+Consequentialism is the view that morality is about consequences.
+
+Good actions are those that bring about good results.
+
+## Consequentialism and Risk
+
+Problem: We don't know what consequences our actions will have.
+
+Solution: Good actions maximise **expected** value.
+
+If there are a bunch of possible outcomes: $O_1, O_2, \dots$, the expected value is, where *Pr* measures how likely the outcome is, and *V* measures how good it is.
+
+$$
+Pr(O_1)V(O_1) + Pr(O_2)V(O_2) + \dots
+$$
+## Consequentialism and Demandingness
+
+Problem: Standard versions say that only doing the best one can is good, everything else is a bad action.
+
+Solution: Say (as many consequentialists do) that better actions produce better (expected) outcomes.
+
+So Green in Nefsky's example is very good, but she could be better. That sounds fine to me.
+
+## Consequentialism and Groups
+
+Problem: This makes more sense when it concerns harms that *I* might bring about. It does less well with harms that *we* might bring about.
+
+Related problem: It makes sense for actions where there is a very direct cause-effect connection. It does much less well with actions where the consequences are very distant.
+
+That's what today's class is about.
+
+# A Puzzle
+
+## Background
+
+:::{.incremental}
+- 2000 people, including you, have a choice between an easy and a hard way to perform some task.
+- The hard way won't be more effort, but it will take five minutes longer.
+- If 1000 or more people do things the easy way, a village on an island in the Pacific Ocean will be wiped out by floodwater.
+- You are very confident that the vast majority of other people will do things the easy way.
+:::
+
+## iClicker quiz
+
+Does morality require you to do it the hard way?
+
+A.  Yes
+B.  No
+
+## Argument for Yes
+
+It's a whole village, it's five minutes more work, what are we even talking about?
+
+## Argument for No
+
+:::{.incremental}
+- The badness of the action is just due to the badness of its consequences.
+- But it won't in fact have any bad consequences.
+- The village is gone whatever you do, because of all those other people.
+- So there's nothing wrong with doing things the easy way.
+:::
+
+## Response to the No Argument
+
+- Everyone else could say the same thing.
+- So the village gets wiped out, and it's no one's fault.
+
+## Counter-response
+
+:::{.incremental}
+- It's the government's fault.
+- This is a collective action problem, and the government should have solved it by banning doing things the easy way.
+- But individuals should just follow the rules, with perhaps some exceptions.
+:::
+
+# When To Avoid Harm
+
+## Exceptions
+
+There's no law that says you have to rescue children drowning in ponds, but you still should do it.
+
+So we need an exception to the "just follow the law" approach. Two options
+
+1. You shouldn't do something that you can see will harm another, even if it's legal.
+2. You shouldn't do something that will in expectation harm another, even if it's legal.
+
+## Exceptions
+
+- The first is going to mean that we have no climate obligations at all.
+- The second is going to mean that we are obliged to be obsessives about climate.
+
+## Visible Harm
+
+There are two big problems here.
+
+1. The chain of cause and effect between any polluting activity and any climate harm is so long and convoluted that we couldn't possibly trace it.
+2. Even if we could trace it, it might end up that some pollution ends up having a positive effect. Maybe the extra bit of heat changed the path of a hurricane and moved it away from a population center.
+
+## Expected Harm
+
+The problem here is that it rules out so much. It rules out Green taking a drive to go hiking.
+
+- I think the solution here is simply to say that it is better to pollute less.
+- If I give 20% of my income to good charities, and you give 30% of yours, what you're doing is better than what I'm doing.
+- It just seems like a mistake to say that therefore what I'm doing is bad.
+
+# Do We Harm?
+
+## Three Questions
+
+::: {.incremental .highlight-last}
+1. Are our collective polluting activities harming present and future people? Yes of course they are.
+2. Are our individual polluting activities harming present and future people? Much too hard to say.
+3. Are our individual polluting activities probably harming present and future people? Are they reducing the expected value of the world? That's a much more interesting question
+:::
+
+## Collective Harm without Individual Harm
+
+Think back to the 2000 people example.
+
+That's a case where if everyone does the easy thing, we all collectively harm the village.
+
+But no one person even _probably_ harms the village.
+
+## Is Climate Change Like That?
+
+It would be if these two conditions were met?
+
+::: {.incremental .highlight-last}
+1. Climate change harms are step effects, with big jumps between harms.
+2. We know that we are somewhere comfortably between two of the jumps.
+:::
+
+---
+
+![A graph from John Broome about one hypothesis about the relationship between pollution and harm. Note this is not Broome's own view.](images/23/broome.jpeg){height=500}
+
+## Average and Marginal
+
+If you contribute to pollution, or any other collectively harmful thing, we can define two important seeming values.
+
+The **average** harm might be defined as the total harm we collectively do, divided by the number of people contributing to the harm.
+
+The **marginal** harm is the harm we collectively do, minus the harm we would have done if you hadn't contributed.
+
+These can come apart.
+
+## Average and Marginal
+
+Indeed, in the village case they come dramatically apart.
+
+- The average harm is massive; a village is wiped out.
+- The marginal harm is **zero**; it would make no difference if you didn't contribute.
+
+## An Argument
+
+Here is an argument that individuals do not share moral responsibility for harms due to climate change.
+
+1. We're only morally responsible if we know that our marginal harm is high.
+2. We do not know that our marginal harm is high. We know our average harm is high, but that's not the same thing.
+3. Therefore, we're not morally responsible.
+
+## Two Responses
+
+:::{.incremental}
+1. Say that average harms are really the morally significant factor. This is (roughly) what Nefsky ends up saying.
+2. Say that **expected** marginal harms are really the morally significant factor. This is what Broome ends up saying.
+:::
+
+## Expected Marginal Harm
+
+For any pollution level $P$, say $EH(P)$ is our best guess about how much harm that pollution will cause.
+
+- Strictly speaking, we mean the expected value of the amount of harm caused.
+- This could be very different from the actual harm caused.
+- We'll write $H(P)$ for the actual harm caused.
+
+## Expected Marginal Harm
+
+Imagine you're thinking engaging in some polluting activity.
+
+Write $P-high$ for the amount of pollution there will be in total if you do it, and $P-low$ for the amount of pollution there will be if you don't.
+
+## Three Definitions
+
+Average Harm
+
+: $H(P-high)/$(Number of polluters)
+
+Actual Marginal Harm
+
+: $H(P-high) - H(P-low)$
+
+Expected Marginal Harm
+
+: $EH(P-high) - EH(P-low)$
+
+Big question - which of these matters morally?
+
+# What are the Expected Harms
+
+## Harm Jumps
+
+In the village example I gave you, I basically stipulated that those two conditions were met.
+
+1. I said that the harm would come at a tipping point, when 1000 people did the easy/wrong thing.
+2. And I said that we know that we are nowhere near the tipping point.
+
+Is the real world often like that?
+
+## Harm Jumps
+
+The short version is that no of course it isn't.
+
+We have no idea where the jumps will take place.
+
+And everything else is secondary.
+
+## Harm Jumps
+
+If we had all day, I'd go over other ways in which the relationship between pollution and harm might be subject to 'threshold effects'.
+
+That is, cases where the amount is mostly insensitive to how much pollution there is, but jumps dramatically at some point.
+
+There could be, in principle, jumps at any of:
+
+1. Our actions -> pollution levels.
+2. Pollution levels -> climactic effects.
+3. Climatic effects -> harms to humans.
+
+## Air Travel
+
+Let's just do one example, the first, to think about the moral considerations. Here's an argument you might hear sometimes.
+
+1. While planes are very polluting, the big determinant of pollution is whether they fly, not how much they fly.
+2. My flying or not flying to Los Angeles makes no difference to how many planes fly to Los Angeles.
+3. So, my flying or not flying to Los Angeles makes no difference to how much pollution there is.
+
+## Air Travel
+
+The first premise isn't strictly true, the extra weight does make a difference.
+
+But from the expected value perspective, the big thing is that the second premise is false.
+
+For every 200 people per day fewer that fly to LA, Delta will put on one fewer plane.
+
+There are threshold effects here, but every time you cross the threshold, a big thing happens - one fewer plane in the sky.
+
+## Air Travel
+
+Unless you know Delta is nowhere near adding or subtracting a plane from the schedule, the expected change in pollution from your travel plans exactly equals the average pollution per person of flying to Los Angeles.
+
+The same goes for meat eating, and other forms of collective pollution.
+
+## Summary
+
+One argument against individual responsibility for climate change is:
+
+1. Pollution works like the village example; there are big jumps in the activity -> harm relationship.
+2. In those cases, our individual actions don't harm, so we're not responsible for the harm caused.
+
+There are (at least) two responses to this:
+
+1. We should still care about the average harm.
+2. It's only in artificial models like this that we know we aren't harming, and that's morally important.

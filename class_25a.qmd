@@ -1,0 +1,228 @@
+---
+title: _Hope and Fear_
+subtitle: Philosophy 101 - Class 25
+format:
+  clean-revealjs:
+    self-contained: true
+    theme: 
+      [default, slow_reveal.scss]
+author:
+  - name: Brian Weatherson
+    orcid: 0000-0002-0830-141X
+    email: weath@umich.edu
+    affiliations: University of Michigan
+date: 2023-11-28
+from: markdown+fancy_lists+raw_html
+---
+
+# Quick Reprise
+
+## Testimony
+
+Last time we discussed a puzzle about testimonial knowledge.
+
+1. It's good to trust people who are reliable, and distrust people who are unreliable.
+2. It's bad to be in epistemic bubbles, where you agree with everyone around you, and disagree with people outside your bubble.
+3. People aren't magically labeled as reliable or unreliable. To think someone's reliable just is to agree with them a lot.
+
+## Three Kinds of Approaches
+
+We went over these a little in the lecture, and will go over them more next week.
+
+1. Look for red flags.
+2. Pay more attention to people who disagree with you a bit.
+3. Do an audit every so often.
+
+And this isn't meant to be a comprehensive list.
+
+# Emotions
+
+## Three Big Questions
+
+Which emotions are
+
+1) Helpful
+2) Healthy
+3) Fitting/Apt/Appropriate
+
+Let's describe those in a bit more detail
+
+## Helpful
+
+Having, or expression, some emotions might contribute to making the world a better place.
+
+Perhaps if the crowd of protestors shows the government that they are **angry**, the government will change plans and things will be better.
+
+## Healthy
+
+Having (and to a lesser extent expressing) some emotions can contribute to the quality of one's own life.
+
+Sometimes this is fairly direct.
+- Someone who feels a lot of **resentment** is often unhappy.
+
+Sometimes it is more indirect.
+- There is some evidence that for some diseases, patients who are **hopeful** have a higher recovery rate.
+
+## Fitting
+
+There is something right about **fearing** scary things, **admiring** admirable people, being **outraged** at the outrageous, and so on.
+
+And there is something wrong about **fearing** things that aren't scary, **admiring** people who aren't admirable, being **outraged** at things that aren't outrageous, and so on.
+
+Call this 'something' that the emotions are **fitting**.
+
+## Fitting
+
+The important thing is that this is meant to be independent of the consequences of holding the emotion.
+
+Maybe it's not helpful to the world or healthy for you to be outraged by some outrageous thing on the news.
+
+But it might still be fitting, if the thing really is outrageous.
+
+## Metaphysics
+
+Now this raises delicate questions about
+
+- What is it for something to be outrageous? Is it a real property of the thing, or just that a lot of people like us get outraged by it?
+- What is good about attitudes being fitting in this sense, if they aren't helpful or healthy?
+
+For now we'll set those aside, and primarily talk about what's **helpful**.
+
+## Helpful and Fitting
+
+There is a nice example in the paper to remember the difference here. A hiker is lost in perilous conditions, with a low chance of survival.
+
+- The **fitting** attitude is to be very pessimistic about their chances of survival.
+- The **helpful** and arguably **healthy** attitude is to be optimistic, because that will (probably) encourage them taking actions that maximise the chance of their own survival.
+
+# Fear and Hope
+
+## Which is More Helpful?
+
+Imagine two kinds of campaigns around climate change.
+
+1. Fear-based
+2. Hope-based
+
+---
+
+![AI image of wildfire](images/25/fire.jpg)
+
+---
+
+![Photo from Mercury News of waves hitting houses in San Jose](images/25/waves.jpg)
+
+## Fear Based
+
+If we don't do something about climate change
+
+- Fires will be more prevalent
+- Sea levels will rise and storms will be more prevalent
+- Perhaps billions of people will be displaced, leading to political unrest and probably violence
+
+---
+
+![AI image of solar panels](images/25/solar.jpg)
+
+## Hope Based
+
+We know how to fix climate change:
+
+1. Electrify everything
+2. Make electricity carbon-neutral
+
+## Hope Based
+
+The technology for this exists and is getting cheaper every year:
+
+- Solar panels
+- Wind turbines
+- Battery  
+
+Without storage, these are *cheaper* sources of energy than coal or gas; with storage they are pretty competitive.
+
+## Hope Based
+
+And doing this has benefits independent of climate change:
+
+- Less pollution means less disease
+- A more distributed electricity network is more resilient
+- And everyone having solar panels means less need for unsightly, and unsafe, power poles and lines.
+
+## Question
+
+Which kind of campaign is (a) morally preferable, and (b) more likely to be successful?
+
+## iClicker
+
+Which kind of campaign do you find more persuasive
+
+A.  Fear
+B.  Hope
+
+## False Dichotomies
+
+We're going to simplify by talking about these as competing approaches, but that's a real simplification.
+
+Why not both? is a perfectly reasonable answer.
+
+But even then, there's a question of emphasis; what mix of fear and hope do you have.
+
+And it simplifies the discussion to just 
+
+# Fear
+
+## What a Fear Campaign is Like
+
+The plan for today is to talk about what a  
+
+We think 3 might come apart from 1 and 2 in cases where ‘irrational’ optimism is practically useful, again, like hiker cases
+
+
+
+Four features of fear
+
+1. Susceptible
+2. Severe
+3. Effective
+4. Power
+
+Puzzle about efficacy:
+
+- Can you do it, or can we do it?
+
+ Three downsides to fear
+
+1. Fear-mongering
+	a. False belief
+	b. Irrational belief
+	c. Manipulation
+
+2. Forced choice
+	Fear X, so do Y
+	But could make Y disjunctive
+
+3. Counterproductive
+	Fear -> Powerlessness
+	Gotta include efficacy
+
+Hope characteristics
+
+1. Personally Valuable
+2. Better is possible
+3. Effective
+4. Power
+
+Note the last two are the same as fear
+
+Tension
+
+- Hope requires confidence
+- But work requires uncertainty
+
+Hiker example as way out
+Maybe it’s all about attention and salience
+
+Wishful thinking as downside
+
+This is really the original dilemma that she thinks hasn’t gone away	

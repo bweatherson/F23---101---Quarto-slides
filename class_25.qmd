@@ -15,6 +15,26 @@ date: 2023-11-28
 from: markdown+fancy_lists+raw_html
 ---
 
+# Quick Reprise
+
+## Testimony
+
+Last time we discussed a puzzle about testimonial knowledge.
+
+1. It's good to trust people who are reliable, and distrust people who are unreliable.
+2. It's bad to be in epistemic bubbles, where you agree with everyone around you, and disagree with people outside your bubble.
+3. People aren't magically labeled as reliable or unreliable. To think someone's reliable just is to agree with them a lot.
+
+## Three Kinds of Approaches
+
+We went over these a little in the lecture, and will go over them more next week.
+
+1. Look for red flags.
+2. Pay more attention to people who disagree with you a bit.
+3. Do an audit every so often.
+
+And this isn't meant to be a comprehensive list.
+
 # Emotions
 
 ## Three Big Questions
@@ -90,7 +110,7 @@ Imagine two kinds of campaigns around climate change.
 
 ---
 
-![Photo from Mercury News of waves hitting houses in San Jose](images/25/wave.jpg)
+![Photo from Mercury News of waves hitting houses in San Jose](images/25/waves.jpg)
 
 ## Fear Based
 
@@ -148,7 +168,7 @@ Why not both? is a perfectly reasonable answer.
 
 But even then, there's a question of emphasis; what mix of fear and hope do you have.
 
-And it simplifies the discussion to just 
+And it simplifies the discussion to just look at the extremes; hopefully what we say will extend to the more realistic cases.
 
 # Fear
 
@@ -160,17 +180,14 @@ On Thursday we'll go over the responses to those downsides, and then do the same
 
 ## Four features of fear
 
-Susceptible
-:    Something bad might happen to **you**.
-
-Severe
-:    The bad thing will be **very** bad.
-
-Effective
-:    There is something that can prevent the bad thing.
-
-Power
-:    You have the power to do that something
+- Susceptible
+  - Something bad might happen to **you**.
+- Severe
+  -    The bad thing will be **very** bad.
+- Effective
+  -    There is something that can prevent the bad thing.
+- Power
+  -    You have the power to do that something
 
 :::{.notes}
 Don't do this in too much detail - upcoming slides
