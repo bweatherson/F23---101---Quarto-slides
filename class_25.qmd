@@ -154,24 +154,84 @@ And it simplifies the discussion to just
 
 ## What a Fear Campaign is Like
 
-The plan for today is to talk about what a  
+The plan for today is to talk about what features a fear campaign has, and look at three possible downsides.
 
-We think 3 might come apart from 1 and 2 in cases where ‘irrational’ optimism is practically useful, again, like hiker cases
+On Thursday we'll go over the responses to those downsides, and then do the same for hope.
 
+## Four features of fear
 
+Susceptible
+:    Something bad might happen to **you**.
 
-Four features of fear
+Severe
+:    The bad thing will be **very** bad.
 
-1. Susceptible
-2. Severe
-3. Effective
-4. Power
+Effective
+:    There is something that can prevent the bad thing.
 
-Puzzle about efficacy:
+Power
+:    You have the power to do that something
 
-- Can you do it, or can we do it?
+:::{.notes}
+Don't do this in too much detail - upcoming slides
+:::
 
- Three downsides to fear
+## Severe
+
+Two kinds of severe threat.
+
+1. Improbable but extremely harmful.
+2. Moderately harmful and very probable.
+
+It could of course be both. 
+
+## Power
+
+Doing all this in English blurs an important point about power. The following two things are different.
+
+1. There is something that, if we all do it, will blunt the threat.
+2. There is something that you personally can do that will make a noticeable difference to the threat.
+
+Speaking a language that doesn't have a distinctive second-person plural blurs this, especially in the context of public campaigns.
+
+## Climate Change and Health Crises
+
+This is a big difference between climate change and public health campaigns, either about AIDS or Covid.
+
+- In health crises there typically is something that you personally can do.
+- This was especially true during AIDS, when there were very clear ways to reduce (if not eliminate) personal risk.
+- Climate change is obviously not like that.
+
+## Three Downsides to Fear
+
+1. Fear-mongering
+2. Forced choice
+3. Counterproductive
+
+We'll say a bit more about each of these, then go over them in more detail next time.
+
+## Fear-Mongering
+
+Fear campaigns can produce
+
+1. False beliefs, as arguably happens with campaigns about crime.
+2. Irrational beliefs, as maybe happened during AIDS.
+3. Manipulated beliefs, when people are tricked into believing what they arguably should belief.
+
+## Forced Choice
+
+A fear campaign can be undemocratic, making people feel they don't have a choice.
+
+## Counterproductive
+
+A fear campaign can make people resigned, thinking it is too late to do anything about the problem.
+
+## For Next Time
+
+We'll go over these in more detail, and compare them to using hope as a central strategy.
+
+:::{.notes}
+  
 
 1. Fear-mongering
 	a. False belief
@@ -206,3 +266,4 @@ Maybe it’s all about attention and salience
 Wishful thinking as downside
 
 This is really the original dilemma that she thinks hasn’t gone away	
+:::
